@@ -1,0 +1,146 @@
+.head {
+  display: grid;
+  justify-items: start;
+  gap: 20px;
+  max-width: 760px;
+  margin-bottom: 48px;
+}
+.intro {
+  max-width: 440px;
+  font-size: 15.5px;
+  line-height: 1.75;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 48px;
+  align-items: start;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+}
+
+.item {
+  border-bottom: 1px solid var(--border);
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  width: 100%;
+  padding: 22px 0;
+  font: inherit;
+  font-size: 19px;
+  font-weight: 500;
+  color: var(--ink);
+  text-align: left;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.toggle:hover {
+  color: var(--brand);
+}
+
+.icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: var(--ink);
+  background: var(--light);
+  transition: transform 0.35s var(--ease-out), background-color 0.3s, color 0.3s;
+}
+.open .icon {
+  color: #fff;
+  background: var(--deep);
+  transform: rotate(45deg);
+}
+
+/* grid-rows trick: animates the height open */
+.panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.45s var(--ease-out);
+}
+.open .panel {
+  grid-template-rows: 1fr;
+}
+.panelInner {
+  display: grid;
+  justify-items: start;
+  gap: 14px;
+  min-height: 0;
+  overflow: hidden;
+}
+.open .panelInner {
+  padding-bottom: 24px;
+}
+.text {
+  max-width: 520px;
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+.media {
+  position: sticky;
+  top: calc(var(--header-h) + 24px);
+  aspect-ratio: 1 / 0.95;
+  overflow: hidden;
+  border-radius: 20px;
+  background: var(--deep);
+}
+.media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 55%, rgb(11 36 104 / 0.7));
+}
+.image {
+  object-fit: cover;
+  opacity: 0;
+  transform: scale(1.06);
+  transition: opacity 0.6s, transform 1.2s var(--ease-out);
+}
+.shown {
+  opacity: 1;
+  transform: none;
+}
+.caption {
+  position: absolute;
+  left: 24px;
+  bottom: 22px;
+  z-index: 1;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--deep);
+  background: rgb(255 255 255 / 0.92);
+  border-radius: 30px;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+  .media {
+    position: relative;
+    top: 0;
+    order: -1;
+    aspect-ratio: 16 / 10;
+  }
+  .toggle {
+    font-size: 17px;
+    padding: 18px 0;
+  }
+}

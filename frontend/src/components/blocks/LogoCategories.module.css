@@ -1,0 +1,120 @@
+.wrap {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+/* Pill tabs */
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 32px;
+}
+
+.tab {
+  font: inherit;
+  font-size: 13.5px;
+  font-weight: 600;
+  padding: 10px 18px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-strong);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background-color 0.25s, color 0.25s, border-color 0.25s;
+}
+
+.tab:hover {
+  color: var(--text);
+  border-color: var(--text);
+}
+
+.tab[aria-selected="true"] {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--bg);
+}
+
+/* White logo tiles */
+.tiles {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.tile {
+  height: 100%;
+  min-height: 118px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 18px 12px;
+  background: #fff;
+  border-radius: 12px;
+  color: #111;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+}
+
+.logo {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+}
+
+.link {
+  transition: transform 0.3s var(--ease-out), box-shadow 0.3s;
+}
+
+.link:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 32px rgb(17 99 251 / 0.35);
+}
+
+@keyframes tile-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 14px, 0) scale(0.96);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .tiles li {
+    animation: tile-in 0.5s var(--ease-out) backwards;
+    animation-delay: calc(var(--i) * 30ms);
+  }
+  .logo {
+    transition: transform 0.35s var(--ease-out);
+  }
+  .link:hover .logo {
+    transform: scale(1.1) rotate(-6deg);
+  }
+}
+
+@media (max-width: 560px) {
+  .tiles {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .tile {
+    min-height: 96px;
+    font-size: 12px;
+  }
+  .tabs {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 6px;
+  }
+  .tab {
+    white-space: nowrap;
+  }
+}

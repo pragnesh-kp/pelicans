@@ -1,0 +1,54 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": [
+        "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js",
+        "--prefix",
+        "backend",
+        "run",
+        "dev"
+      ],
+      "port": 5000,
+      "autoPort": false
+    },
+    {
+      "name": "frontend",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": [
+        "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js",
+        "--prefix",
+        "frontend",
+        "run",
+        "dev"
+      ],
+      "port": 3000
+    },
+    {
+      "name": "frontend-multiqos",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": [
+        "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js",
+        "--prefix",
+        "frontend-multiqos",
+        "run",
+        "dev"
+      ],
+      "port": 3001
+    },
+    {
+      "name": "frontend-metizsoft",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": [
+        "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js",
+        "--prefix",
+        "frontend-metizsoft",
+        "run",
+        "dev"
+      ],
+      "port": 3002
+    }
+  ]
+}

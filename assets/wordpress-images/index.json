@@ -1,0 +1,5047 @@
+[
+ {
+  "file": "icons/2025-11-pelicans-web-logo-dark.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/11/pelicans-web-logo-dark.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-ai-ml.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ai-ml.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-custom-software.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/custom-software.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-ecommerce.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ecommerce.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-web-development.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/web-development.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-mobile-app.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mobile-app.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-blockchain.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/blockchain.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-micro-soft.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/micro-soft.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-data-engineering.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/data-engineering.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-iot.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/IoT.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-chatbot.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/chatbot.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-devops.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/devops.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-ui-ux.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ui-ux.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-10-drupal.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/10/drupal.svg",
+  "alt": "Drupal",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/drupal.svg"
+ },
+ {
+  "file": "technologies/2024-12-nodejs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/nodejs.svg",
+  "alt": "Node JS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/nodejs.svg"
+ },
+ {
+  "file": "technologies/2024-12-javalogo-3.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/javalogo-3.svg",
+  "alt": "Java",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/java.svg"
+ },
+ {
+  "file": "technologies/2024-12-laravel1-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/laravel1-2.svg",
+  "alt": "Laravel",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/laravel.svg"
+ },
+ {
+  "file": "technologies/2024-12-python-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/python-2.svg",
+  "alt": "Python",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/python.svg"
+ },
+ {
+  "file": "technologies/2024-12-dotnet.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/dotnet.svg",
+  "alt": "dotnet / .Net",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/dotnet.svg"
+ },
+ {
+  "file": "technologies/2024-12-rubyonrails-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/rubyonrails-1.svg",
+  "alt": "Ruby on Rails",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/ruby-on-rails.svg"
+ },
+ {
+  "file": "icons/2025-02-fullstack-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/fullstack-1.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-angular.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/angular.svg",
+  "alt": "Angular JS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/angular.svg"
+ },
+ {
+  "file": "icons/2024-12-reactjs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/reactjs.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-vuejs-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/vuejs-1.svg",
+  "alt": "Vue JS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/vuejs.svg"
+ },
+ {
+  "file": "technologies/2024-12-nextjs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/nextjs.svg",
+  "alt": "Next JS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/nextjs.svg"
+ },
+ {
+  "file": "technologies/2024-12-ios.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/ios.svg",
+  "alt": "iOS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/ios.svg"
+ },
+ {
+  "file": "technologies/2024-12-android-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/android-1.svg",
+  "alt": "Android",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/android.svg"
+ },
+ {
+  "file": "technologies/2024-12-flutter-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/flutter-1.svg",
+  "alt": "Flutter",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/flutter.svg"
+ },
+ {
+  "file": "technologies/2024-12-react-native.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/react-native.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/react-native.svg"
+ },
+ {
+  "file": "technologies/2024-12-unity3d.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/unity3d.svg",
+  "alt": "Unity 3D",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/unity.svg"
+ },
+ {
+  "file": "technologies/2024-12-shopify.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/shopify.svg",
+  "alt": " ",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/shopify.svg"
+ },
+ {
+  "file": "technologies/2024-12-woocommerce.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/woocommerce.svg",
+  "alt": " ",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/woocommerce.svg"
+ },
+ {
+  "file": "technologies/2024-12-magento-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/magento-1.svg",
+  "alt": " ",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/magento.svg"
+ },
+ {
+  "file": "technologies/2024-12-wordpress.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/wordpress.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/wordpress.svg"
+ },
+ {
+  "file": "icons/2025-02-uiux.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/uiux.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-odoo-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/odoo-2.svg",
+  "alt": " ",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-magento.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/magento.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-webflow.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/webflow.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/webflow.svg"
+ },
+ {
+  "file": "technologies/2024-12-googlecloud.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/googlecloud.svg",
+  "alt": "Google Cloud",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/google-cloud.svg"
+ },
+ {
+  "file": "technologies/2024-12-azure.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/azure.svg",
+  "alt": "Azure",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/azure.svg"
+ },
+ {
+  "file": "technologies/2024-12-aws-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/aws-2.svg",
+  "alt": "AWS",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/technologies/aws.svg"
+ },
+ {
+  "file": "technologies/2024-12-powerbi.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/powerbi.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "testimonials/2026-04-non-profit-organization-36x36.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2026/04/non-profit-organization-36x36.png",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-education.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/education.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-fintech.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/fintech.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-healthcare.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/healthcare.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-ai-solutions.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ai-solutions.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-logistic.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/logistic.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-manufacturing.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/manufacturing.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-food-restaurant-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/food-restaurant-1.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-real-estate.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/real-estate.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-oil-gas.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/oil-gas.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-travel-hospitality.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/travel-hospitality.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-aboutus.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/aboutus.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-engagement-model.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/engagement-model.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-clients.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/clients.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-testimonial.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/testimonial.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-process.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/process.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-blogs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/blogs.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "icons/2025-11-pelicans-web-logo-light.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/11/pelicans-web-logo-light.svg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "clients/2025-02-exotic-flora-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/exotic-flora-logo.png",
+  "alt": "Exotic Flora",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/exotic-flora.png"
+ },
+ {
+  "file": "clients/2025-02-waterboxlogo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/waterboxlogo.png",
+  "alt": "WaterBox",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/waterbox.png"
+ },
+ {
+  "file": "clients/2024-12-blackberrys-logo-1.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/blackberrys-logo-1.png",
+  "alt": "Blackberrys",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/blackberrys.png"
+ },
+ {
+  "file": "clients/2024-12-neemans-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/neemans-logo.png",
+  "alt": "Neemans",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/neemans.png"
+ },
+ {
+  "file": "clients/2024-12-glen-logo-1.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/glen-logo-1.png",
+  "alt": "GLEN",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/glen.png"
+ },
+ {
+  "file": "clients/2024-12-chumbak-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/chumbak-logo.png",
+  "alt": "Chumbak",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/chumbak.png"
+ },
+ {
+  "file": "clients/2024-12-arthotel-logo-1.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/arthotel-logo-1.png",
+  "alt": "THE ART HOTEL",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 79,
+  "website": "frontend/public/images/clients/the-art-hotel.png"
+ },
+ {
+  "file": "clients/2024-12-nivose-logo-1.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/nivose-logo-1.png",
+  "alt": "Nivose",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 79,
+  "website": "frontend/public/images/clients/nivose.png"
+ },
+ {
+  "file": "clients/2024-12-atoddlerthing-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/atoddlerthing-logo.png",
+  "alt": "Toddler Thing",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/a-toddler-thing.png"
+ },
+ {
+  "file": "clients/2024-12-slay-logo-2.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/slay-logo-2.png",
+  "alt": "SLAY COFFEE",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 79,
+  "website": "frontend/public/images/clients/slay-coffee.png"
+ },
+ {
+  "file": "clients/2024-12-crozzo-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/crozzo-logo.png",
+  "alt": "CROZZO",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/crozzo.png"
+ },
+ {
+  "file": "clients/2024-12-motomoney-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/motomoney-logo.png",
+  "alt": "Motomoney",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/motomoney.png"
+ },
+ {
+  "file": "clients/2024-12-quike-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/quike-logo.png",
+  "alt": "QUIKe",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/quike.png"
+ },
+ {
+  "file": "clients/2024-12-spc1-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/spc1-logo.png",
+  "alt": "SPC",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/spc.png"
+ },
+ {
+  "file": "clients/2024-12-thecruise-logo.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/thecruise-logo.png",
+  "alt": "Cruise Holidays",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/cruise-holidays.png"
+ },
+ {
+  "file": "clients/2024-12-houseofjewels-logo-3.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/houseofjewels-logo-3.png",
+  "alt": "HOUSE OF JEWELS",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 78,
+  "website": "frontend/public/images/clients/house-of-jewels.png"
+ },
+ {
+  "file": "technologies/2025-01-mobile-app-development-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/mobile-app-development-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-web-development-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/web-development-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-ai-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ai-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-data-engineering-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/data-engineering-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-ecommerce-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ecommerce-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-custom-software-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/custom-software-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-iot-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/IoT-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-ui-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ui-services.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-art.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/art.jpg",
+  "alt": "Art Hotel &#8211; Hotel Booking Website",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/chatbot/",
+   "/services/devops/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 46,
+  "website": "frontend/public/images/projects/art-hotel.jpg"
+ },
+ {
+  "file": "projects/covers/2025-02-nivose.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose.jpg",
+  "alt": "Nivose France &#8211; Online Store",
+  "usedOn": [
+   "/",
+   "/services/ui-ux/",
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/"
+  ],
+  "pageCount": 43,
+  "website": "frontend/public/images/projects/nivose-france.jpg"
+ },
+ {
+  "file": "projects/covers/2025-02-slay-coffee.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-coffee.jpg",
+  "alt": "Slay Coffee &#8211; Online Store",
+  "usedOn": [
+   "/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/microsoft-services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 49,
+  "website": "frontend/public/images/projects/slay-coffee.jpg"
+ },
+ {
+  "file": "other/2024-11-image-81-1-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/image-81-1-1.jpg",
+  "alt": "Recruitment CRM",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2024-11-image-83.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/image-83.jpg",
+  "alt": "Recruitment Compliance",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2024-11-image-82.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/image-82.jpg",
+  "alt": "Recruitment Training",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-tensorflow.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/tensorflow.svg",
+  "alt": "TensorFlow",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/python/"
+  ],
+  "pageCount": 4,
+  "website": "frontend/public/images/technologies/tensorflow.svg"
+ },
+ {
+  "file": "technologies/2024-12-pytorch.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/pytorch.svg",
+  "alt": "PyTorch",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/python/"
+  ],
+  "pageCount": 4,
+  "website": "frontend/public/images/technologies/pytorch.svg"
+ },
+ {
+  "file": "technologies/2025-02-lang-chain.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/lang-chain.svg",
+  "alt": "LangChain",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 3,
+  "website": "frontend/public/images/technologies/langchain.svg"
+ },
+ {
+  "file": "technologies/2025-02-open-ai.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/open-ai.svg",
+  "alt": "Open AI",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 3,
+  "website": "frontend/public/images/technologies/openai.svg"
+ },
+ {
+  "file": "technologies/2024-12-open-cv-logo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/open-cv-logo.svg",
+  "alt": "Open CV",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/python/"
+  ],
+  "pageCount": 4,
+  "website": "frontend/public/images/technologies/opencv.svg"
+ },
+ {
+  "file": "technologies/2025-02-keras.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/keras.svg",
+  "alt": "Keras",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 3,
+  "website": "frontend/public/images/technologies/keras.svg"
+ },
+ {
+  "file": "technologies/2024-12-reactjs-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/reactjs-2.svg",
+  "alt": "React JS",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 12,
+  "website": "frontend/public/images/technologies/react.svg"
+ },
+ {
+  "file": "technologies/2025-02-bitcoin.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/bitcoin.svg",
+  "alt": "Bitcoin",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ethereum.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ethereum.svg",
+  "alt": "Ethereum",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-avalanche.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/avalanche.svg",
+  "alt": "Avalanche",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-hyperledger-fabric.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/hyperledger-fabric.svg",
+  "alt": "Hyperledger",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-solana.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/solana.svg",
+  "alt": "Solana",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-tezos.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/tezos.svg",
+  "alt": "Tezos",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-power-automate.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/power-automate.svg",
+  "alt": "Power Automate",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-power-apps.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/power-apps.svg",
+  "alt": "Power Apps",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-dynamics-365.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/dynamics-365.svg",
+  "alt": "Dynamics 365",
+  "usedOn": [
+   "/",
+   "/services/microsoft-services/",
+   "/power-bi/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-docker.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/docker.svg",
+  "alt": "Docker",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/"
+  ],
+  "pageCount": 10,
+  "website": "frontend/public/images/technologies/docker.svg"
+ },
+ {
+  "file": "technologies/2025-02-kubernets.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/kubernets.svg",
+  "alt": "Kubernets",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/"
+  ],
+  "pageCount": 10,
+  "website": "frontend/public/images/technologies/kubernetes.svg"
+ },
+ {
+  "file": "technologies/2025-02-openshift.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/openshift.svg",
+  "alt": "Openshift",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/"
+  ],
+  "pageCount": 9,
+  "website": "frontend/public/images/technologies/openshift.svg"
+ },
+ {
+  "file": "technologies/2025-02-mesos.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mesos.svg",
+  "alt": "Mesos",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/"
+  ],
+  "pageCount": 9,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-teraaform.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/teraaform.svg",
+  "alt": "Teraaform",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/"
+  ],
+  "pageCount": 9,
+  "website": "frontend/public/images/technologies/terraform.svg"
+ },
+ {
+  "file": "technologies/2024-12-mysql-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/mysql-1.svg",
+  "alt": "MySQL",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/",
+   "/services/iot/"
+  ],
+  "pageCount": 7,
+  "website": "frontend/public/images/technologies/mysql.svg"
+ },
+ {
+  "file": "technologies/2024-12-mssql.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/mssql.svg",
+  "alt": "MS SQL",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/",
+   "/services/iot/"
+  ],
+  "pageCount": 6,
+  "website": "frontend/public/images/technologies/mssql.svg"
+ },
+ {
+  "file": "technologies/2024-12-postgresql.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/PostgreSQL.svg",
+  "alt": "PostgreSQL",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/",
+   "/services/iot/"
+  ],
+  "pageCount": 6,
+  "website": "frontend/public/images/technologies/postgresql.svg"
+ },
+ {
+  "file": "technologies/2024-12-firebase.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/firebase.svg",
+  "alt": "Firebase",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/",
+   "/services/iot/"
+  ],
+  "pageCount": 15,
+  "website": "frontend/public/images/technologies/firebase.svg"
+ },
+ {
+  "file": "technologies/2024-12-mongodb.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/mongodb.svg",
+  "alt": "Mongo DB",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/web-development/",
+   "/services/iot/"
+  ],
+  "pageCount": 11,
+  "website": "frontend/public/images/technologies/mongodb.svg"
+ },
+ {
+  "file": "technologies/2025-01-figma.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/figma.svg",
+  "alt": "Figma",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ui-ux/",
+   "/portfolio/nivose-france-online-store/",
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 5,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-photoshop.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/photoshop.svg",
+  "alt": "Photoshop",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-illustrator.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/illustrator.svg",
+  "alt": "Illustrator",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-fixed-price.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/fixed-price.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-time-material.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/time-material.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-01-dedicated.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/dedicated.svg",
+  "alt": " ",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "industries/2024-12-healthcare-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/healthcare-1.jpg",
+  "alt": "Healthcare ",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/healthcare.jpg"
+ },
+ {
+  "file": "industries/2024-12-ecommerce.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/ecommerce.jpg",
+  "alt": "E-commerce",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/e-commerce.jpg"
+ },
+ {
+  "file": "industries/2024-12-oil-gas.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/oil-gas.jpg",
+  "alt": "Oil &amp; Gas",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/oil-gas.jpg"
+ },
+ {
+  "file": "industries/2024-12-food-restaurant-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/food-restaurant-2.jpg",
+  "alt": "Food &#038; Restaurant",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/food-restaurant.jpg"
+ },
+ {
+  "file": "industries/2024-12-travel.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/travel.jpg",
+  "alt": "Travel &amp; Hospitality",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/travel-hospitality.jpg"
+ },
+ {
+  "file": "industries/2024-12-fintech.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/fintech.jpg",
+  "alt": "FinTech",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/fintech.jpg"
+ },
+ {
+  "file": "industries/2026-04-hero-image.webp",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2026/04/hero-image.webp",
+  "alt": "AI Solutions",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 51,
+  "website": "frontend/public/images/industries/ai-solutions.webp"
+ },
+ {
+  "file": "industries/2024-12-manufacturing.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/manufacturing.jpg",
+  "alt": "Manufacturing",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/manufacturing.jpg"
+ },
+ {
+  "file": "industries/2024-12-real-estate-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/real-estate-3.jpg",
+  "alt": "Real Estate",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 52,
+  "website": "frontend/public/images/industries/real-estate.jpg"
+ },
+ {
+  "file": "industries/2024-12-logistics-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/logistics-1.jpg",
+  "alt": "Logistics",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 51,
+  "website": "frontend/public/images/industries/logistics.jpg"
+ },
+ {
+  "file": "blog/2025-03-showing-cart-trolley-shopping-online-sign-graphic_53876-133967.avif",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.avif",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 37,
+  "website": null
+ },
+ {
+  "file": "services/2025-01-ecommerce.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ecommerce.jpg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 38,
+  "website": "frontend/public/images/services/e-commerce.jpg"
+ },
+ {
+  "file": "projects/covers/2025-01-mobile-app-development-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/mobile-app-development-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 38,
+  "website": "frontend/public/images/services/mobile-app-development.jpg"
+ },
+ {
+  "file": "flags/2024-11-uk-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/uk-icon.svg",
+  "alt": "Priyal Shah, Cruise Holidays",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/flags/uk.svg"
+ },
+ {
+  "file": "testimonials/2025-03-priyal-image.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/priyal-image.jpg",
+  "alt": "Priyal Shah, Cruise Holidays",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/testimonials/priyal-shah.jpg"
+ },
+ {
+  "file": "flags/2025-03-nigeria-flag.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/nigeria-flag.svg",
+  "alt": "Kolade Ojebiyi, Dreamspaces Group",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/flags/nigeria.svg"
+ },
+ {
+  "file": "testimonials/2025-03-kolade.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/kolade.jpg",
+  "alt": "Kolade Ojebiyi, Dreamspaces Group",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/testimonials/kolade-ojebiyi.jpg"
+ },
+ {
+  "file": "testimonials/2025-02-france.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/france.png",
+  "alt": "Sophia R., CEO, HealthCare",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/flags/france.png"
+ },
+ {
+  "file": "testimonials/2025-02-face-9.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Face-9.jpeg",
+  "alt": "Sophia R., CEO, HealthCare",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/testimonials/sophia-r.jpg"
+ },
+ {
+  "file": "testimonials/2024-12-canada.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/canada.png",
+  "alt": "Michael D, Product Manager, Retail",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": null
+ },
+ {
+  "file": "testimonials/2024-12-face-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/Face-3.jpeg",
+  "alt": "Michael D, Product Manager, Retail",
+  "usedOn": [
+   "/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/"
+  ],
+  "pageCount": 70,
+  "website": "frontend/public/images/testimonials/michael-d.jpg"
+ },
+ {
+  "file": "technologies/2025-08-clutch-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/08/clutch-icon.svg",
+  "alt": "clutch-icon",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-08-goodfirms.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/08/goodfirms.svg",
+  "alt": "goodfirms",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-08-designrush.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/08/designrush.svg",
+  "alt": "designrush",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-08-techbehemoths.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/08/techbehemoths.svg",
+  "alt": "techbehemoths",
+  "usedOn": [
+   "/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "flags/2024-11-india-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/india-icon.svg",
+  "alt": "India (HQ)",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/flags/india.svg"
+ },
+ {
+  "file": "flags/2024-11-usa-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/usa-icon.svg",
+  "alt": "USA",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/flags/usa.svg"
+ },
+ {
+  "file": "flags/2024-11-newzealand-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/newzealand-icon.svg",
+  "alt": "New Zealand",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/flags/new-zealand.svg"
+ },
+ {
+  "file": "flags/2025-02-canada-flag.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/canada-flag.svg",
+  "alt": "Canada",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": "frontend/public/images/flags/canada.svg"
+ },
+ {
+  "file": "technologies/envelope-regular.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/envelope-regular.svg",
+  "alt": "Email",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/phone-solid.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/phone-solid.svg",
+  "alt": "Phone",
+  "usedOn": [
+   "/",
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/"
+  ],
+  "pageCount": 124,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-chatgpt.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/chatgpt.svg",
+  "alt": "ChatGPT",
+  "usedOn": [
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-gemini.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/gemini.svg",
+  "alt": "Gemini",
+  "usedOn": [
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-claude.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/claude.svg",
+  "alt": "Claude",
+  "usedOn": [
+   "/services/",
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-01-ai-ml.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ai-ml.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/ai-ml-development/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 3,
+  "website": "frontend/public/images/services/ai-ml-development.jpg"
+ },
+ {
+  "file": "icons/2024-12-laravel1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/laravel1.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-javalogo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/javalogo.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/hire-java-developers/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-01-custom-software-development.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/custom-software-development.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/custom-software/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/custom-software.jpg"
+ },
+ {
+  "file": "icons/2024-12-odoo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/odoo.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/hire-developers/",
+   "/technologies/",
+   "/odoo/"
+  ],
+  "pageCount": 4,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-reactjs-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/reactjs-1.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/react-native/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-laravel1-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/laravel1-1.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-dot1net-logo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/dot1net-logo.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "services/2025-01-web-development-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/web-development-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/web-development/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/web-development.jpg"
+ },
+ {
+  "file": "technologies/2025-02-solidity.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/solidity.svg",
+  "alt": "Solidity",
+  "usedOn": [
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-rust.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/rust.svg",
+  "alt": "Rust",
+  "usedOn": [
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-vyper.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/vyper.svg",
+  "alt": "Vyper",
+  "usedOn": [
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-webassembly.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/webassembly.svg",
+  "alt": "Web Assembly",
+  "usedOn": [
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-block-chain.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/block-chain.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/blockchain/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/blockchain.jpg"
+ },
+ {
+  "file": "technologies/2025-02-dot-net-core.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/dot-net-core.svg",
+  "alt": "Dot Net Core",
+  "usedOn": [
+   "/services/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-dot-net-mvc.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/dot-net-mvc.svg",
+  "alt": "Dot Net MVC",
+  "usedOn": [
+   "/services/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-asp-dot-net.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/asp-dot-net.svg",
+  "alt": "ASP Dot Net",
+  "usedOn": [
+   "/services/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-microsoft.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/microsoft.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/"
+  ],
+  "pageCount": 1,
+  "website": "frontend/public/images/services/microsoft-services.jpg"
+ },
+ {
+  "file": "technologies/2025-02-apache-spark.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/apache-spark.svg",
+  "alt": "Apache Spark",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/",
+   "/services/iot/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-snowflake.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/snowflake.svg",
+  "alt": "Snowflake",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-google-bigquery.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/google-bigquery.svg",
+  "alt": "Google BigQuery",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-kafka.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/kafka.svg",
+  "alt": "Apacha Kafka",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-hadoop.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/hadoop.svg",
+  "alt": "Apache Hadoop",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/",
+   "/services/iot/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-amazon-redshift.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/amazon-redshift.svg",
+  "alt": "Amazon Redshift",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-data-engineering.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/data-engineering.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/data-engineering.jpg"
+ },
+ {
+  "file": "technologies/2025-02-aws-iot.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/aws-iot.svg",
+  "alt": "AWS IoT",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-azure-iot.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/azure-iot.svg",
+  "alt": "Azure IoT Hub",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-nfc.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nfc.svg",
+  "alt": "NFC",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-arduino.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/arduino.svg",
+  "alt": "Arduino",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-beacon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/beacon.svg",
+  "alt": "Beacon",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-wifi.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/wifi.svg",
+  "alt": "WiFi",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-iot.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/iot.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/iot.jpg"
+ },
+ {
+  "file": "technologies/2025-02-dialogflow.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/dialogflow.svg",
+  "alt": "Dialogflow",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ms-bot-framework.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ms-bot-framework.svg",
+  "alt": "MS Bot Framework",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-rasa.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/rasa.svg",
+  "alt": "Rasa",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ibm-watson.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ibm-watson.svg",
+  "alt": "IBM Watson",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-botpress.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/botpress.svg",
+  "alt": "Botpress",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-botsify.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/botsify.svg",
+  "alt": "Botsify",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-chatbot.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/chatbot.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/chatbot/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/chatbot.jpg"
+ },
+ {
+  "file": "icons/2024-12-aws.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/aws.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "services/2025-02-devops.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/devops.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/devops/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/devops.jpg"
+ },
+ {
+  "file": "technologies/2025-02-balsamiq.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/balsamiq.svg",
+  "alt": "Balsamiq",
+  "usedOn": [
+   "/services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-axure.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/axure.svg",
+  "alt": "Axure RP",
+  "usedOn": [
+   "/services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "services/2025-01-ui-ux-design.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/ui-ux-design.jpg",
+  "alt": "",
+  "usedOn": [
+   "/services/",
+   "/services/ui-ux/"
+  ],
+  "pageCount": 2,
+  "website": "frontend/public/images/services/ui-ux.jpg"
+ },
+ {
+  "file": "other/2025-03-mid-page-img.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/mid-page-img.png",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 37,
+  "website": null
+ },
+ {
+  "file": "technologies/arrow-down.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/arrow-down.svg",
+  "alt": "arrow-icon",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/blockchain/",
+   "/services/microsoft-services/",
+   "/services/data-engineering/",
+   "/services/iot/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-nltk.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nltk.svg",
+  "alt": "NLTK",
+  "usedOn": [
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-spacy.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/spacy.svg",
+  "alt": "Spacy",
+  "usedOn": [
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-gensim.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/gensim.svg",
+  "alt": "Gensim",
+  "usedOn": [
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-02-huggingface.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/huggingface.svg",
+  "alt": "Huggingface",
+  "usedOn": [
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-scikitlearn.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/scikitlearn.svg",
+  "alt": "Scikit Learn",
+  "usedOn": [
+   "/services/ai-ml-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-hourly-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/hourly-icon.svg",
+  "alt": " ",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-hire-developer-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/hire-developer-icon.svg",
+  "alt": " ",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-hire-team-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/hire-team-icon.svg",
+  "alt": " ",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-idea-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/idea-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-design-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/design-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-development-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/development-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-testing-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/testing-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-wireframing-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/wireframing-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-maintenance-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/maintenance-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-ai-rental-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ai-rental-main.jpg",
+  "alt": "AI Apartment Rental Marketplace",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/mobile-app-development/",
+   "/services/blockchain/",
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 25,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-blackberrys-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/blackberrys-main.jpg",
+  "alt": "Blackberrys &#8211; Online Clothing Store",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/chatbot/",
+   "/laravel/"
+  ],
+  "pageCount": 14,
+  "website": null
+ },
+ {
+  "file": "industries/2024-12-education-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/education-1.jpg",
+  "alt": "Education",
+  "usedOn": [
+   "/services/ai-ml-development/",
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/"
+  ],
+  "pageCount": 50,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-chumbakmain.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/chumbakmain.jpg",
+  "alt": "Chumbak &#8211; Online Store",
+  "usedOn": [
+   "/services/custom-software/",
+   "/services/e-commerce/",
+   "/services/web-development/",
+   "/services/mobile-app-development/",
+   "/angular-js/"
+  ],
+  "pageCount": 15,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-arthotel-mobile-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/arthotel-mobile-main.jpg",
+  "alt": "Art Hotel &#8211; Mobile App",
+  "usedOn": [
+   "/services/custom-software/",
+   "/services/mobile-app-development/",
+   "/services/blockchain/",
+   "/services/microsoft-services/",
+   "/services/data-engineering/"
+  ],
+  "pageCount": 20,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-truffle.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/truffle.svg",
+  "alt": "Truffle",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-hardhat.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/hardhat.svg",
+  "alt": "Hardhat",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-brownie.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/brownie.svg",
+  "alt": "Brownie",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-embark.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/embark.svg",
+  "alt": "Embark",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-waffle.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/waffle.svg",
+  "alt": "Waffle",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-openzepplin.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/openzepplin.svg",
+  "alt": "Open Zepplin",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-amazon-managed-blockchain.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/amazon-managed-blockchain.svg",
+  "alt": "Amazon Managed Blockchain",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ibm-blockchain.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ibm-blockchain.svg",
+  "alt": "IBM Blockchain",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-oracle-blockchain.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/oracle-blockchain.svg",
+  "alt": "Oracle Blockchain",
+  "usedOn": [
+   "/services/blockchain/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ms-powerbi.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ms-powerbi.svg",
+  "alt": "MS PowerBI",
+  "usedOn": [
+   "/services/microsoft-services/",
+   "/power-bi/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-umbraco.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/umbraco.svg",
+  "alt": "Umbraco",
+  "usedOn": [
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-kentico.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/kentico.svg",
+  "alt": "Kentico",
+  "usedOn": [
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-azure-ai.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/azure-ai.svg",
+  "alt": "Azure AI",
+  "usedOn": [
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-azure-cognitive-services.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/azure-cognitive-services.svg",
+  "alt": "Azure Cognitive Services",
+  "usedOn": [
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-azure-machine-learning.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/azure-machine-learning.svg",
+  "alt": "Azure ML",
+  "usedOn": [
+   "/services/microsoft-services/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-amazon-kinesis.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/amazon-kinesis.svg",
+  "alt": "Amazon Kinesis",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-talend.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/talend.svg",
+  "alt": "Talend",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-google-pub-sub.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/google-pub-sub.svg",
+  "alt": "Google Pub/Sub",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-informatica-power-center.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/informatica-power-center.svg",
+  "alt": "PowerCenter",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-apache-nifi.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/apache-NiFi.svg",
+  "alt": "Apache NiFi",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-pentaho.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/pentaho.svg",
+  "alt": "Pentaho",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ibm-datastorage.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ibm-datastorage.svg",
+  "alt": "IBM Datastage",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-oracle-data-integrator.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/oracle-data-integrator.svg",
+  "alt": "Data Integrator",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-teradata.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/teradata.svg",
+  "alt": "Teradata",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-elasticsearch.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/elasticsearch.svg",
+  "alt": "Elasticsearch",
+  "usedOn": [
+   "/services/data-engineering/",
+   "/services/iot/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-tableau.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/tableau.svg",
+  "alt": "Tableau",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-qlikview.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/qlikview.svg",
+  "alt": "QlikView",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-apachecamel.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/apachecamel.svg",
+  "alt": "Apache Camel",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-jitterbit.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/jitterbit.svg",
+  "alt": "Jitterbit",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-mulesoft.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mulesoft.svg",
+  "alt": "MuleSoft",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-aws-data-migration.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/aws-data-migration.svg",
+  "alt": "AWS Data Migration Service",
+  "usedOn": [
+   "/services/data-engineering/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-glen-india-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/glen-india-main.jpg",
+  "alt": "Glen India &#8211; Online Store",
+  "usedOn": [
+   "/services/data-engineering/",
+   "/python/",
+   "/portfolio/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-5g.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/5g.svg",
+  "alt": "5G",
+  "usedOn": [
+   "/services/iot/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-bluetooth.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/bluetooth.svg",
+  "alt": "Bluetooth",
+  "usedOn": [
+   "/services/iot/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-manychat.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/manychat.svg",
+  "alt": "ManyChat",
+  "usedOn": [
+   "/services/chatbot/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-mobile-monkey.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mobile-monkey.svg",
+  "alt": "Mobile Monkey",
+  "usedOn": [
+   "/services/chatbot/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-exotic-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/exotic-main.jpg",
+  "alt": "Exotic Flora &#8211; Online Store",
+  "usedOn": [
+   "/services/chatbot/",
+   "/portfolio/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ansible.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ansible.svg",
+  "alt": "Ansible",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-chef.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/chef.svg",
+  "alt": "Chef",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-packer.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/packer.svg",
+  "alt": "Packer",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-puppet.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/puppet.svg",
+  "alt": "Puppet",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-bamboo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/bamboo.svg",
+  "alt": "Bamboo",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-ci-cd.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/ci-cd.svg",
+  "alt": "CI/CD",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-codeship.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/codeship.svg",
+  "alt": "Codeship",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-jenkins.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/jenkins.svg",
+  "alt": "Jenkins",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-appium.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/appium.svg",
+  "alt": "Appium",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-protractor.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/protractor.svg",
+  "alt": "Protractor",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-selenium-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/selenium-1.svg",
+  "alt": "Selenium",
+  "usedOn": [
+   "/services/devops/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2024-12-banner-overaly-img.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/banner-overaly-img.png",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 48,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-full-time-hiring.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/full-time-hiring.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-part-time-hiring.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/part-time-hiring.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-hourly-hiring.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/hourly-hiring.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-node-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/node-2.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-pythonlogo1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/pythonlogo1.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2025-02-fullstack.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/fullstack.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-one.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/one.svg",
+  "alt": " ",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-two.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/two.svg",
+  "alt": " ",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-three.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/three.svg",
+  "alt": " ",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-four.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/four.svg",
+  "alt": " ",
+  "usedOn": [
+   "/hire-developers/",
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/"
+  ],
+  "pageCount": 24,
+  "website": null
+ },
+ {
+  "file": "technologies/plus-union-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/src/images/plus-union-icon.svg",
+  "alt": "Plus Icon",
+  "usedOn": [
+   "/hire-nodejs-developers/",
+   "/hire-java-developers/",
+   "/hire-laravel-developers/",
+   "/hire-python-developers/",
+   "/hire-full-stack-developer/"
+  ],
+  "pageCount": 28,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-node.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/node.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-nodejs-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-expressjs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/expressjs.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-nodejs-developers/",
+   "/node/",
+   "/react-js/",
+   "/next-js/"
+  ],
+  "pageCount": 4,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-vuejs.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/vuejs.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-nodejs-developers/",
+   "/technologies/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-koa-logo.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/koa-logo.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-nodejs-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-android.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/android.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-java-developers/",
+   "/hire-android-developers/",
+   "/android/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-ror.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/ror.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-full-stack-developer/",
+   "/hire-react-js-developers/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-php-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/php-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-angular-developers/",
+   "/hire-react-js-developers/",
+   "/hire-vue-js-developers/",
+   "/hire-next-js-developers/"
+  ],
+  "pageCount": 4,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-django.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/django.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-angular-developers/",
+   "/python/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-graphql.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/graphql.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-next-js-developers/",
+   "/hire-react-native-developers/",
+   "/laravel/",
+   "/ruby-on-rails/",
+   "/react-js/"
+  ],
+  "pageCount": 11,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-redux.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/redux.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-next-js-developers/",
+   "/hire-react-native-developers/",
+   "/react-js/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-swift.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/swift.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-ios-developers/",
+   "/ios-development/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-javalogo-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/javalogo-2.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-android-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-kotlin.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/kotlin.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-android-developers/",
+   "/android/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-my-sql-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/my-sql-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-flutter-developers/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-typescript.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/typescript.svg",
+  "alt": "",
+  "usedOn": [
+   "/hire-react-native-developers/",
+   "/node/",
+   "/react-js/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-node-js-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/node-js-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/technologies/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-rubyonrails.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/rubyonrails.svg",
+  "alt": "",
+  "usedOn": [
+   "/technologies/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-laravel-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/laravel-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/technologies/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-11-ios-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/ios-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/technologies/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-stripe.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/stripe.svg",
+  "alt": "",
+  "usedOn": [
+   "/laravel/",
+   "/next-js/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-paypal.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/paypal.svg",
+  "alt": "",
+  "usedOn": [
+   "/laravel/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-elasticsearch.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/elasticsearch.svg",
+  "alt": "",
+  "usedOn": [
+   "/laravel/",
+   "/ruby-on-rails/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-flask.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/flask.svg",
+  "alt": "",
+  "usedOn": [
+   "/python/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-js.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/js.svg",
+  "alt": "",
+  "usedOn": [
+   "/python/",
+   "/ruby-on-rails/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-celery.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/celery.svg",
+  "alt": "",
+  "usedOn": [
+   "/python/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-neemans-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/neemans-main.jpg",
+  "alt": "Neemans &#8211; Online Store",
+  "usedOn": [
+   "/python/",
+   "/ruby-on-rails/",
+   "/magento/",
+   "/wordpress/",
+   "/webflow/"
+  ],
+  "pageCount": 8,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-att.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/att.jpg",
+  "alt": "A Toddler Thing &#8211; Online Clothing Store",
+  "usedOn": [
+   "/python/",
+   "/node/",
+   "/net/",
+   "/vue-js/",
+   "/android/"
+  ],
+  "pageCount": 10,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-nest.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/nest.svg",
+  "alt": "",
+  "usedOn": [
+   "/node/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-docker.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/docker.svg",
+  "alt": "",
+  "usedOn": [
+   "/net/",
+   "/java/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-kubernets.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/kubernets.svg",
+  "alt": "",
+  "usedOn": [
+   "/net/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-rabbitmq.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/rabbitmq.svg",
+  "alt": "",
+  "usedOn": [
+   "/net/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-kafka.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/kafka.svg",
+  "alt": "",
+  "usedOn": [
+   "/net/",
+   "/java/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-springboot.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/springboot.svg",
+  "alt": "",
+  "usedOn": [
+   "/java/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-hibernate.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/hibernate.svg",
+  "alt": "",
+  "usedOn": [
+   "/java/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-hadoop.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/hadoop.svg",
+  "alt": "",
+  "usedOn": [
+   "/java/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-redis.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/redis.svg",
+  "alt": "",
+  "usedOn": [
+   "/ruby-on-rails/",
+   "/next-js/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-aws-lambda.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/aws-lambda.svg",
+  "alt": "",
+  "usedOn": [
+   "/next-js/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-objc.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/objc.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-socketio.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/socketio.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-arkit.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/arkit.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-apn.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/apn.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-cloud-apple.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/cloud-apple.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-testflight.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/testflight.svg",
+  "alt": "",
+  "usedOn": [
+   "/ios-development/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-flutter.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/flutter.svg",
+  "alt": "",
+  "usedOn": [
+   "/flutter/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-dart.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/dart.svg",
+  "alt": "",
+  "usedOn": [
+   "/flutter/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-crozzo-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/crozzo-main.jpg",
+  "alt": "Crozzo &#8211; Webflow Development",
+  "usedOn": [
+   "/webflow/",
+   "/portfolio/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "icons/2024-12-aws-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/aws-1.svg",
+  "alt": "",
+  "usedOn": [
+   "/aws/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-04-pluckk-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/04/pluckk-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-04-neuphony-mobile-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/04/neuphony-mobile-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-lifenine-mobile-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/lifenine-mobile-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-cruiseholidays-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/cruiseholidays-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-04-waterbox-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/04/waterbox-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-04-pickle-ball-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/04/pickle-ball-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-sachinsteel-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/sachinsteel-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-opera-colorado-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/opera-colorado-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-02-unicollege-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/unicollege-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-spc-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/spc-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/covers/2025-03-quike-main.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/quike-main.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "industries/2026-04-non-profits-org.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2026/04/non-profits-org.jpg",
+  "alt": "Non-Profits",
+  "usedOn": [
+   "/industries/",
+   "/non-profits/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-startup.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/startup.svg",
+  "alt": " ",
+  "usedOn": [
+   "/non-profits/",
+   "/education-elearning/",
+   "/e-commerce/",
+   "/fintech/",
+   "/healthcare/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-scaleup.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/scaleup.svg",
+  "alt": " ",
+  "usedOn": [
+   "/non-profits/",
+   "/education-elearning/",
+   "/e-commerce/",
+   "/fintech/",
+   "/healthcare/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-enterprise.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/enterprise.svg",
+  "alt": " ",
+  "usedOn": [
+   "/non-profits/",
+   "/education-elearning/",
+   "/e-commerce/",
+   "/fintech/",
+   "/healthcare/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-12-agency.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/agency.svg",
+  "alt": " ",
+  "usedOn": [
+   "/non-profits/",
+   "/education-elearning/",
+   "/e-commerce/",
+   "/fintech/",
+   "/healthcare/"
+  ],
+  "pageCount": 12,
+  "website": null
+ },
+ {
+  "file": "other/2024-12-da4563d1-dca0-4688-a3d1-82236ae2c682.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/da4563d1-dca0-4688-a3d1-82236ae2c682.png",
+  "alt": "",
+  "usedOn": [
+   "/ai-solution/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-03-12-years.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/12-years.png",
+  "alt": "",
+  "usedOn": [
+   "/about/"
+  ],
+  "pageCount": 1,
+  "website": "frontend/public/images/about/12-years.png"
+ },
+ {
+  "file": "team/2025-01-nilay-pp.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/Nilay-PP.jpg",
+  "alt": "",
+  "usedOn": [
+   "/about/"
+  ],
+  "pageCount": 1,
+  "website": "frontend/public/images/team/nilay-shah.jpg"
+ },
+ {
+  "file": "team/2025-01-gemini_generated_image_ahkqvfahkqvfahkq.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/01/Gemini_Generated_Image_ahkqvfahkqvfahkq.png",
+  "alt": "",
+  "usedOn": [
+   "/about/"
+  ],
+  "pageCount": 1,
+  "website": "frontend/public/images/team/yatin-kashyap.png"
+ },
+ {
+  "file": "team/2025-04-hiren-web.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/04/hiren-web.jpg",
+  "alt": "",
+  "usedOn": [
+   "/about/"
+  ],
+  "pageCount": 1,
+  "website": "frontend/public/images/team/hiren-ramoliya.jpg"
+ },
+ {
+  "file": "technologies/arrow-true.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/src/images/arrow-true.svg",
+  "alt": "Arrow Icon",
+  "usedOn": [
+   "/engagement-model/",
+   "/process/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-fixed-price-model.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/fixed-price-model.png",
+  "alt": "",
+  "usedOn": [
+   "/engagement-model/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-time-and-material.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/time-and-material.png",
+  "alt": "",
+  "usedOn": [
+   "/engagement-model/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-dedicated-model.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/dedicated-model.png",
+  "alt": "",
+  "usedOn": [
+   "/engagement-model/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-vector.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/Vector.svg",
+  "alt": " ",
+  "usedOn": [
+   "/our-clients/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-vector-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/Vector-1.svg",
+  "alt": " ",
+  "usedOn": [
+   "/our-clients/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-vector-2.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/Vector-2.svg",
+  "alt": " ",
+  "usedOn": [
+   "/our-clients/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2024-11-vector-3.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/Vector-3.svg",
+  "alt": " ",
+  "usedOn": [
+   "/our-clients/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-face-8.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/Face-8.jpeg",
+  "alt": "Laura S., Managing Director, Real Estate",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-images.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/images.png",
+  "alt": "Laura S., Managing Director, Real Estate / Ryan P., Marketing Director, Travels / Mark, Founder, FinTech Innovations / Daniel C, Co-Founder, EdTech Startup",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-02-face.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Face.jpeg",
+  "alt": "Ryan P., Marketing Director, Travels",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-face-6.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/Face-6.jpeg",
+  "alt": "James W., Founder, E-Commerce Platform",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-download-4.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/download-4.png",
+  "alt": "James W., Founder, E-Commerce Platform",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-face-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/Face-2.jpeg",
+  "alt": "Mark, Founder, FinTech Innovations",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-02-face-5.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Face-5.jpeg",
+  "alt": "David L, Logistics Firm",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2024-12-germany.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/12/germany.png",
+  "alt": "David L, Logistics Firm",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/2025-03-face-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/Face-1.jpeg",
+  "alt": "Daniel C, Co-Founder, EdTech Startup",
+  "usedOn": [
+   "/testimonials/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-agile-methodology.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/agile-methodology.png",
+  "alt": "",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-iterative-development.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/iterative-development.png",
+  "alt": "",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-waterfall-methodology.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/waterfall-methodology.png",
+  "alt": "",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-idea-1.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/idea-1.svg",
+  "alt": "Ideation",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-layer-15.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Layer-15.svg",
+  "alt": "Wireframing",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-expanded.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Expanded.svg",
+  "alt": "Design",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-group-215605.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Group-215605.svg",
+  "alt": "Development",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-group-215606.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Group-215606.svg",
+  "alt": "Testing &amp; Release",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "technologies/2025-02-group.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/Group.svg",
+  "alt": "Maintenance &amp; Support",
+  "usedOn": [
+   "/process/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/admin-defaults-default-image.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/admin/defaults/default-image.webp",
+  "alt": "",
+  "usedOn": [
+   "/blog/",
+   "/category/web-development/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-top-bg.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/top-bg.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-img1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/img1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-mob1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mob1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-mob2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mob2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-img2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/img2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-img1-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/img1-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-mob3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mob3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-mob4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mob4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-mob5.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/mob5.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-box1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/box1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-box2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/box2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-box3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/box3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-box4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/box4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2025-02-img4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/img4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/art-hotel-hotel-booking-website/2024-11-javascript-icon.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2024/11/javascript-icon.svg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/",
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 2,
+  "website": null
+ },
+ {
+  "file": "other/2025-02-visit-website-img.png",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/visit-website-img.png",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/art-hotel-hotel-booking-website/",
+   "/portfolio/nivose-france-online-store/",
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-top-bg.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-top-bg.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-img-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-img-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-img-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-img-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-img-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-img-3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-5.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-5.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-6.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-6.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-box-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-box-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-box-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-box-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-box-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-box-3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-box-4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-box-4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-img-4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-img-4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/nivose-france-online-store/2025-02-nivose-mob-4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/nivose-mob-4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/nivose-france-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-top-bg.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-top-bg.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-img1-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/img1-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-img2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-img2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-img3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-img3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-5.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-5.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-box-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-box-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-box-2.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-box-2.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-box-3.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-box-3.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-box-4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-box-4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-img4.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-img4.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "projects/slay-coffee-online-store/2025-02-slay-mob-6.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/02/slay-mob-6.jpg",
+  "alt": "",
+  "usedOn": [
+   "/portfolio/slay-coffee-online-store/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "blog/2025-03-showing-cart-trolley-shopping-online-sign-graphic_53876-133967-2.avif",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/showing-cart-trolley-shopping-online-sign-graphic_53876-133967-2.avif",
+  "alt": "",
+  "usedOn": [
+   "/why-shopify-is-the-ideal-e-commerce-solution-for-your-business/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "testimonials/social-icons-share-facebook.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/social-icons/share/facebook.svg",
+  "alt": "facebook",
+  "usedOn": [
+   "/why-shopify-is-the-ideal-e-commerce-solution-for-your-business/",
+   "/how-ai-is-transforming-ecommerce-business-in-2025/",
+   "/benefits-of-mobile-apps-for-your-business/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/social-icons-share-linkedin.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/social-icons/share/linkedin.svg",
+  "alt": "linkedin",
+  "usedOn": [
+   "/why-shopify-is-the-ideal-e-commerce-solution-for-your-business/",
+   "/how-ai-is-transforming-ecommerce-business-in-2025/",
+   "/benefits-of-mobile-apps-for-your-business/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "technologies/social-icons-share-twitter.svg",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/build/images/social-icons/share/twitter.svg",
+  "alt": "twitter",
+  "usedOn": [
+   "/why-shopify-is-the-ideal-e-commerce-solution-for-your-business/",
+   "/how-ai-is-transforming-ecommerce-business-in-2025/",
+   "/benefits-of-mobile-apps-for-your-business/"
+  ],
+  "pageCount": 3,
+  "website": null
+ },
+ {
+  "file": "blog/2025-03-illustration-social-media-concept_53876-37691.avif",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/illustration-social-media-concept_53876-37691.avif",
+  "alt": "",
+  "usedOn": [
+   "/how-ai-is-transforming-ecommerce-business-in-2025/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "blog/2025-03-istockphoto-1493495125-612x612-1.jpg",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/istockphoto-1493495125-612x612-1.jpg",
+  "alt": "",
+  "usedOn": [
+   "/how-ai-is-transforming-ecommerce-business-in-2025/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "blog/2025-03-pexels-photo-230544.webp",
+  "original": "https://pelicanstechnologies.com/wp-content/uploads/2025/03/pexels-photo-230544.webp",
+  "alt": "",
+  "usedOn": [
+   "/how-ai-is-transforming-ecommerce-business-in-2025/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/phone.png",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/src/images/phone.png",
+  "alt": "",
+  "usedOn": [
+   "/contact/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/whatsapp-icon.png",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/src/images/whatsapp-icon.png",
+  "alt": "",
+  "usedOn": [
+   "/contact/"
+  ],
+  "pageCount": 1,
+  "website": null
+ },
+ {
+  "file": "other/email.png",
+  "original": "https://pelicanstechnologies.com/wp-content/themes/pelicans/assets/src/images/email.png",
+  "alt": "",
+  "usedOn": [
+   "/contact/"
+  ],
+  "pageCount": 1,
+  "website": null
+ }
+]

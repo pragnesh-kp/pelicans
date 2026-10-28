@@ -1,0 +1,16 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.image {
+  height: 36px;
+  width: auto;
+}
+
+@media (max-width: 768px) {
+  .image {
+    height: 28px;
+  }
+}

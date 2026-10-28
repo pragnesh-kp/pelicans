@@ -1,0 +1,30 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.image {
+  height: 34px;
+  width: auto;
+}
+
+/* Header logo ("auto"): the header bar is white over dark pages (dark-text logo)
+   and black over light pages (white-text logo). See Header.module.css. */
+.onDark {
+  display: none;
+}
+
+:global([data-header-on="light"]) .onDark {
+  display: block;
+}
+
+:global([data-header-on="light"]) .onLight {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .image {
+    height: 28px;
+  }
+}

@@ -1,0 +1,127 @@
+.section {
+  padding: 48px 0 40px;
+  border-bottom: 1px solid var(--border);
+}
+
+.alt {
+  background: var(--bg-alt);
+  border-bottom: 0;
+}
+
+.hero {
+  padding: 28px 0 32px;
+  background: transparent;
+  border-bottom: 0;
+  border-top: 1px solid rgb(255 255 255 / 0.12);
+}
+
+.title {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--muted);
+  margin-bottom: 32px;
+}
+
+.hero .title {
+  text-align: left;
+  margin-bottom: 20px;
+  color: rgb(255 255 255 / 0.6);
+}
+
+.intro {
+  max-width: 760px;
+  margin: -16px auto 32px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.row {
+  --gap: 12px;
+  display: flex;
+  gap: var(--gap);
+  overflow: hidden;
+  /* logos fade out at both edges */
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+}
+
+.track {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-shrink: 0;
+  gap: var(--gap);
+  animation: marquee 70s linear infinite;
+}
+
+/* Stop while the visitor looks at or tabs through the logos */
+.section:hover .track,
+.section:focus-within .track {
+  animation-play-state: paused;
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(calc(-100% - var(--gap)));
+  }
+}
+
+/* White tiles so every logo shows in its real colours, even the black ones */
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 168px;
+  height: 84px;
+  padding: 12px 18px;
+  border-radius: var(--radius-sm);
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.15);
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
+  max-height: 52px;
+  object-fit: contain;
+  transition: transform 0.3s var(--ease-out, ease-out);
+}
+
+/* Hover: the logo zooms in a little */
+.item:hover .logo {
+  transform: scale(1.12);
+}
+
+/* Reduced motion: a still, wrapped grid (no duplicate copy) */
+@media (prefers-reduced-motion: reduce) {
+  .row {
+    flex-wrap: wrap;
+    justify-content: center;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .track {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .track[aria-hidden] {
+    display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .section {
+    padding: 44px 0 36px;
+  }
+
+  .item {
+    width: 136px;
+    height: 72px;
+  }
+}

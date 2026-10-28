@@ -1,0 +1,617 @@
+{
+ "/testimonials": {
+  "title": "Testimonials",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Our Testimonials",
+    "text": [
+     "Client satisfaction is our top priority! We take pride in delivering successful solutions to global clients through our expert services, including enterprise software and cloud-based applications."
+    ],
+    "buttons": [],
+    "stats": [],
+    "form": false,
+    "logos": false
+   },
+   {
+    "type": "testimonial-list",
+    "items": [
+     {
+      "text": [
+       "Working with Pelicans to create our travel portal for cruise packages has been a game-changer for our business. They developed amazing frontend & backend as well as integrated third-party APIs which has made browsing and booking cruises smooth and effortless for our users. Their team was always available for support, make adjustments, and ensure everything worked perfectly. The end result is a travel platform performing well. They have been a fantastic partner for us. Highly recommend Pelicans for their IT services"
+      ],
+      "name": "Priyal Shah, Cruise Holidays",
+      "country": "UK",
+      "flag": "/images/wp/2024-11-uk-icon.svg",
+      "photo": "/images/wp/2025-03-priyal-image.jpg",
+      "video": "https://youtu.be/pxn28S2M6Gc"
+     },
+     {
+      "text": [
+       "Pelicans has been our trusted tech partner for years. From Ecommerce solutions to mobile apps to ongoing maintenance, their team consistently delivers high-quality solutions. I’m excited to share our new Art Hotel website and app with you and we owe it all to the amazing Pelicans team who brought our vision to life.",
+       "Big thanks to the Pelicans team and we look forward to continuing to work with you and to future successes together."
+      ],
+      "name": "Kolade Ojebiyi, Dreamspaces Group",
+      "country": "Nigeria",
+      "flag": "/images/wp/2025-03-nigeria-flag.svg",
+      "photo": "/images/wp/2025-03-kolade.jpg",
+      "video": "https://youtu.be/4dFLS6a7nqI"
+     },
+     {
+      "text": [
+       "We needed an AI-driven recommendation chatbot for our Healthcare business. Pelicans delivered a robust, scalable solution that increased our conversion rates by 35%. They truly understand AI’s potential."
+      ],
+      "name": "Sophia R., CEO, HealthCare",
+      "country": "France",
+      "flag": "/images/wp/2025-02-france.png",
+      "photo": "/images/wp/2025-02-face-9.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Pelicans Technologies transformed our business with a custom software solution, exceeding expectations. Their innovative approach, clear communication, and expertise boosted our productivity and customer engagement."
+      ],
+      "name": "Michael D, Product Manager, Retail",
+      "country": "Canada",
+      "flag": "/images/wp/2024-12-canada.png",
+      "photo": "/images/wp/2024-12-face-3.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Working with Pelicans Team has been a game-changer for our business. Their team quickly understood our vision and delivered a custom web and mobile app that exceeded our expectations. Reliable, responsive, and truly skilled – highly recommended!."
+      ],
+      "name": "Laura S., Managing Director, Real Estate",
+      "country": "United States",
+      "flag": "/images/wp/2025-03-images.png",
+      "photo": "/images/wp/2025-03-face-8.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Pelicans built a mobile app that our users really loved it. They focused on both design and performance, ensuring a smooth and intuitive experience. We have seen a 50% increase in app engagement since launch. Working with them was one of the best business decisions we made!"
+      ],
+      "name": "Ryan P., Marketing Director, Travels",
+      "country": "United States",
+      "flag": "/images/wp/2025-03-images.png",
+      "photo": "/images/wp/2025-02-face.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Pelicans Technologies has been our trusted tech partner for years. From mobile apps to ongoing maintenance, their team consistently delivers high-quality solutions with a collaborative approach."
+      ],
+      "name": "James W., Founder, E-Commerce Platform",
+      "country": "United Kingdom",
+      "flag": "/images/wp/2025-03-download-4.png",
+      "photo": "/images/wp/2025-03-face-6.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "I came to Pelicans with an idea, and they brought it to life beyond our expectations. Their web development expertise gave our platform a new look that was needed to stand out. It felt like working with an extension of our own team rather than just another vendor!"
+      ],
+      "name": "Mark, Founder, FinTech Innovations",
+      "country": "United States",
+      "flag": "/images/wp/2025-03-images.png",
+      "photo": "/images/wp/2025-03-face-2.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Pelicans didn’t just build our solution, they guided us through every step, ensuring we felt confident and empowered. Even after launch they were supportive. If you’re looking for a tech partner that truly cares, Pelicans is the way to go."
+      ],
+      "name": "David L, Logistics Firm",
+      "country": "Germany",
+      "flag": "/images/wp/2024-12-germany.png",
+      "photo": "/images/wp/2025-02-face-5.jpg",
+      "video": ""
+     },
+     {
+      "text": [
+       "Pelicans goes beyond just writing code. They understand business challenges and deliver tech solutions that drive real impact. Their approach is strategic, collaborative, with results-driven and special thanks to their business development team."
+      ],
+      "name": "Daniel C, Co-Founder, EdTech Startup",
+      "country": "United States",
+      "flag": "/images/wp/2025-03-images.png",
+      "photo": "/images/wp/2025-03-face-1.jpg",
+      "video": ""
+     }
+    ]
+   }
+  ]
+ },
+ "/engagement-model": {
+  "title": "Engagement Model",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Our Engagement Models",
+    "text": [
+     "We offer practical and transparent pricing models to ensure you get the best value for your investment."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "#"
+     }
+    ],
+    "stats": [],
+    "form": false,
+    "logos": false
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "fixed-cost",
+    "heading": {
+     "text": "Fixed Cost",
+     "highlight": ""
+    },
+    "text": [
+     "The fixed-price model is ideal for projects with clear, predefined goals and requirements. It works best for small businesses or medium-sized projects with a set budget. The scope, timeline, and deliverables are agreed upon upfront."
+    ],
+    "bullets": [
+     "Predefined budgets, objectives, and deliverables.",
+     "Billing is based on completed milestones.",
+     "Changes to the scope require client approval, ensuring no budget overruns.",
+     "Both the cost and timeline are fixed, minimizing risks for both parties"
+    ],
+    "buttons": [
+     {
+      "label": "Contact us",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2025-02-fixed-price-model.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "time-and-material",
+    "heading": {
+     "text": "Time and Material",
+     "highlight": ""
+    },
+    "text": [
+     "The Time & Material model is ideal for projects where the scope is unclear or constantly changing. It allows for flexibility, as the client pays based on the amount of work done, whether hourly, daily, weekly, or monthly. This model is great when it’s difficult to break the project into stages or define fixed requirements."
+    ],
+    "bullets": [
+     "Suitable for projects where requirements are frequently updated.",
+     "Clients can pay based on time spent (hourly, daily, weekly, or monthly)",
+     "Clients can adjust resources or explore new activities as the project evolves",
+     "Resources can be modified depending on the project's changing needs."
+    ],
+    "buttons": [
+     {
+      "label": "Contact us",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2025-02-time-and-material.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "dedicated-hiring-model",
+    "heading": {
+     "text": "Dedicated Hiring Model",
+     "highlight": ""
+    },
+    "text": [
+     "The Dedicated Hiring Model is perfect for projects that need rapid scaling or specialized expertise over the long term. It’s ideal when you have tight deadlines, need to quickly expand teams, or require developers skilled in emerging technologies. This model gives you full control over processes, resources, and strategy. It’s flexible and scalable, making it a great choice for businesses with varying needs."
+    ],
+    "bullets": [
+     "Best for clients with internal teams overseeing projects.",
+     "Get dedicated developers to focus solely on your project",
+     "Best model for clients with in-house staff to manage the projects",
+     "Developers work exclusively for your team"
+    ],
+    "buttons": [
+     {
+      "label": "Contact us",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2025-02-dedicated-model.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Why Choose Pelicans Technologies?",
+     "highlight": "Pelicans Technologies?"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Transparency",
+      "text": [
+       "Stay updated on all workflows, processes, and project progress with complete visibility."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Flexibility",
+      "text": [
+       "Our engagement models are customized to fit your unique business requirements."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Cost-Effectiveness",
+      "text": [
+       "We combine optimized pricing with a managed team to ensure cost efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Quality",
+      "text": [
+       "We focus on every stage of the delivery process to maintain the highest quality standards."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "hiring-developer-models",
+    "heading": {
+     "text": "Our Dedicated Developers Hiring Models",
+     "highlight": "Hiring Models"
+    },
+    "models": [
+     {
+      "title": "Full-Time Hiring",
+      "subtitle": "100% Fully Dedicated to your project's success.",
+      "icon": "/images/wp/2024-12-full-time-hiring.svg",
+      "rows": [
+       [
+        "Working Hours",
+        "8 hours/day, 5 days/week"
+       ],
+       [
+        "Communication",
+        "Skype, Email, Phone"
+       ],
+       [
+        "Methodology",
+        "Agile / Scrum"
+       ],
+       [
+        "Billing Cycle",
+        "Monthly"
+       ]
+      ]
+     },
+     {
+      "title": "Part-Time Hiring",
+      "subtitle": "Support your business with right balance.",
+      "icon": "/images/wp/2024-12-part-time-hiring.svg",
+      "rows": [
+       [
+        "Working Hours",
+        "4 hours/day, 5 days/week"
+       ],
+       [
+        "Communication",
+        "Skype, Email, Phone"
+       ],
+       [
+        "Methodology",
+        "Agile / Scrum"
+       ],
+       [
+        "Billing Cycle",
+        "Monthly"
+       ]
+      ]
+     },
+     {
+      "title": "Hire on Hourly Rate",
+      "subtitle": "Hire developers with specific hours for your project needs",
+      "icon": "/images/wp/2024-12-hourly-hiring.svg",
+      "rows": [
+       [
+        "Working Hours",
+        "Up to 40 hours/week"
+       ],
+       [
+        "Communication",
+        "Skype, Email, Phone"
+       ],
+       [
+        "Methodology",
+        "Agile / Scrum"
+       ],
+       [
+        "Billing Cycle",
+        "Monthly"
+       ]
+      ]
+     }
+    ],
+    "perks": [
+     "No Project Manager Fees",
+     "Daily Reports & Code Pushes",
+     "Version Control",
+     "Direct Communication",
+     "Efficient Project Tracking",
+     "SCRUM Methodology"
+    ],
+    "buttons": [
+     {
+      "label": "Hire Dedicated Developers",
+      "href": "/contact"
+     }
+    ]
+   }
+  ]
+ },
+ "/our-clients": {
+  "title": "Our Clients",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Our Clients",
+    "text": [
+     "Client satisfaction is our utmost priority"
+    ],
+    "buttons": [],
+    "stats": [],
+    "form": false,
+    "logos": false
+   },
+   {
+    "type": "our-clients",
+    "heading": {
+     "text": "Global brands that trust us for reliable solutions",
+     "highlight": "trust us for reliable solutions"
+    },
+    "intro": []
+   },
+   {
+    "type": "quote",
+    "text": "“This is just a snapshot of our work. We’ve partnered with clients in over 20+ countries, successfully delivering more than 500+ projects of varying scales for global brands.”"
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-11-vector.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-11-vector-1.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-11-vector-2.svg",
+      "href": ""
+     },
+     {
+      "title": "IT Firms",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-11-vector-3.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   }
+  ]
+ },
+ "/process": {
+  "title": "Process",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Development Process & Methodology",
+    "text": [
+     "At Pelicans, we follow industry-standard processes. We work closely with clients at every stage of the SDLC, ensuring clear communication and seamless project execution. Our offshore team takes full ownership, delivering high-quality, cost-effective solutions while continuously improving our processes."
+    ],
+    "buttons": [],
+    "stats": [],
+    "form": false,
+    "logos": false
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "fixed-cost",
+    "heading": {
+     "text": "Agile Methodology",
+     "highlight": ""
+    },
+    "text": [
+     "At Pelicans, we follow the Agile Development Methodology to build software that meets your evolving business needs. Using SCRUM and Kanban practices, our team works closely with you at every stage of the project — from planning to delivery. This approach helps us deliver high-quality software faster, with regular updates and flexibility to adapt to changes. We use tools like JIRA, Assembla, and Bitbucket to manage tasks and ensure everything runs smoothly."
+    ],
+    "bullets": [
+     "Agile process for faster and flexible software delivery.",
+     "Regular collaboration with clients at every project stage.",
+     "Transparent progress tracking and quick feedback.",
+     "Project management tools like JIRA, Assembla, and Bitbucket for smooth execution."
+    ],
+    "buttons": [],
+    "image": "/images/wp/2025-02-agile-methodology.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "fixed-cost",
+    "heading": {
+     "text": "Iterative Development",
+     "highlight": ""
+    },
+    "text": [
+     "At Pelicans, we adopt the Iterative Development approach by breaking down the project into smaller, manageable modules. Each module is developed and delivered in phases, allowing us to gather valuable feedback from stakeholders at every release. Every iteration follows a structured process where feedback from one phase is incorporated into the next, ensuring continuous improvement. Each phase delivers a specific set of features based on project requirements, resulting in a more stable and high-quality software product."
+    ],
+    "bullets": [
+     "Project divided into smaller, manageable modules.",
+     "Stakeholder feedback collected at every release.",
+     "Each iteration improves the previous version.",
+     "Delivers a more stable, high-quality software product."
+    ],
+    "buttons": [],
+    "image": "/images/wp/2025-02-iterative-development.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "gallery-alongside-text",
+    "anchor": "fixed-cost",
+    "heading": {
+     "text": "Waterfall Development",
+     "highlight": ""
+    },
+    "text": [
+     "The Waterfall Development model is a traditional, step-by-step approach that follows a clear sequence: Requirements, Design, Development, Testing, Deployment, and Maintenance. Each phase must be completed and approved before moving on to the next, ensuring smooth project execution. Proper documentation and a detailed project plan are essential for the success of small to mid-sized software development projects. At Pelicans, we offer a customized Waterfall development model, working collaboratively with clients to define clear requirements and provide ongoing insights, ensuring project success."
+    ],
+    "bullets": [
+     "Follows a sequential process from Requirements to Maintenance.",
+     "Each phase must be signed off before proceeding to the next.",
+     "Emphasizes clear documentation and project planning.",
+     "Collaborative approach to ensure continuous feedback and project success."
+    ],
+    "buttons": [],
+    "image": "/images/wp/2025-02-waterfall-methodology.png",
+    "imageSide": "right"
+   },
+   {
+    "type": "development-process-followed",
+    "heading": {
+     "text": "Development Process Followed @ Pelicans Technologies",
+     "highlight": "@ Pelicans Technologies"
+    },
+    "intro": [
+     "Once you contact us via any preferred medium for your web/app development requirement, we will go through our result oriented project management process ensuring that no communication barrier issue will occur while developing your valuable dream project."
+    ],
+    "items": [
+     {
+      "title": "Ideation",
+      "icon": "/images/wp/2025-02-idea-1.svg"
+     },
+     {
+      "title": "Wireframing",
+      "icon": "/images/wp/2025-02-layer-15.svg"
+     },
+     {
+      "title": "Design",
+      "icon": "/images/wp/2025-02-expanded.svg"
+     },
+     {
+      "title": "Development",
+      "icon": "/images/wp/2025-02-group-215605.svg"
+     },
+     {
+      "title": "Testing & Release",
+      "icon": "/images/wp/2025-02-group-215606.svg"
+     },
+     {
+      "title": "Maintenance & Support",
+      "icon": "/images/wp/2025-02-group.svg"
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid four-boxes-center-align",
+    "heading": {
+     "text": "How to Hire Dedicated Developers from us in just 4 steps ?",
+     "highlight": "us in just 4 steps ?"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Share Your Requirements",
+      "text": [
+       "Share a brief overview of your project and the skills that you are looking for."
+      ],
+      "image": "/images/wp/2024-12-one.svg",
+      "href": ""
+     },
+     {
+      "title": "Identify Suitable Developers",
+      "text": [
+       "We will shortlist developers based on your project requirements and their expertise."
+      ],
+      "image": "/images/wp/2024-12-two.svg",
+      "href": ""
+     },
+     {
+      "title": "Conduct Interview & Select",
+      "text": [
+       "Interview the shortlisted candidates to assess their skills and choose the best match."
+      ],
+      "image": "/images/wp/2024-12-three.svg",
+      "href": ""
+     },
+     {
+      "title": "Onboard & Start Project",
+      "text": [
+       "Once you have made your choice, we will assist with onboarding and provide our support."
+      ],
+      "image": "/images/wp/2024-12-four.svg",
+      "href": ""
+     }
+    ],
+    "buttons": [
+     {
+      "label": "Hire Developer Now",
+      "href": "/contact"
+     }
+    ]
+   },
+   {
+    "type": "our-clients",
+    "heading": {
+     "text": "Our Clients",
+     "highlight": ""
+    },
+    "intro": [
+     "They chose Pelicans because of our expertise in delivering tailored software solutions that boost productivity, improve customer engagement, and provide valuable business insights, establishing us as a trusted partner for software development."
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,552 @@
+/* ==========================================================
+   Design tokens — Pelicans brand ("Clean corporate" palette)
+   To change the website colors, edit only this block.
+   ========================================================== */
+:root {
+  /* Primary (blue): buttons, links, highlights */
+  --primary: #2563eb;
+  --primary-hover: #1d4ed8;
+  --primary-text: #1d4ed8; /* blue text on white backgrounds */
+  --primary-on-dark: #60a5fa; /* blue text/icons on dark navy */
+  --primary-50: #eff6ff;
+  --primary-100: #dbeafe;
+  --on-primary: #ffffff; /* text on blue buttons */
+
+  /* Accent (amber): small highlights only */
+  --accent: #f59e0b;
+  --accent-hover: #d97706;
+  --accent-50: #fffbeb;
+  --on-accent: #0f172a; /* text on amber */
+
+  /* Neutrals (slate) */
+  --ink: #0f172a; /* dark navy: footer, dark bands */
+  --ink-2: #1e293b;
+  --ink-3: #334155;
+  --text: #0f172a;
+  --muted: #475569;
+  --muted-on-dark: #94a3b8;
+  --border: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --border-dark: #1e293b;
+  --bg: #ffffff;
+  --bg-alt: #f8fafc;
+
+  /* Type */
+  --font-heading: var(--font-jakarta), "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-body: var(--font-jakarta), "Plus Jakarta Sans", system-ui, sans-serif;
+
+  /* Layout */
+  --container: 1200px;
+  --gutter: 24px;
+  --radius: 16px;
+  --radius-sm: 10px;
+  --header-h: 72px;
+  --shadow: 0 1px 2px rgb(16 24 40 / 0.04), 0 8px 24px rgb(16 24 40 / 0.06);
+  --shadow-lg: 0 2px 4px rgb(16 24 40 / 0.04), 0 18px 40px rgb(16 24 40 / 0.1);
+}
+
+/* ==========================================================
+   Public website theme: white + blue (light pages, deep-navy text,
+   electric-blue accent, navy-blue dark areas), pill buttons.
+   Everything inside .site (see app/(site)/layout.js) uses these;
+   the admin panel keeps its own --admin-* colours.
+   ========================================================== */
+.site {
+  --primary: #1163fb;
+  --primary-hover: #0a52d9;
+  --primary-text: #0d55dd; /* blue text on white */
+  --primary-on-dark: #8cb3fd; /* blue text on navy */
+  --primary-50: #edf3ff;
+  --primary-100: #d6e4ff;
+  --primary-gradient: linear-gradient(180deg, #70a1fd 0%, #1163fb 100%);
+  --primary-gradient-deep: linear-gradient(135deg, #03142f 0%, #0a3c9e 55%, #1163fb 100%);
+  --on-primary: #ffffff;
+
+  --accent: #8cb3fd;
+  --accent-hover: #a9c6fd;
+  --accent-50: rgb(140 179 253 / 0.12);
+  --on-accent: #000000;
+  --cream: #fefbdc;
+
+  --navy: #071a45; /* dark areas: photo heroes, footer, dark bands */
+  --ink: #0a2259;
+  --ink-2: #12306e;
+  --ink-3: #2a4a8a;
+  --text: #0b1a3d; /* deep navy text */
+  --muted: #4d5b78;
+  --muted-on-dark: #b9c8e8;
+  --border: #e2e9f6;
+  --border-strong: #c8d5ec;
+  --border-dark: #1d3a78;
+  --bg: #ffffff;
+  --bg-alt: #f3f7ff; /* light-blue tint for alternate bands */
+  --surface: #ffffff; /* cards */
+  --surface-2: #f5f8ff;
+
+  --container: 1320px;
+  --radius: 18px;
+  --radius-sm: 12px;
+  --radius-pill: 48px;
+  --header-h: 80px; /* floating header: 12px gap + 56px pill + 12px */
+  --shadow: 0 1px 3px rgb(10 34 89 / 0.06), 0 10px 30px rgb(10 34 89 / 0.08);
+  --shadow-lg: 0 20px 56px rgb(10 34 89 / 0.16);
+
+  background: var(--bg);
+  color: var(--text);
+  font-size: 15.5px;
+}
+
+/* Light-blue band (services columns, case-study pages, testimonial cards) */
+.site .section--light {
+  --bg: #eef4ff;
+  --bg-alt: #e4edff;
+  --surface: #ffffff;
+  --surface-2: #f5f8ff;
+  --text: #0b1a3d;
+  --muted: #4d5b78;
+  --border: #d9e4f7;
+  --border-strong: #bfd0ee;
+  --primary-text: #0d55dd;
+  --primary-50: #e3ecff;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Navy-blue areas (photo heroes, footer, dark bands): white text on deep blue */
+.site .theme-dark,
+.site .section--dark {
+  --bg: #071a45;
+  --bg-alt: #0a2259;
+  --surface: #0f2a63;
+  --surface-2: #153373;
+  --text: #ffffff;
+  --muted: #b9c8e8;
+  --border: #1d3a78;
+  --border-strong: #2d4d8f;
+  --primary-text: #8cb3fd;
+  --primary-50: rgb(140 179 253 / 0.14);
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 12px 32px rgb(0 0 0 / 0.25);
+  color: var(--text);
+}
+
+.site .section--dark {
+  background: var(--bg);
+}
+
+/* Blue gradient band */
+.site .section--blue {
+  --muted: rgb(255 255 255 / 0.82);
+  --border: rgb(255 255 255 / 0.22);
+  --primary-text: #ffffff;
+  background: var(--primary-gradient);
+  color: #fff;
+}
+
+html:has(.site) {
+  background: #fff;
+  color-scheme: light;
+  /* no visible page scrollbar on the public site (scrolling still works) */
+  scrollbar-width: none;
+}
+
+html:has(.site)::-webkit-scrollbar {
+  display: none;
+}
+
+/* Lenis smooth scrolling (components/motion/SmoothScroll) */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+html.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* ==========================================================
+   Base
+   ========================================================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin: 0;
+  color: inherit;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ==========================================================
+   Layout helpers
+   ========================================================== */
+.container {
+  width: 100%;
+  max-width: calc(var(--container) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.section {
+  padding: 96px 0;
+}
+
+.section--alt {
+  background: var(--bg-alt);
+}
+
+.section--dark {
+  background: var(--ink);
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  :root,
+  .site {
+    --gutter: 16px;
+    --header-h: 68px;
+  }
+  body {
+    font-size: 16px;
+  }
+  .section {
+    padding: 64px 0;
+  }
+}
+
+/* ==========================================================
+   Buttons (site) — prefixed "btn--" so they never clash with admin styles
+   ========================================================== */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--font-body);
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1;
+  padding: 17px 28px;
+  border-radius: var(--radius-pill, var(--radius-sm));
+  border: 1.5px solid transparent;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s, transform 0.2s;
+  white-space: nowrap;
+}
+
+.btn svg {
+  width: 18px;
+  height: 18px;
+  transition: transform 0.2s;
+}
+
+.btn:hover svg {
+  transform: translate(2px, -2px);
+}
+
+.btn--primary {
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+.btn--primary:hover {
+  background: var(--primary-hover);
+}
+
+/* White-outlined button for dark backgrounds */
+.btn--ghost-light {
+  border-color: rgb(255 255 255 / 0.3);
+  color: #fff;
+}
+
+.btn--ghost-light:hover {
+  border-color: #fff;
+}
+
+/* Outlined pill: blue border, blue text */
+.btn--outline {
+  background: transparent;
+  border: 2px solid var(--primary);
+  color: var(--primary-text);
+}
+
+.btn--outline:hover {
+  background: var(--primary);
+  color: var(--on-primary);
+}
+
+/* White pill: the standout action on blue or image backgrounds */
+.btn--accent {
+  background: #fff;
+  color: #000;
+}
+
+.btn--accent:hover {
+  background: var(--cream, #fefbdc);
+}
+
+.btn--dark {
+  background: var(--surface, var(--ink));
+  border-color: var(--border-strong);
+  color: var(--text, #fff);
+}
+
+.btn--dark:hover {
+  border-color: var(--primary);
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* Small uppercase label above headings */
+.eyebrow {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--primary-text);
+  margin-bottom: 14px;
+}
+
+.section--dark .eyebrow {
+  color: var(--primary-on-dark);
+}
+
+/* ==========================================================
+   Motion
+   Elements opt in with attributes (see components/motion/MotionProvider):
+     data-reveal[="up|fade|left|right|zoom"]  fades in when scrolled into view
+     data-stagger                             its children fade in one after another
+     data-spotlight                           soft light follows the cursor (cards)
+   .enter-seq children play once on page load (hero sections).
+   Keyframes (not transitions) are used so components keep their own hover transitions.
+   Everything here is skipped when the visitor prefers reduced motion.
+   ========================================================== */
+:root {
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --reveal-from: translate3d(0, 28px, 0);
+}
+
+/* Animatable angle for rotating gradient borders (keyframes live in each module) */
+@property --angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: var(--reveal-from);
+  }
+}
+
+@keyframes char-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+}
+
+.split-word,
+.split-char {
+  display: inline-block;
+}
+
+.split-word {
+  white-space: nowrap;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  [data-reveal="fade"] {
+    --reveal-from: none;
+  }
+  [data-reveal="left"] {
+    --reveal-from: translate3d(-48px, 0, 0);
+  }
+  [data-reveal="right"] {
+    --reveal-from: translate3d(48px, 0, 0);
+  }
+  [data-reveal="zoom"] {
+    --reveal-from: scale(0.94);
+  }
+
+  /* Hidden until the observer marks them (only once JavaScript is running) */
+  html[data-motion] [data-reveal]:not([data-revealed]),
+  html[data-motion] [data-stagger]:not([data-revealed]) > * {
+    opacity: 0;
+  }
+
+  /* data-revealed="instant" = was already on screen at start: no animation */
+  [data-reveal][data-revealed=""] {
+    animation: reveal 0.9s var(--ease-out) backwards;
+    animation-delay: var(--reveal-delay, 0ms);
+  }
+
+  [data-stagger][data-revealed=""] > * {
+    --reveal-from: translate3d(0, 24px, 0);
+    animation: reveal 0.75s var(--ease-out) backwards;
+    animation-delay: calc(var(--i, 11) * 70ms);
+  }
+
+  [data-stagger] > :nth-child(1) { --i: 0; }
+  [data-stagger] > :nth-child(2) { --i: 1; }
+  [data-stagger] > :nth-child(3) { --i: 2; }
+  [data-stagger] > :nth-child(4) { --i: 3; }
+  [data-stagger] > :nth-child(5) { --i: 4; }
+  [data-stagger] > :nth-child(6) { --i: 5; }
+  [data-stagger] > :nth-child(7) { --i: 6; }
+  [data-stagger] > :nth-child(8) { --i: 7; }
+  [data-stagger] > :nth-child(9) { --i: 8; }
+  [data-stagger] > :nth-child(10) { --i: 9; }
+  [data-stagger] > :nth-child(11) { --i: 10; }
+
+  /* Hero: children enter one after another on load (pure CSS, no JavaScript) */
+  .enter-seq > * {
+    animation: reveal 0.8s var(--ease-out) backwards;
+  }
+  .enter-seq > :nth-child(2) { animation-delay: 0.08s; }
+  .enter-seq > :nth-child(3) { animation-delay: 0.16s; }
+  .enter-seq > :nth-child(4) { animation-delay: 0.24s; }
+  .enter-seq > :nth-child(5) { animation-delay: 0.32s; }
+  .enter-seq > :nth-child(n + 6) { animation-delay: 0.4s; }
+
+  /* Letter-by-letter headings (components/motion/SplitText): inside a revealed
+     block, or a hero (.enter-seq), each letter rises 10px in turn */
+  html[data-motion] [data-reveal]:not([data-revealed]) .split-char {
+    opacity: 0;
+  }
+  [data-reveal][data-revealed=""] .split-char,
+  .enter-seq .split-char {
+    animation: char-in 0.5s cubic-bezier(0.33, 1, 0.68, 1) backwards;
+    animation-delay: calc(var(--ci, 0) * 12ms + 0.05s);
+  }
+
+  /* Hero picture / form: rises and settles slightly after the text */
+  .enter-media {
+    --reveal-from: translate3d(0, 32px, 0) scale(0.96);
+    animation: reveal 1s var(--ease-out) 0.2s backwards;
+  }
+
+  /* Page transition after clicking a link (see app/(site)/template.js) */
+  .page-enter {
+    animation: fade-in 0.45s ease-out;
+  }
+
+  /* Light sweep across solid buttons on hover */
+  .btn--primary,
+  .btn--accent,
+  .btn--dark {
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+  }
+  .btn--primary::after,
+  .btn--accent::after,
+  .btn--dark::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(110deg, transparent 30%, rgb(255 255 255 / 0.28) 50%, transparent 70%);
+    transform: translateX(-120%);
+    transition: transform 0.7s var(--ease-out);
+  }
+  .btn--primary:hover::after,
+  .btn--accent:hover::after,
+  .btn--dark:hover::after {
+    transform: translateX(120%);
+  }
+}
+
+/* Cursor spotlight on cards (mouse users only) */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  html [data-spotlight]:hover {
+    background-image: radial-gradient(
+      420px circle at var(--mx, 50%) var(--my, 50%),
+      rgb(37 99 235 / 0.09),
+      transparent 45%
+    );
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

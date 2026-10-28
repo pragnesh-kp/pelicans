@@ -1,0 +1,145 @@
+.hero {
+  overflow: hidden;
+  padding-bottom: 88px;
+}
+
+.copy {
+  padding-top: 64px;
+}
+
+.kicker {
+  margin-bottom: 22px;
+}
+.kicker::before {
+  display: none;
+}
+
+.title {
+  max-width: 1100px;
+  font-size: clamp(38px, 5vw, 76px);
+  font-weight: 800;
+  line-height: 1.04;
+  letter-spacing: -0.04em;
+  color: var(--ink);
+}
+.titleSm {
+  font-size: clamp(36px, 4.2vw, 62px);
+}
+.title :global(.serif) {
+  font-size: 1.05em;
+}
+
+.text {
+  max-width: 640px;
+  margin-top: 26px;
+  font-size: 16.5px;
+  line-height: 1.75;
+  color: var(--body);
+}
+.text + .text {
+  margin-top: 12px;
+}
+
+.copy > div:last-child {
+  margin-top: 34px;
+}
+
+/* Copy left, picture or form right */
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 56px;
+  align-items: center;
+}
+
+.photo {
+  position: relative;
+  margin-top: 64px;
+  aspect-ratio: 1.1;
+  overflow: hidden;
+  border: 8px solid rgb(255 255 255 / 0.7);
+  border-radius: 24px;
+  box-shadow: var(--shadow-lg);
+  background: var(--brand-light);
+}
+.photoImg {
+  object-fit: cover;
+}
+
+.formCard {
+  margin-top: 64px;
+  padding: 32px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+.formTitle {
+  font-size: 24px;
+  font-weight: 700;
+}
+.formText {
+  margin: 6px 0 22px;
+  font-size: 14.5px;
+}
+
+/* Numbers row: big deep-blue figures with small uppercase labels */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 24px 32px;
+  margin: 64px 0 0;
+  padding-top: 40px;
+  border-top: 1px solid rgb(11 36 104 / 0.1);
+}
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.statValue {
+  margin: 0;
+  font-size: clamp(36px, 3.6vw, 52px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--deep);
+}
+.statLabel {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--muted-2);
+}
+
+@media (max-width: 1024px) {
+  .split {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .copy {
+    padding-top: 40px;
+  }
+  .photo,
+  .formCard {
+    margin-top: 40px;
+  }
+  .photo {
+    aspect-ratio: 16 / 10;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero {
+    padding-bottom: 56px;
+  }
+  .formCard {
+    padding: 22px;
+  }
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 40px;
+    padding-top: 28px;
+  }
+}

@@ -1,0 +1,140 @@
+.subheading {
+  margin: 0 0 22px;
+  font-size: 22px;
+  letter-spacing: 0;
+}
+
+/* How an agent works: four grey steps joined by a dashed line */
+.loop {
+  margin-bottom: 56px;
+  padding: 28px;
+  border-radius: var(--radius);
+  background: var(--grey);
+}
+
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.step {
+  position: relative;
+  padding: 24px;
+  border-radius: var(--radius-md);
+  background: #fff;
+}
+
+.stepIcon {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+}
+
+.stepCount {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--border-strong);
+}
+
+.stepTitle {
+  margin-top: 18px;
+  font-size: 18px;
+}
+
+.stepText {
+  margin-top: 6px;
+  font-size: 14.5px;
+  color: var(--muted);
+}
+
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  padding: 26px;
+  border-radius: var(--radius);
+  background: var(--grey);
+  transition: background-color 0.6s, color 0.4s, border-radius 0.6s;
+}
+
+.cardIcon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 16px;
+  background: #fff;
+  color: var(--primary);
+}
+
+.cardTitle {
+  margin-top: 20px;
+  font-size: 19px;
+}
+
+.cardText {
+  margin-top: 8px;
+  font-size: 15px;
+  color: var(--muted);
+  transition: color 0.4s;
+}
+
+@media (hover: hover) {
+  .card:hover {
+    background: var(--primary);
+    color: #fff;
+    border-bottom-left-radius: 100px;
+  }
+  .card:hover .cardText {
+    color: rgb(255 255 255 / 0.86);
+  }
+}
+
+.platforms {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px 20px;
+  margin-top: 40px;
+}
+
+.platformsLabel {
+  font-weight: 700;
+}
+
+.logos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 16px 9px 12px;
+  font-size: 14.5px;
+  font-weight: 500;
+  border-radius: var(--radius-pill);
+  background: var(--grey);
+}

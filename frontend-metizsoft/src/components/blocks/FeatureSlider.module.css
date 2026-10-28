@@ -1,0 +1,68 @@
+/* White bordered cards in a sliding row: number tile, title, text */
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 320px;
+  padding: 32px 28px;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  transition: border-color 0.3s, box-shadow 0.3s, transform 0.4s var(--ease-out);
+}
+.card::after {
+  content: "";
+  position: absolute;
+  right: -60px;
+  bottom: -60px;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(17 99 251 / 0.1), transparent 70%);
+  transition: transform 0.6s var(--ease-out);
+}
+
+.index {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  margin-bottom: auto;
+  border-radius: 12px;
+  background: var(--brand-light);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--deep);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.title {
+  margin-top: 36px;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.text {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+@media (hover: hover) {
+  .card:hover {
+    border-color: var(--brand-100);
+    box-shadow: var(--shadow);
+    transform: translateY(-4px);
+  }
+  .card:hover::after {
+    transform: scale(1.5);
+  }
+  .card:hover .index {
+    background: var(--deep);
+    color: #fff;
+  }
+}

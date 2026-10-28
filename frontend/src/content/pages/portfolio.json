@@ -1,0 +1,6005 @@
+{
+ "/portfolio": {
+  "title": "Portfolio",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Our Work",
+    "text": [
+     "From concept to execution, discover how our innovative projects have made an impact. Connect with us to explore opportunities for collaboration and success."
+    ],
+    "buttons": [],
+    "stats": [],
+    "form": false,
+    "logos": false
+   },
+   {
+    "type": "case-studies",
+    "heading": null,
+    "intro": [],
+    "filters": [
+     "All",
+     "Web",
+     "Mobile"
+    ],
+    "items": [
+     {
+      "title": "Pluckk – Ecommerce",
+      "href": "/portfolio/pluckk-ecommerce",
+      "image": "/images/wp/2025-04-pluckk-main.jpg",
+      "tags": [
+       "Next.js",
+       "Node.JS",
+       "Figma"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Brain Training App – IoT",
+      "href": "/portfolio/neuphony-brain-training-app",
+      "image": "/images/wp/2025-04-neuphony-mobile-main.jpg",
+      "tags": [
+       "Internet on Things",
+       "Andriod",
+       "IOS"
+      ],
+      "category": "mobile"
+     },
+     {
+      "title": "Blackberrys – Online Clothing Store",
+      "href": "/portfolio/blackberrys-online-clothing-store",
+      "image": "/images/wp/2025-02-blackberrys-main.jpg",
+      "tags": [
+       "Shopify",
+       "ASP.NET",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": "mobile"
+     },
+     {
+      "title": "Neemans – Online Store",
+      "href": "/portfolio/neemans-online-store",
+      "image": "/images/wp/2025-02-neemans-main.jpg",
+      "tags": [
+       "Shopify",
+       "React",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Chumbak – Online Store",
+      "href": "/portfolio/chumbak-online-store",
+      "image": "/images/wp/2025-02-chumbakmain.jpg",
+      "tags": [
+       "Shopify",
+       "Angular JS",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "LifeNine – Social Card Mobile App",
+      "href": "/portfolio/lifenine-social-card-app",
+      "image": "/images/wp/2025-03-lifenine-mobile-main.jpg",
+      "tags": [
+       "Augmented Reality",
+       "IOS",
+       "Andriod",
+       "Social Networking"
+      ],
+      "category": "mobile"
+     },
+     {
+      "title": "Glen India – Online Store",
+      "href": "/portfolio/glen-india-online-store",
+      "image": "/images/wp/2025-02-glen-india-main.jpg",
+      "tags": [
+       "Shopify",
+       "Laravel",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "Wordpress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Art Hotel – Mobile App",
+      "href": "/portfolio/art-hotel-mobile-app",
+      "image": "/images/wp/2025-02-arthotel-mobile-main.jpg",
+      "tags": [
+       "Mobile App",
+       "Flutter",
+       "Booking Management System"
+      ],
+      "category": "mobile"
+     },
+     {
+      "title": "The Cruise Holidays – Travel Portal",
+      "href": "/portfolio/the-cruise-holidays-travel-portal",
+      "image": "/images/wp/2025-03-cruiseholidays-main.jpg",
+      "tags": [
+       "Next.js",
+       "React",
+       "Travel Booking Platform"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Waterbox – Animation Website",
+      "href": "/portfolio/waterbox-animation-website",
+      "image": "/images/wp/2025-04-waterbox-main.jpg",
+      "tags": [
+       "Wordpress",
+       "Live Animation",
+       "MYSQL"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "A Toddler Thing – Online Clothing Store",
+      "href": "/portfolio/a-toddler-thing-online-clothing-store",
+      "image": "/images/wp/2025-02-att.jpg",
+      "tags": [
+       "Shopify",
+       "Ecommerce",
+       "PHP"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "BookMyPickleball – Court Booking Site",
+      "href": "/portfolio/bookmypickleball-court-booking-site",
+      "image": "/images/wp/2025-04-pickle-ball-main.jpg",
+      "tags": [
+       "Wordpress",
+       "MYSQL",
+       "Booking Management System"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Sachin Steel – CMS",
+      "href": "/portfolio/sachin-steel-cms",
+      "image": "/images/wp/2025-03-sachinsteel-main.jpg",
+      "tags": [
+       "Wordpress",
+       "MYSQL",
+       "jQuery"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Opera Colorado – Ticketing & Events Platform",
+      "href": "/portfolio/opera-colorado-ticketing-events-platform",
+      "image": "/images/wp/2025-03-opera-colorado-main.jpg",
+      "tags": [
+       "Wordpress",
+       "MYSQL",
+       "Ticketing & Events Platform"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Unicollege – Web Development",
+      "href": "/portfolio/unicollege-webflow-development",
+      "image": "/images/wp/2025-02-unicollege-main.jpg",
+      "tags": [
+       "React",
+       "Sanity - CMS"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Shree Parshwnath Colourants – WordPress CMS",
+      "href": "/portfolio/shree-parshwnath-colourants",
+      "image": "/images/wp/2025-03-spc-main.jpg",
+      "tags": [
+       "Wordpress",
+       "Ecommerce"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Crozzo – Webflow Development",
+      "href": "/portfolio/crozzo-cms",
+      "image": "/images/wp/2025-02-crozzo-main.jpg",
+      "tags": [
+       "Webflow",
+       "JavaScript"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Quik-E – Mobile Repair Portal",
+      "href": "/portfolio/quik-e-mobile-repair-portal",
+      "image": "/images/wp/2025-03-quike-main.jpg",
+      "tags": [
+       "ASP.NET",
+       "jQuery"
+      ],
+      "category": "web"
+     },
+     {
+      "title": "Exotic Flora – Online Store",
+      "href": "/portfolio/exotic-flora-online-store",
+      "image": "/images/wp/2025-02-exotic-main.jpg",
+      "tags": [
+       "Shopify",
+       "Ecommerce",
+       "JavaScript"
+      ],
+      "category": "web"
+     }
+    ]
+   }
+  ]
+ },
+ "/portfolio/ai-apartment-rental-marketplace": {
+  "title": "AI Apartment Rental Marketplace",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "AI Apartment Rental Marketplace",
+    "image": "/images/wp/2025-02-ai-rental-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "AI Apartment Rental",
+     "Mobile App"
+    ],
+    "logo": null,
+    "text": [
+     "Property Rental APP is a dynamic mobile application that simplifies the apartment rental process in the US market. It connects tenants and listers, allowing listers to list their properties and tenants to search, filter, and apply for apartments. Pelicans Technologies was chosen for our expertise in building scalable, user-friendly mobile solutions that simplify complex workflows and deliver seamless digital experiences."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Features include property search with filters (location, rent, rooms, etc.), apartment videos, property tours, background checks, document sharing, contact signatures, and secure payments for deposits and rent."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-ai-rental-mob1.jpg",
+     "width": 640,
+     "height": 1340
+    },
+    "mobileImage": null
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-ai-rental-img1.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-ai-rental-mob11.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "four-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-ai-rental-mob-7.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-ai-rental-mob-9.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-ai-rental-mob-8.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-ai-rental-mob-10.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Handling Large Listings: The application needed to handle thousands of apartment listings displayed on a map, causing significant system lag.",
+     "Managing Video Playback and Memory: Efficient video management was crucial for smooth playback, without overwhelming the system’s memory.",
+     "Real-Time Data Integration: Incorporating real-world, up-to-date apartment data posed a challenge in providing accurate, live listings to users.",
+     "AI Chat bot: The chat feature needed to filter and provide accurate apartment listings based on user input. Implementing real-time chat functionality that could query the database and return the best results was a challenge via AI"
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "We restricted the number of apartment listings displayed on the map (100 to 250 per view) and implemented pagination. This, along with reusing existing views rather than generating new views each time, significantly improved performance.",
+     "To manage video playback, we optimized the video loading process by caching the first few seconds of the video for each apartment. If a user selects a video to view, the other videos in the listing would be pre-cached for smoother playback",
+     "To overcome the challenge of providing accurate data, we integrated third-party SDKs like IDX, which provided real-time apartment listing updates, ensuring that the app delivered the most current and relevant data to users.",
+     "Introduced automation tools to track guest interactions, enabling personalized experiences based on guest preferences, improving satisfaction and fostering loyalty.",
+     "We integrated an Open AI-powered chatbot that enabled tenants to interact and filter listings based on their preferences (location, price, number of rooms, etc.). This solution allowed users to get the best matches directly from the system, making the experience more personalized and efficient. Integrating the Open API was a significant learning experience that enhanced the app’s functionality"
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Advance listing and filters of apartments",
+     "Background check for tenant",
+     "Property tour booking & IDX scrapper",
+     "Apply for apartment digitally",
+     "Listing properties for rent",
+     "Apple subscription for listing apartments",
+     "Payment via stripe and apple pay",
+     "Mobile-friendly and visually engaging interface"
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "React Native",
+      "logo": "/images/wp/2024-12-react-native.svg",
+      "href": "/react-native"
+     },
+     {
+      "name": "LangChain",
+      "logo": "/images/wp/2025-02-lang-chain.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The solution improved the app's performance and user experience by handling large data sets, integrating real-time info, and introducing a chatbot API for personalized tenant searches. The client was very satisfied, particularly with the seamless communication, collaboration, and resolution of performance issues."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Neemans – Online Store",
+      "href": "/portfolio/neemans-online-store",
+      "image": "/images/wp/2025-02-neemans-main.jpg",
+      "tags": [
+       "Shopify",
+       "React",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Chumbak – Online Store",
+      "href": "/portfolio/chumbak-online-store",
+      "image": "/images/wp/2025-02-chumbakmain.jpg",
+      "tags": [
+       "Shopify",
+       "Angular JS",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Glen India – Online Store",
+      "href": "/portfolio/glen-india-online-store",
+      "image": "/images/wp/2025-02-glen-india-main.jpg",
+      "tags": [
+       "Shopify",
+       "Laravel",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/bookmypickleball-court-booking-site": {
+  "title": "BookMyPickleball - Court Booking Site",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "BookMyPickleball – Court Booking Site",
+    "image": "/images/wp/2025-02-pickleball-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Sports",
+     "Court Booking Platform"
+    ],
+    "logo": "/images/wp/2025-02-apa-pickleball-logo.jpg",
+    "text": [
+     "Pickleball Arena, a leading destination for pickleball enthusiasts, required a dynamic digital platform to streamline court reservations and improve player experience. The arena needed a real-time booking system, mobile-friendly interface, and automated scheduling tools to support growing demand and enhance operational efficiency.",
+     "Pelicans Technologies was chosen for our ability to deliver customized digital solutions that simplify complex booking workflows, boost user engagement, and enable sports facilities to scale effortlessly with smart, intuitive platforms."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The new UI design really got users more engaged and helped bring down the bounce rate. With interactive features and a more appealing design, users stuck around longer and interacted more deeply."
+    ],
+    "image": {
+     "src": "/images/wp/2025-04-pickleball-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-04-pickleball-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pickleball-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-pickleball-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pickleball-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pickleball-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-box-4.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-box-3.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pickleball-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-04-pickleball-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Ensuring real-time synchronization of court availability to prevent double bookings & Managing complex scheduling rules (e.g., recurring bookings, peak vs. non-peak hours)",
+     "Designing an intuitive interface that allows users to easily find, select, and book courts without confusion or friction.",
+     "Supporting bookings across multiple venues, each with different availability, pricing, and policies.",
+     "Implementing secure, seamless online payments with support for multiple payment methods.",
+     "Managing user accounts, memberships, and dynamic pricing based on user type (e.g., member, guest, group).",
+     "Implementing email/SMS/push notifications for booking confirmations, cancellations, and reminders."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "A dynamic scheduling system that updates availability instantly to avoid double bookings and manage overlapping reservations smartly.",
+     "Clean, intuitive UI/UX optimized for fast court selection, time slot navigation, and minimal input steps—reducing booking time to under a minute.",
+     "A scalable backend framework designed to handle multiple locations, each with unique schedules, pricing, and rules.",
+     "Seamless checkout with built-in payment gateway integration (Stripe, Razorpay, etc.), along with refund and wallet support.",
+     "Tools for managing user memberships, tiered pricing, and perks (e.g., early booking access, discounts, loyalty points).",
+     "Fully responsive design and progressive web app (PWA) support so users can book courts effortlessly from their phones."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Live Court Calendar View with interactive color-coded schedule showing availability by court and time slot.",
+     "Waitlist & Cancellation Handling with automatic notifications for waitlisted users when slots open up.",
+     "Custom Pricing Rules Set for weekends, tournaments, or prime time.",
+     "Club details, amenities, photos, and player reviews to help users pick the best location.",
+     "One-Click Rebooking for regular players or groups. SMS/email notifications for bookings, cancellations, and upcoming sessions.",
+     "Personal dashboards with full booking records, preferences, and membership status."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By transforming Pickleball Arena’s digital infrastructure, Pelicans Technologies has empowered the brand with a seamless, real-time court booking experience—strengthening its position as a premier destination for pickleball enthusiasts."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/a-toddler-thing-online-clothing-store": {
+  "title": "A Toddler Thing - Online Clothing Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "A Toddler Thing – Online Clothing Store",
+    "image": "/images/wp/2025-02-att-top-bg.jpg",
+    "video": "3AU0JOSjPQc"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2024-12-atoddlerthing-logo.png",
+    "text": [
+     "A Toddler Thing, an online store offering natural, sustainable, and safe baby essentials, needed a user-friendly and reliable digital platform to reflect its commitment to high-quality, eco-conscious products. The brand required a seamless eCommerce solution, an easy-to-navigate ordering system, and a warm, engaging experience to connect with parents and drive sales.",
+     "Pelicans Technologies was chosen for our expertise in building intuitive digital solutions that enhance customer experiences, streamline processes, and strengthen brand loyalty."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "After refreshing our UI, we noticed a huge improvement in user engagement. The interactive features and sleek design kept users interested, encouraging longer stays and more in-depth interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-att-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-att-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-att-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-att-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-att-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-att-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-att-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-att-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-att-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-att-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-att-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-att-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-att-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-att-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "As a new brand, A Toddler Thing needed to create a compelling online identity to attract and engage customers in a competitive market.",
+     "With a significant portion of users shopping via mobile devices, it was crucial to provide a seamless mobile experience.",
+     "Designing an intuitive and user-friendly interface to enhance customer satisfaction and reduce bounce rates was essential.",
+     "Efficiently handling inventory levels and processing orders to maintain customer satisfaction.",
+     "Utilizing tools to track user behavior, manage marketing campaigns, and analyze website performance.",
+     "Effectively communicating the brand’s commitment to sustainability and premium quality to resonate with the target audience."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Leveraged Shopify’s inventory management system to track stock levels in real-time and streamline order processing, ensuring timely fulfillment.",
+     "Focused on intuitive navigation, clear product categorization, and a streamlined checkout process to facilitate easy browsing and purchasing.",
+     "Designed custom responsive theme to ensure the website provides an excellent user experience across all devices, particularly smartphones and tablets.",
+     "Dedicated sections on the website to communicate the brand’s commitment to sustainability, including information about toxin-free materials and ethical manufacturing processes.",
+     "Built the website on Shopify’s scalable platform, allowing for easy addition of new products, categories, and features as the business grows.",
+     "Designed a visually appealing website that reflects the brand’s identity and appeals to the target audience."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Detailed listings of baby essentials, cloth diapers, nappies, clothing, and bedding, each with high-quality images and thorough descriptions.",
+     "Products organized by the baby's age group (Newborn, Baby, Toddler, Kid) to assist customers in finding age-appropriate items.",
+     "A clean, organized menu and search functionality enabling customers to find products effortlessly.",
+     "Offers various payment methods, including credit/debit cards, UPI, and digital wallets, with secure payment gateways ensuring customer trust.",
+     "Provided information on the website about the brand's commitment to sustainability and the benefits of using non-toxic materials, educating customers and reinforcing brand values.",
+     "Provides customers with real-time order tracking, enhancing transparency and reducing customer anxiety regarding order status."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The development of A Toddler Thing's Shopify website successfully addressed the unique challenges of establishing an online presence in the competitive baby essentials market. By focusing on user experience, secure transactions, and brand storytelling, the website not only attracts and retains customers but also positions the brand as a trusted provider of sustainable and high-quality baby products."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://www.atoddlerthing.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/art-hotel-mobile-app": {
+  "title": "Art Hotel - Mobile App",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Art Hotel – Mobile App",
+    "image": "/images/wp/2025-02-artmobile-main-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Hotel Management",
+     "Booking Platform"
+    ],
+    "logo": "/images/wp/2024-12-arthotel-logo-1.png",
+    "text": [
+     "Art Hotel, a luxury hotel brand, sought a sophisticated mobile platform that could offer seamless booking experiences, display their diverse food menu, and reward loyal customers with exclusive benefits. The hotel wanted to provide guests with a premium digital experience that reflected the elegance and convenience of their services.",
+     "Pelicans Technologies was chosen for our proficiency in designing intuitive mobile applications that elevate customer engagement, simplify processes, and enhance brand loyalty. With our expertise in developing cutting-edge solutions, we created an all-in-one platform for Art Hotel, where guests can effortlessly book rooms, browse a curated menu, and earn reward points that unlock special privileges, making every stay a memorable one."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our revamped UI boosted user engagement, significantly reducing the website’s bounce rate. Interactive features and engaging design captivated users, fostering longer sessions and deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-artmobile-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    },
+    "mobileImage": null
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-img2.jpg",
+      "width": 1820,
+      "height": 1260
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-7.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-8.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-9.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "four-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-10.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-11.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-12.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-artmobile-mob-13.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Creating a visually appealing interface that reflects the hotel’s artistic theme while ensuring usability.",
+     "Developing a booking system that synchronizes with existing hotel reservation systems without causing disruptions.",
+     "Implementing features that allow guests to customize their stay, such as requesting room service or arranging art tours.",
+     "Ensuring the app functions seamlessly across various devices and operating systems.",
+     "Faced a challenge in automating the customer reward points process.",
+     "Developing strategies to keep users engaged and encourage repeat usage of the app."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Engaged artists and UI/UX designers to create an interface that embodies the hotel’s artistic ambiance.",
+     "Developed APIs to connect the app with the hotel’s reservation system, enabling real-time booking and availability updates",
+     "Integrated features allowing guests to personalize their stay, such as scheduling art tours or requesting specific room amenities.",
+     "Implemented Push Notifications to send real-time updates about hotel events, promotions, and art installations.",
+     "Developed the app using responsive design principles to ensure compatibility across various devices and screen sizes.",
+     "Added features to reward repeat users, such as exclusive deals and personalized offers."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Allows users to browse and book artistically designed rooms that reflect the hotel's creative ambiance.",
+     "Provides access to Loyalty Program available only through the app.",
+     "Integrated eCommerce to sell Hotel products",
+     "Features a clean and intuitive design, making navigation and booking processes straightforward.",
+     "Restaurants menu integration via API",
+     "Allows guests to provide feedback on their stay and read reviews from other visitors."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Flutter",
+      "logo": "/images/wp/2024-12-flutter-1.svg",
+      "href": "/flutter"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The app has enhanced guest interaction with hotel services, increased direct bookings while reducing reliance on third-party platforms, and received praise for its design and functionality, reflecting the hotel's artistic brand."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://play.google.com/store/apps/details?id=com.hexagon.art_hotel&hl=en_US&pli=1",
+      "image": "/images/wp/2025-02-google-play-img.png",
+      "label": ""
+     },
+     {
+      "href": "https://apps.apple.com/us/app/the-art-hotel/id6473917412",
+      "image": "/images/wp/2025-02-app-store-img.png",
+      "label": ""
+     },
+     {
+      "href": "https://arthotelng.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Neemans – Online Store",
+      "href": "/portfolio/neemans-online-store",
+      "image": "/images/wp/2025-02-neemans-main.jpg",
+      "tags": [
+       "Shopify",
+       "React",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Chumbak – Online Store",
+      "href": "/portfolio/chumbak-online-store",
+      "image": "/images/wp/2025-02-chumbakmain.jpg",
+      "tags": [
+       "Shopify",
+       "Angular JS",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Glen India – Online Store",
+      "href": "/portfolio/glen-india-online-store",
+      "image": "/images/wp/2025-02-glen-india-main.jpg",
+      "tags": [
+       "Shopify",
+       "Laravel",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/art-hotel-hotel-booking-website": {
+  "title": "Art Hotel - Hotel Booking Website",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Art Hotel Nigeria – Hotel Booking Website",
+    "image": "/images/wp/2025-02-top-bg.jpg",
+    "video": "BCQKqSCqWfQ"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Travel",
+     "Hospitality"
+    ],
+    "logo": "/images/wp/2024-12-arthotel-logo-1.png",
+    "text": [
+     "Art Hotel NG, a premier luxury hotel in Nigeria, required a seamless digital experience to match its sophisticated brand. The hotel sought to redesign its website, implemented robust content management system (CMS), create a streamlined booking platform, and an integrated eCommerce solution to enhance guest interactions and optimize operations.",
+     "Pelicans Technologies was chosen for our expertise in delivering tailored digital solutions that elevate user experience, drive operational efficiency, and enhance customer engagement."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The new UI design really got users more engaged and helped bring down the bounce rate. With interactive features and a more appealing design, users stuck around longer and interacted more deeply."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-img1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-mob1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-mob2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-img2.jpg",
+      "width": 1820,
+      "height": 1260
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-img1-1.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-mob3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-mob4.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-mob5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-box1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-box2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-box3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-box4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-img4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-mob1.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Inefficient manual booking and reservation management leading to errors, delays, and increased administrative effort, negatively impacting guest satisfaction",
+     "Lack of a unified eCommerce platform for hotel services results in fragmented guest experiences, making it difficult to manage bookings and amenities efficiently",
+     "Limited online presence and digital brand engagement reduce the hotel’s visibility, making it harder to attract potential guests and build long-term loyalty.",
+     "Difficulty in tracking guest interactions and preferences, making it hard to personalize services, improve satisfaction, and foster repeat business effectively.",
+     "Suboptimal user experience leading to lower conversions leads to frustration, causing potential guests to abandon bookings and reducing conversions."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Created a tailored content management system that simplifies content updates and ensures smooth management of website materials, reducing manual effort and time.",
+     "Implemented an easy-to-use booking platform, streamlining the reservation experience and making it more efficient for guests to book rooms and services with minimal effort.",
+     "Developed an integrated eCommerce solution that enables guests to easily purchase additional hotel services, such as dining, activities, and amenities, enhancing revenue opportunities.",
+     "Introduced automation tools to track guest interactions, enabling personalized experiences based on guest preferences, improving satisfaction and fostering loyalty.",
+     "Optimized website performance to ensure faster load times and implemented robust security measures, boosting reliability, reducing downtime, and providing a safer browsing experience."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Custom CMS for efficient content updates",
+     "Seamless booking platform with real-time availability",
+     "Integrated eCommerce for hotel services and promotions",
+     "Reward Points for Guest users",
+     "Mobile-friendly and visually engaging interface"
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By transforming Art Hotel NG’s digital landscape, Pelicans Technologies has empowered the brand with a seamless, high-performing online experience, reinforcing its reputation as a top-tier hospitality provider."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://arthotelng.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/glen-india-online-store": {
+  "title": "Glen India - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Glen India – Online Store",
+    "image": "/images/wp/2025-02-glen-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2024-12-glen-logo-1.png",
+    "text": [
+     "Glen India, a leading brand in kitchen appliances, needed a modern and efficient digital platform to showcase its high-quality products and cater to home cooks and kitchen enthusiasts. The brand sought a reliable eCommerce solution, a smooth shopping experience, and an intuitive interface to drive sales and elevate customer satisfaction.",
+     "Pelicans Technologies was selected for our expertise in delivering dynamic digital solutions that enhance customer engagement, simplify purchasing, and elevate brand presence in the online market."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The new UI made it easier for users to get engaged, and as a result, the bounce rate dropped significantly. With its interactive design and captivating visuals, users stayed longer and really connected with the site."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-glen-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-glen-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-glen-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-glen-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-glen-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-glen-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-glen-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-glen-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-glen-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-glen-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-glen-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-glen-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-glen-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-glen-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Glen India’s previous website was not up to date with modern design standards.",
+     "As mobile shopping became more prevalent, Glen India’s website wasn’t optimized for mobile devices",
+     "The navigation was cluttered and confusing, which made it difficult for users to find products, understand product categories, or complete the purchase journey.",
+     "The website lacked modern payment gateways and didn’t provide customers with secure and diverse payment methods, which could potentially reduce conversions.",
+     "Glen India’s branding was not effectively communicated through the website.",
+     "Managing a large inventory of kitchen appliances was challenging without an integrated and automated order and inventory management system"
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Redesigned the website using a modern, visually appealing layout that aligns with the brand’s premium positioning",
+     "Shopify’s multi-level navigation system was used to organize products into clearly defined categories such as “Induction Cookers,” “Blenders,” and “Kitchen Appliances.”",
+     "Shopify Payments was integrated to support various payment methods including credit/debit cards, UPI, and digital wallets.",
+     "Glen India enhanced product pages by adding detailed product descriptions, feature highlights, and high-resolution images for a better product presentation.",
+     "Glen India used Shopify’s built-in inventory management system to ensure accurate tracking of stock levels in real-time.",
+     "To boost sales and track website performance, Glen India integrated Google Analytics and Facebook Pixel to monitor user behavior, track conversions, and optimize marketing campaigns."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Each product page is designed with clear, concise descriptions, feature lists, and high-quality images. There are also product comparison features to help customers choose the best appliances based on their needs.",
+     "Checkout process is simple and intuitive, with a one-page checkout, offering multiple payment options, and the ability to track orders",
+     "Integrated Shopify Chat and third-party apps like Tidio to offer real-time customer support, helping users with product queries, order inquiries, and troubleshooting.",
+     "Customers can easily filter products by category, price range, popularity, or customer ratings. This makes it easier to navigate through hundreds of products and find the right fit for their needs.",
+     "Each product page includes customer reviews and ratings, helping to build trust and encourage potential buyers. Positive feedback from users helps in persuading new customers.",
+     "Glen India provides flexible shipping options including express shipping, standard delivery, and free shipping for certain order values."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The new website for Glen India, developed using Shopify, successfully overcame the challenges posed by an outdated design, lack of mobile optimization, and inefficient order management. By leveraging Shopify’s robust features such as inventory management, mobile responsiveness, secure payments, and scalability, Glen India can now offer a premium shopping experience to its customers."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://glenindia.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/blackberrys-online-clothing-store": {
+  "title": "Blackberrys - Online Clothing Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Blackberrys – Online Clothing Store",
+    "image": "/images/wp/2025-02-blackberrys-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2024-12-blackberrys-logo-1.png",
+    "text": [
+     "Blackberry, a premium online store specializing in suits, blazers, shirts, and accessories, required a sophisticated and seamless digital platform to match its high-end fashion offerings. The brand sought a refined eCommerce solution, a smooth browsing experience, and an elegant interface to captivate style-conscious customers and drive sales.",
+     "Pelicans Technologies was chosen for our expertise in creating dynamic, user-friendly digital solutions that enhance customer experiences, streamline transactions, and elevate brand presence in the competitive online fashion market."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "After revamping the UI, user engagement skyrocketed, and we saw a big drop in bounce rate. Interactive features and a fun, engaging design kept users around longer, sparking deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-blackberrys-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-blackberrys-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-blackberrys-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-blackberrys-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-blackberrys-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-blackberrys-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-blackberrys-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Sizing issues are common when buying suits and blazers online. Incorrect sizes can lead to high return rates, causing logistical challenges",
+     "Inventory management becomes complex with a range of sizes and colors for suits and blazers. Maintaining accurate stock levels and preventing overselling is critical to avoid stockouts",
+     "Customers may hesitate to buy high-end items like suits and blazers online due to concerns about product quality, fit, or the return process.",
+     "High-ticket items like suits and blazers may not be frequently repurchased, making customer retention a challenge.",
+     "Customers may want to visit a physical store to try on suits and blazers before purchasing online.",
+     "Poor website interface of previous design made customers hesitant to purchase"
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Integrate detailed size guides and recommend sizing based on customer measurements.",
+     "Use Shopify’s built-in inventory management system to track stock levels in real-time.",
+     "Encourage customer confidence by displaying detailed product descriptions, customer reviews, and testimonials. Offer clear and hassle-free return policies, as well as information about the quality, fabric, and craftsmanship of the suits",
+     "Introduce a loyalty program “Blackberrys Club” to reward repeat customers with points, discounts, or exclusive offers.",
+     "Integrated store locator feature on the website. This will allow customers to easily find the nearest physical store based on their location, enhancing the overall shopping experience.",
+     "Designed Shopify’s customizable theme to create a sleek, luxurious design that reflects the quality of the products."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "High-end, visually appealing theme that reflects the luxury of the brand.",
+     "Multiple angles shots of suits & blazers showcasing fabric texture and craftsmanship.",
+     "Integration of fit recommendation tools to help customers assess fit and style.",
+     "Customized email campaigns based on customer preferences and browsing history to drive sales and engagement.",
+     "Integration of a customer loyalty program to incentivize repeat purchases and foster brand loyalty.",
+     "Integration with Facebook Ads Manager and Google Smart Shopping to run targeted ad campaigns and drive traffic.",
+     "Integrated store locator feature to help customers find physical store locations.",
+     "Detailed size charts and fit breakdowns (slim fit, regular fit) to help customers choose the right size."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The development of Blackberrys' new website using Shopify addressed several key challenges and resulted in a modern, sleek, and user-friendly online store. The seamless shopping experience, high-quality product presentation, and optimized mobile functionality helped the brand build a stronger online presence, improve conversions, and cater to a broader customer base."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://blackberrys.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/crozzo-cms": {
+  "title": "Crozzo - Webflow Development",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Crozzo – CMS",
+    "image": "/images/wp/2025-02-crozzo-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "CMS",
+     "Webflow"
+    ],
+    "logo": "/images/wp/2024-12-crozzo-logo.png",
+    "text": [
+     "Crozzo, a leading provider of premium frozen food solutions, sought a modern and efficient platform to showcase their wide range of frozen products and streamline their business operations. The brand needed a dynamic and user-friendly content management system (CMS) to easily manage product listings, update offerings, and provide customers with an engaging and informative experience.",
+     "Pelicans Technologies was selected for our expertise in developing tailored digital solutions that enhance brand visibility and simplify content management. Using Webflow, we created a flexible and intuitive CMS for Crozzo, allowing them to effortlessly update product information, display detailed descriptions, and ensure a smooth browsing experience for customers."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The new design for the UI helped boost user engagement. With interactive elements and a captivating look, users stayed longer and enjoyed more in-depth interactions with the site."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-crozzo-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-crozzo-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-crozzo-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-crozzo-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-crozzo-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-crozzo-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-crozzo-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Since Crozzo specializes in frozen food, visually representing freshness and quality through a digital medium can be challenging.",
+     "Keeping visitors engaged and encouraging them to explore the full range of products is essential but requires an intuitive design and strong visuals.",
+     "As a growing food brand, Crozzo needs strong SEO strategies to rank well and compete in search results.",
+     "With a large number of users accessing websites via mobile, ensuring a seamless browsing experience across devices is crucial."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Professional images and appealing visuals help create a perception of freshness and premium quality.",
+     "A visually rich yet clean UI, with smooth navigation to explore product categories effortlessly.",
+     "Website is fully responsive, ensuring fast load times and an easy-to-navigate experience on mobile devices.",
+     "Well-structured product pages, meta tags, and keyword-rich descriptions help improve search rankings."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "High-quality images, clear descriptions, and a structured layout enhance product visibility.",
+     "Provided insights into Crozzo’s commitment to quality and its state-of-the-art food manufacturing process.",
+     "A smooth and intuitive experience across all devices, with fast-loading pages.",
+     "Proper use of headings, metadata, and alt text for better search engine indexing."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Webflow",
+      "logo": "/images/wp/2024-12-webflow.svg",
+      "href": "/webflow"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing the challenges associated with Webflow development through available resources and expert collaboration, Crozzo has established a robust online presence that effectively showcases its products and services."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://www.crozzo.in/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/chumbak-online-store": {
+  "title": "Chumbak - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Chumbak – Online Store",
+    "image": "/images/wp/2025-02-chumbak-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2024-12-chumbak-logo.png",
+    "text": [
+     "Chumbak, a vibrant online store offering a wide range of unique gift items, home decor, bags, travel accessories, and watches, needed an engaging and seamless digital platform to captivate customers and drive sales. The brand sought an eCommerce solution that could showcase their diverse product range, offer a smooth shopping experience, and provide personalized recommendations to enhance customer satisfaction.",
+     "Pelicans Technologies was chosen for our expertise in creating dynamic, visually appealing, and user-friendly eCommerce platforms. We developed a tailored solution for Chumbak, ensuring a seamless browsing and shopping experience across all product categories."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "With the updated UI, user engagement went up, and the bounce rate went down. The interactive features and engaging design kept users on the site longer and led to more meaningful interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-chumbak-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-chumbak-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-chumbak-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-chumbak-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-chumbak-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-chumbak-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-chumbak-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Managing such a vast catalog can make product discovery challenging for customers.",
+     "Maintaining high levels of customer engagement on the website is crucial. Low engagement can lead to increased bounce rates and reduced sales conversions.",
+     "Providing a seamless shopping experience across both online and offline channels requires effective integration between e-commerce platforms and physical retail operations.",
+     "Expanding globally involves challenges like international shipping, multi-currency pricing, and adapting marketing strategies to diverse markets.",
+     "Streamlining operations, especially during peak seasons, necessitates efficient order processing, inventory management, and fulfillment strategies"
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Chumbak implemented AI-powered product recommendation engines to personalize the shopping experience, helping customers find products that match their preferences.",
+     "The brand leveraged targeted digital marketing strategies and personalized content to boost customer engagement, leading to increased time spent on the site and higher conversion rates.",
+     "Chumbak partnered with Unicommerce to integrate its online and offline operations, ensuring a seamless omnichannel experience.",
+     "To cater to international customers, Chumbak incorporated features like international shipping options and multi-currency pricing.",
+     "By adopting advanced e-commerce solutions and integrating them with existing ERP systems like Microsoft AX, Chumbak enhanced operational efficiencies, ensuring timely order processing and fulfillment."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "The store offers a wide array of products across categories such as Furniture, Bed & Furnishing, Decor, Kitchen & Dining, Bags & Wallets, Watches, and Beauty & Fragrance",
+     "The website is designed with intuitive navigation, allowing customers to browse products effortlessly across various categories and collections.",
+     "Chumbak provides multiple payment methods, including credit/debit cards, net banking, and digital wallets, ensuring secure and convenient transactions for customers.",
+     "Chumbak offers loyalty programs and regular promotions, rewarding repeat customers and attracting new ones.",
+     "The website is optimized for various devices, offering a seamless shopping experience across desktops, tablets, and smartphones.",
+     "Real-time order tracking allows customers to monitor the status of their purchases, enhancing transparency and trust"
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges with strategic solutions and incorporating user-centric features, Chumbak has established a robust online presence, delivering a satisfying and efficient shopping experience to its customers."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://www.chumbak.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/exotic-flora-online-store": {
+  "title": "Exotic Flora - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Exotic Flora – Online Store",
+    "image": "/images/wp/2025-02-exotic-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Shopify"
+    ],
+    "logo": "/images/wp/2025-02-exotic-flora-logo.png",
+    "text": [
+     "Exotic Flora, an online retailer specializing in a wide variety of unique plants, sought a digital platform that would enhance the customer shopping experience while showcasing their diverse range of flora. The brand needed an intuitive eCommerce solution, an easy-to-navigate product catalog, and a streamlined ordering system to cater to plant enthusiasts of all levels.",
+     "Pelicans Technologies was chosen for our expertise in building engaging and user-friendly digital platforms that drive customer satisfaction and increase sales. With our deep understanding of eCommerce, we developed a seamless mobile and web solution for Exotic Flora, allowing customers to effortlessly browse through an extensive selection of plants, place orders with ease, and receive personalized recommendations."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our revamped UI boosted user engagement, significantly reducing the website’s bounce rate. Interactive features and engaging design captivated users, fostering longer sessions and deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-exotic-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-exotic-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-exotic-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-exotic-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-exotic-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-exotic-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-exotic-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Plants are perishable and often seasonal, making inventory management complex. Overstocking can lead to waste, while understocking may result in missed sales opportunities.",
+     "Ensuring plants arrive in optimal condition requires careful packaging and timely delivery, as they are susceptible to damage during transit.",
+     "Different regions may have specific regulations regarding the transportation of plants to prevent the spread of pests and diseases.",
+     "Customers may lack knowledge about plant care, leading to dissatisfaction if plants do not thrive post-purchase."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Utilizing specialized inventory management tools helps track stock levels, predict demand, and manage seasonal variations effectively",
+     "Developing packaging solutions that protect plants during transit and partnering with reliable courier services ensures plants reach customers in good condition.",
+     "Staying informed about regional plant shipping laws and implementing necessary measures ensures adherence to regulations",
+     "Offering detailed plant care guides and responsive customer support empowers customers to maintain their plants successfully."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "The website offers a wide range of plant categories, including indoor plants, flowering plants, fruit plants, outdoor trees, and medicinal plants, catering to various customer preferences.",
+     "Clear categorization and a search function enable customers to easily find and select desired plants.",
+     "Providing an online blog or knowledge base for plant care tips.",
+     "Providing high-quality images and videos of actual plants for better decision-making."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges through smart solutions and incorporating key features, Exotic Flora can improve its online presence, enhance customer experience, and drive more conversions."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://exoticflora.in/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/nivose-france-online-store": {
+  "title": "Nivose France - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Nivose France – Online Store",
+    "image": "/images/wp/2025-02-nivose-top-bg.jpg",
+    "video": "ye06e0uvI5c"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Online Store",
+     "Ecommerce"
+    ],
+    "logo": "/images/wp/2024-12-nivose-logo-1.png",
+    "text": [
+     "Nivose, a premium online store specializing in ski wear and thermal clothing, needed a dynamic and user-friendly digital platform to showcase its high-performance apparel designed for extreme weather conditions. The brand required a seamless eCommerce solution, a smooth shopping experience, and an engaging interface to attract adventure enthusiasts and drive sales.",
+     "Pelicans Technologies was chosen for our expertise in creating innovative digital solutions that enhance customer engagement, streamline purchasing, and elevate the brand’s presence in the competitive outdoor apparel market."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our redesigned UI really grabbed users’ attention, and we saw a huge drop in the bounce rate. Thanks to the interactive features and engaging design, users spent more time on the site and connected with it on a deeper level."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-nivose-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-nivose-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-nivose-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-nivose-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-nivose-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-nivose-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-nivose-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "One of the key problems was ensuring the website consistently reflected Nivose’s luxury, high-end brand identity.",
+     "Ensuring that the products were accurately represented through images, videos, and descriptions was critical.",
+     "Client faced challenges in ensuring that visitors could find products quickly and easily, without feeling overwhelmed by too many options.",
+     "Adding a store locator feature that allowed customers to easily find Nivose’s physical retail locations posed a challenge",
+     "Client faced difficulties in ensuring a consistent, clear, and reliable international shipping experience.",
+     "Since Nivose sells high-end outerwear, providing customers with accurate size guides and fit information was a challenge"
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Utilize high-quality imagery, detailed product descriptions, and a consistent “Mountain Chic” aesthetic throughout the website.",
+     "Integrated lookbooks and professional styling images to showcase collections in various settings, emphasizing quality and design.",
+     "Simplify the navigation with clear product categories (Women, Men, Accessories)",
+     "Integrated store locator to help customers find the nearest Nivose physical store, enhancing the shopping experience",
+     "Implemented clear shipping cost and tax calculators to support global customers and ensure transparency at checkout.",
+     "Provide a detailed size guide and ensure easy access to return/exchange policies to reduce uncertainty around fit."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Lifestyle imagery that shows the products being worn in outdoor settings, aligning with the brand's luxurious yet rugged outdoor aesthetic.",
+     "Curated seasonal collections displayed in lookbooks or styled sets, offering inspiration for customers",
+     "Organized product listings categorized by Men, Women, and Accessories for easier navigation.",
+     "Integrated store locator to help customers find the nearest Nivose physical store",
+     "Clear and transparent global shipping options with accurate calculations for shipping costs, taxes, and duties at checkout",
+     "Dedicated section that shares the brand’s commitment to sustainability, craftsmanship, and ethical production processes."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By transforming Art Hotel NG’s digital landscape, Pelicans Technologies has empowered the brand with a seamless, high-performing online experience, reinforcing its reputation as a top-tier hospitality provider."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://nivose.fr/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Neemans – Online Store",
+      "href": "/portfolio/neemans-online-store",
+      "image": "/images/wp/2025-02-neemans-main.jpg",
+      "tags": [
+       "Shopify",
+       "React",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/neemans-online-store": {
+  "title": "Neemans - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Neemans – Online Store",
+    "image": "/images/wp/2025-02-neemans-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2024-12-neemans-logo.png",
+    "text": [
+     "Neeman’s, a stylish and eco-conscious online shoe brand, needed a sleek and efficient digital platform to match its innovative, sustainable footwear. The brand sought a powerful eCommerce solution, a smooth ordering experience, and an engaging interface to attract shoe lovers and drive conversions.",
+     "Pelicans Technologies was selected for our proven expertise in creating dynamic digital solutions that elevate customer experiences, simplify transactions, and increase brand loyalty."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our revamped UI really made users feel more engaged, and we saw the bounce rate drop a lot. The mix of interactive elements and an attractive design kept users sticking around for longer and having deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-neemans-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-neemans-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-neemans-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-neemans-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-neemans-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-neemans-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-neemans-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "With Neeman’s rapid growth, tracking and managing inventory across various online platforms became increasingly complex",
+     "Despite having a strong customer base, the brand faced challenges in keeping customers engaged and ensuring they returned for repeat purchases.",
+     "Neeman’s needed strategies to differentiate itself from well-established brands and maintain its competitive edge in a crowded market.",
+     "Although Neeman’s emphasizes sustainability in its products, educating customers about the importance of sustainable fashion and the brand’s eco-friendly initiatives posed a challenge.",
+     "As demand for Neeman’s shoes grew, scaling operations without sacrificing customer experience became a major concern",
+     "With increased online shopping, ensuring a seamless and optimized user experience was vital."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Streamlined its order and inventory management using Shopify’s built-in tools and third-party integrations like Shopify Flow and Shopify POS",
+     "Implemented targeted email marketing campaigns through Shopify Email and other integrated apps like Klaviyo",
+     "Utilized Shopify’s customizable product pages and content blocks to emphasize their sustainability efforts",
+     "Ensured that their website is fully mobile-optimized by using Shopify’s responsive themes.",
+     "Integrated Shopify’s live chat feature and provided real-time order tracking using Shopify’s order tracking feature",
+     "Implemented a loyalty program rewarding repeat customers with points that could be redeemed for discounts"
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "The website features a clear emphasis on sustainability, with products made from eco-friendly materials like merino wool and eucalyptus tree fibers",
+     "Neeman's website is designed for easy navigation, with intuitive categories, filters, and a quick search function to help customers find products based on size, color, and style preferences.",
+     "Neeman’s ensures a smooth and efficient checkout process with multiple payment options, including credit/debit cards, UPI, and digital wallets.",
+     "The website is fully optimized for mobile devices, ensuring that customers have a responsive, enjoyable shopping experience, regardless of the device they use.",
+     "The website has a dedicated section that outlines Neeman's commitment to sustainability, showcasing their eco-friendly materials and practices.",
+     "The website integrates personalized product recommendations based on browsing history, past purchases, and user preferences"
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Shopify",
+      "logo": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "Neeman’s has successfully leveraged digital marketing, sustainable product offerings, and seamless online shopping experiences to overcome challenges in a competitive footwear market. Their emphasis on sustainability and personalized customer engagement has helped them build a loyal customer base, while their e-commerce platform has enabled them to scale operations effectively."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://neemans.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/lifenine-social-card-app": {
+  "title": "LifeNine - Social Card Mobile App",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "LifeNine – Social Card Mobile App",
+    "image": "/images/wp/2025-03-lifenine-main-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Augmented Reality",
+     "Social Network Platform"
+    ],
+    "logo": "/images/wp/2025-03-lifenine-port-logo.png",
+    "text": [
+     "LifeNine, an innovative lifestyle brand, envisioned a dynamic mobile platform that would redefine how users connect, share, and showcase their personal and professional identities. The goal was to create a sleek, interactive app that allows users to craft digital social cards—modern, stylish alternatives to traditional business cards—while seamlessly integrating social networking features.",
+     "Pelicans Technologies was brought on board for our expertise in building engaging mobile ecosystems that merge functionality with elegance. Leveraging our experience in intuitive UI/UX and real-time networking capabilities, we developed the LifeNine Mobile App"
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our revamped UI boosted user engagement, significantly reducing the website’s bounce rate. Interactive features and engaging design captivated users, fostering longer sessions and deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-lifenine-img1.jpg",
+     "width": 640,
+     "height": 1340
+    },
+    "mobileImage": null
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-lifenine-topmain.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-img7.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-lifenine-img8.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-img9.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "four-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-lifenine-img10.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-img11.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-img12.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-lifenine-img13.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "As a new entrant in the digital identity and networking space, LifeNine faced the challenge of differentiating itself in a market dominated by traditional business cards and networking platforms.",
+     "Ensuring the privacy and security of user information, especially when sharing contact details and personal data, was a critical concern.",
+     "Designing a platform that balances simplicity for everyday users with customization options for professionals demanded thoughtful UX planning.",
+     "To appeal to a global user base, the app needed to support multiple languages, including English, French, Spanish, Arabic, and Mandarin.",
+     "Providing timely user support and guidance across different regions and time zones required scalable and automated customer service solutions.",
+     "Integrating with diverse contact-sharing technologies (QR, NFC, email, and social media) posed a challenge in maintaining consistency and reliability."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "LifeNine positioned itself as a smart, eco-friendly alternative to traditional business cards by emphasizing personalization, convenience, and digital-first networking.",
+     "The app was built with a strong security framework, featuring end-to-end encryption, user-controlled data sharing, and privacy-first design principles.",
+     "Partnering with expert UI/UX designers, LifeNine delivered a clean, modern interface that simplifies the creation and sharing of digital social cards.",
+     "The platform was localized in multiple languages to enhance accessibility and broaden its appeal to international users.",
+     "LifeNine incorporated an AI-driven help center, in-app tutorials, and live chat support to ensure users receive timely assistance, no matter their location.",
+     "The app seamlessly integrates with various sharing technologies, allowing users to connect using QR codes, NFC, links, or direct social media handles."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Users can create and personalize multiple social cards—for work, events, or personal use—each with dynamic links, bios, and themes.",
+     "Instant sharing via QR, NFC, or custom URLs makes networking effortless and memorable.",
+     "A built-in analytics dashboard offers insights into profile visits, link clicks, and user engagement.",
+     "Cross-platform accessibility ensures users can create, edit, and share cards from any device—mobile, tablet, or desktop.",
+     "The app supports media-rich cards, allowing users to embed videos, portfolios, social feeds, and more.",
+     "LifeNine promotes community interaction through networking hubs, interest-based groups, and in-app events, turning contact exchange into ongoing connection."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "iOS",
+      "logo": "/images/wp/2024-12-ios.svg",
+      "href": "/ios-development"
+     },
+     {
+      "name": "Android",
+      "logo": "/images/wp/2024-12-android-1.svg",
+      "href": "/android"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The LifeNine Mobile App has transformed how users connect and present themselves in both personal and professional spaces. It has significantly improved user engagement, encouraged organic sharing and networking, and reduced dependence on outdated physical business cards or fragmented contact methods. The app has been widely praised for its sleek design, intuitive functionality, and innovative approach to digital identity—perfectly aligning with LifeNine’s modern, forward-thinking brand."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://apps.apple.com/in/app/lifenine/id1547159702",
+      "image": "/images/wp/2025-02-app-store-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Neemans – Online Store",
+      "href": "/portfolio/neemans-online-store",
+      "image": "/images/wp/2025-02-neemans-main.jpg",
+      "tags": [
+       "Shopify",
+       "React",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Chumbak – Online Store",
+      "href": "/portfolio/chumbak-online-store",
+      "image": "/images/wp/2025-02-chumbakmain.jpg",
+      "tags": [
+       "Shopify",
+       "Angular JS",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Glen India – Online Store",
+      "href": "/portfolio/glen-india-online-store",
+      "image": "/images/wp/2025-02-glen-india-main.jpg",
+      "tags": [
+       "Shopify",
+       "Laravel",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/neuphony-brain-training-app": {
+  "title": "Brain Training App - IoT",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Brain Training App – IoT",
+    "image": "/images/wp/2025-03-lifenine-main-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Internet on Things",
+     "Mental Fitness Platform"
+    ],
+    "logo": "/images/wp/2025-04-neuphony-logo.png",
+    "text": [
+     "A trailblazing neurotech brand, set out to empower individuals on their journey toward better mental well-being and peak cognitive performance. Their vision was to create a seamless platform that bridges neuroscience with everyday life making brain health more accessible, measurable, and actionable through state-of-the-art wearable EEG headbands.",
+     "Pelicans Technologies was entrusted with bringing this vision to life through a robust and intuitive digital ecosystem. Combining our expertise in connected hardware integration, data visualization, and user-centered design, we collaborated closely with Neuphony to develop an intelligent mobile app experience that transforms raw brainwave data into meaningful insights for users seeking mindfulness, focus, and emotional balance."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "We crafted a clean, calming, and intuitive UI that supports platform mission of mental wellness. From effortless onboarding to real-time EEG feedback, every detail from color palette to layout was designed to minimize distraction and enhance focus. The result is a user-friendly experience even for those new to neurofeedback."
+    ],
+    "image": {
+     "src": "/images/wp/2025-04-neuphony-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    },
+    "mobileImage": null
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-neuphony-topimage.jpg",
+      "width": 1920,
+      "height": 1010
+     },
+     {
+      "src": "/images/wp/2025-04-neuphony-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "EEG data is technical by nature. Presenting it in a way that’s easy to understand for the average user without oversimplifying was a major design hurdle.",
+     "Ensuring seamless, uninterrupted Bluetooth connectivity between the mobile app and the EEG headband was critical to maintain real-time tracking.",
+     "Encouraging users to come back daily and track their mental health progress required habit-forming UX.",
+     "Handling and displaying live brain activity without delays demanded a robust and responsive system architecture."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "We used clean graphs and intuitive performance metrics like focus scores and streaks to translate brain signals into actionable insights.",
+     "By leveraging native Bluetooth APIs and implementing reconnect logic, we ensured smooth pairing and real-time communication with the EEG headband.",
+     "Features like daily streaks, performance badges, and weekly comparison reports kept users motivated and engaged.",
+     "The design language stayed true to the app’s meditative core soft animations, soothing colors, and a minimalist interface helped reduce digital noise."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Users can visualize their brain waves in real-time during meditation sessions.",
+     "Guided exercises designed by neuroscientists to improve focus and cognitive wellness.",
+     "Detailed reports of focus scores, session durations, and performance trends.",
+     "Seamless connection between the app and platform's EEG headband for real-time feedback.",
+     "Users can compare their mental fitness trends week over week to see tangible improvements.",
+     "Tailored recommendations and tracking tools based on individual brain patterns."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "iOS",
+      "logo": "/images/wp/2024-12-ios.svg",
+      "href": "/ios-development"
+     },
+     {
+      "name": "Android",
+      "logo": "/images/wp/2024-12-android-1.svg",
+      "href": "/android"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "Now a true wellness companion, the app empowers users to track brain activity, follow science-backed meditations, and monitor progress with ease. With a refined UX, improved retention, and simplified data visualization, This app makes mental training accessible and engaging for a wider audience."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": ""
+     },
+     {
+      "title": "LifeNine – Social Card Mobile App",
+      "href": "/portfolio/lifenine-social-card-app",
+      "image": "/images/wp/2025-03-lifenine-mobile-main.jpg",
+      "tags": [
+       "Augmented Reality",
+       "IOS",
+       "Andriod",
+       "Social Networking"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Mobile App",
+      "href": "/portfolio/art-hotel-mobile-app",
+      "image": "/images/wp/2025-02-arthotel-mobile-main.jpg",
+      "tags": [
+       "Mobile App",
+       "Flutter",
+       "Booking Management System"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/sachin-steel-cms": {
+  "title": "Sachin Steel - CMS",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Sachin Steel – CMS",
+    "image": "/images/wp/2025-03-sachin-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "CMS",
+     "WordPress"
+    ],
+    "logo": "/images/wp/2025-03-sachin-steel-logo.png",
+    "text": [
+     "Sachin Steel, a global leader in stainless steel and alloy products, sought to elevate its digital presence with a website that reflects its industry authority, showcases its expansive product range, and simplifies engagement for clients around the world. The company needed a robust platform to present technical product data, enable seamless quote requests, and reinforce its reputation for quality and compliance across global markets.",
+     "Pelicans Technologies was chosen for our deep experience in building high-performance industrial websites tailored for B2B audiences. We developed a scalable, responsive digital platform for Sachin Steel that offers intuitive navigation, product-specific inquiry tools, and clear access to certifications and resources."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The modernized UI resulted in higher user engagement and a significant decrease in the bounce rate. Interactive features and a captivating design held users’ attention, promoting longer visits and enhanced interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-sachin-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-03-sachin-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-sachin-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-sachin-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-sachin-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-sachin-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "With a wide variety of stainless steel grades, forms, and applications, structuring the content in a way that is both comprehensive and easy to navigate is a major challenge.",
+     "The website needs to serve both technical decision-makers and global clients, meaning it must convey detailed specifications while maintaining clarity and multilingual accessibility.",
+     "In a competitive market, the website must position Sachin Steel as a trusted and leading supplier by showcasing quality certifications, global exports, and long-standing expertise.",
+     "Existing site elements offer limited interactivity, which can reduce engagement, especially for B2B users looking for quick quote requests, product comparisons, or technical downloads."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Implement a tiered navigation system with categories such as Product Type, Material Grade, Application, and Standards to help users drill down to the right product efficiently.",
+     "Create a dedicated resource center offering downloadable datasheets, test certificates, technical whitepapers, and FAQs to serve engineers and procurement professionals.",
+     "Highlight international clients, export destinations, and third-party inspection reports alongside ISO and ASTM certifications to reinforce credibility and global standards.",
+     "Integrate dynamic tools such as quote request forms, product filtering, and a client portal for repeat customers to improve the user experience and drive conversions."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Detailed descriptions of full-time, part-time, and corporate training courses are provided, allowing prospective students to explore educational opportunities.",
+     "A dedicated section highlights upcoming courses, keeping students informed about new and ongoing educational programs",
+     "The website features the latest news, campus events, and student success stories, fostering a sense of community and keeping stakeholders updated.",
+     "A dedicated student login portal provides current students with easy access to resources, course materials, and academic information."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges with strategic solutions and integrating user-focused features, Sachin Steel’s website effectively meets the needs of industrial buyers, engineers, and global partners—enhancing user experience, improving accessibility to technical information, and reinforcing the company’s position as a trusted leader in the stainless steel industry."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://sachinsteel.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/opera-colorado-ticketing-events-platform": {
+  "title": "Opera Colorado - Ticketing & Events Platform",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Opera Colorado – Ticketing & Events Platform",
+    "image": "/images/wp/2025-03-opera-main-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ticket & Event Platform"
+    ],
+    "logo": "/images/wp/2025-03-opera-logo.png",
+    "text": [
+     "Opera Colorado, a premier performing arts organization dedicated to delivering world-class opera experiences, required a modern, immersive digital platform that could reflect the elegance of its productions while serving a diverse and growing audience. The organization needed an intuitive event discovery system, seamless ticketing integration, and a visually rich interface to engage patrons, donors, educators, and newcomers alike.",
+     "Pelicans Technologies was chosen for our proven expertise in building high-impact digital solutions that amplify cultural engagement, enhance usability, and support long-term growth. We crafted a refined, responsive website that captures the spirit of opera while streamlining key user journeys—from purchasing tickets to exploring educational programs—ensuring Opera Colorado’s digital presence is as powerful and inspiring as its performances."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "After revamping the UI, user engagement skyrocketed, and we saw a big drop in bounce rate. Interactive features and a fun, engaging design kept users around longer, sparking deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-opera-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-03-opera-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-opera-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-opera-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-opera-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-opera-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-opera-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-opera-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-opera-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-opera-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-opera-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-opera-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-opera-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-opera-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "The website must serve multiple user groups—opera patrons, donors, educators, students, press, and first-time attendees—each seeking different types of content and experiences.",
+     "Managing performances, events, and season schedules with multiple venues, dates, and ticket tiers requires a robust and dynamic events system.",
+     "A frictionless user journey from discovery to purchase or donation is essential to support both revenue and philanthropic goals.",
+     "Opera is a rich multimedia experience. The website must effectively present videos, audio clips, high-res imagery, and artist bios to captivate and inform users.",
+     "Opera Colorado’s community and educational programs need clear visibility and easy access to resources for teachers, students, and parents.",
+     "The site must be fully responsive and accessible (ADA compliant) to ensure all users—including those with disabilities—can engage with content on any device."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Created dedicated sections or quick paths for specific user groups (e.g., “First-Time Attendees,” “Educators,” “Press,” “Subscribers”) to quickly find relevant information.",
+     "Used a seamless integration with a ticketing platform (e.g., Tessitura or similar) that supports calendar views, seat selection, subscription packages, and mobile ticketing.",
+     "Designed prominent and persistent CTAs (Call-To-Actions) for ticket purchasing and donations, paired with streamlined forms and one-click access to key user actions.",
+     "Implemented a rich media gallery showcasing trailers, behind-the-scenes footage, and artist interviews to immerse users in the operatic experience.",
+     "Built a resource hub that includes downloadable lesson plans, educational videos, outreach program information, and event registration for schools.",
+     "Ensured WCAG 2.1 compliance through alt text, keyboard navigation, color contrast standards, and screen reader compatibility—plus a mobile-first responsive layout."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "A detailed, interactive calendar allows users to filter by production, venue, date, or type (performance, educational event, community outreach).",
+     "Secure donation forms with multiple giving options (one-time, recurring, in honor/memory, matching gifts) encourage philanthropic support.",
+     "Each production has its own landing page with cast bios, synopsis, media, and direct ticket links, creating a compelling storytelling experience.",
+     "Easily accessible sign-up forms to grow Opera Colorado’s mailing list, integrated with email marketing tools like Mailchimp or Constant Contact.",
+     "Promote community involvement and staff recruitment through a dedicated page for current openings, volunteer programs, and internship opportunities.",
+     "A content-rich blog or news section provides updates, articles, artist spotlights, and behind-the-scenes stories to drive returning traffic and SEO."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The redevelopment of Opera Colorado’s website focused on overcoming key user experience and engagement challenges, resulting in a dynamic, accessible, and culturally rich digital platform. With enhanced event discovery, seamless ticketing integration, and mobile optimization, the new site elevates the organization’s online presence, supports community outreach, and fosters deeper connections with patrons, educators, and first-time visitors alike. The refreshed design and user-centric features now reflect the vibrancy and artistic excellence of Opera Colorado’s performances, while driving ticket sales, donations, and audience growth."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://www.operacolorado.org/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/pluckk-ecommerce": {
+  "title": "Pluckk - Ecommerce",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Pluckk – Ecommerce",
+    "image": "/images/wp/2025-04-pluckk-top-bg.jpg",
+    "video": "8WHUKucwUGg"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Ecommerce",
+     "Online Store"
+    ],
+    "logo": "/images/wp/2025-04-pluckk-logo.jpg",
+    "text": [
+     "Pluckk, a modern brand redefining how consumers experience fresh, clean, and responsibly grown produce, needed a vibrant and scalable digital platform to support its mission. The goal was to create a compelling online experience one that communicated the brand’s freshness, enabled seamless shopping, and inspired trust in quality-conscious buyers.",
+     "Pelicans Technologies was chosen for our ability to craft intuitive eCommerce experiences that not only streamline operations and enhance engagement but also build a strong emotional connection between brand and customer."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "Our revamped UI really made users feel more engaged, and we saw the bounce rate drop a lot. The mix of interactive elements and an attractive design kept users sticking around for longer and having deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-04-pluckk-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-04-pluckk-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pluckk-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pluckk-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pluckk-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-pluckk-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-04-pluckk-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Selling fruits and vegetables online isn’t easy customers can’t touch, smell, or inspect the produce. The biggest challenge was to make freshness feel real, right through a screen.",
+     "With produce shelf-life being short, the team needed a system that could update stock in real-time and avoid overselling or stockouts especially during peak demand hours.",
+     "Competing with big grocery apps and local vendors meant Pluckk had to clearly communicate its unique value: clean eating, traceability, and high-quality sourcing.",
+     "While the concept of “clean” and “residue-free” produce is powerful, it wasn’t something every customer understood. A platform was needed to not just sell but also educate.",
+     "Delivering fresh produce means getting things right every single day one bad experience can lose a customer. Aligning website orders with real-time logistics was critical.",
+     "Since most users shop on their phones, the mobile experience had to be ultra-smooth fast, responsive, and designed with everyday grocery shoppers in mind."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "The website was designed to bring produce to life crisp images, clean layouts, and natural colors helped evoke trust and quality at first glance.",
+     "We built a custom inventory sync that tracks stock in real-time and shows only what’s available for a user’s location, reducing failed orders and refunds.",
+     "From banners to product pages, the site emphasizes Pluckk’s clean eating philosophy, transparent sourcing, and chemical-free produce setting it apart from the rest.",
+     "Integrated lifestyle tips, recipes, and “Did You Know?” facts throughout the experience to help users understand the value of what they’re buying.",
+     "Delivery slots were dynamically linked to backend logistics, so users always saw accurate timing and availability ensuring reliability with every order.",
+     "Developed a mobile-first interface with thumb-friendly controls, fast loading, and smooth navigation tailored for busy, everyday shoppers."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Users can shop by goals detox, weight management, immunity boosts making the experience more relevant and personalized.",
+     "Shoppers can explore healthy recipes and instantly add all ingredients to cart making clean eating not just aspirational, but practical.",
+     "The platform shows what’s available near each user, ensuring hyper-local freshness and timely delivery.",
+     "Repeat customers get tailored recommendations based on past orders, preferences, and trending items.",
+     "A dedicated area educates users about what “clean eating” means, with badges and stories from farms to the table.",
+     "Offers multiple payment options – UPI, cards, wallets and a secure, fuss-free checkout, whether on desktop or mobile."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Node JS",
+      "logo": "/images/wp/2024-12-nodejs.svg",
+      "href": "/node"
+     },
+     {
+      "name": "Next JS",
+      "logo": "/images/wp/2024-12-nextjs.svg",
+      "href": "/next-js"
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "AWS",
+      "logo": "/images/wp/2024-12-aws-2.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The transition from a mobile-only platform to a responsive website was a significant success for Pluckk. By maintaining the app’s user experience and ensuring consistency across all devices, Pluckk was able to broaden its reach and improve overall customer satisfaction. The responsive website now stands as a vital part of Pluckk’s digital strategy, offering users the convenience of shopping from any device with a seamless and enjoyable experience."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://pluckk.in/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/unicollege-webflow-development": {
+  "title": "Unicollege - Web Development",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Unicollege – Webflow Development",
+    "image": "/images/wp/2025-02-unicollege-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "CMS",
+     "Webflow"
+    ],
+    "logo": "/images/wp/2025-02-unicollegelogo.jpg",
+    "text": [
+     "Unicollege, an innovative online education platform, aimed to offer a wide range of courses and create an engaging learning experience for students worldwide. The brand required a robust platform for seamless course enrollment, an intuitive learning management system, and easy access to educational resources, all while maintaining an engaging and user-friendly interface.",
+     "Pelicans Technologies was chosen for our expertise in developing dynamic digital solutions that enhance online learning experiences and simplify educational processes. We crafted a powerful, scalable platform for Unicollege, allowing students to easily browse and enroll in courses, track their progress, and interact with instructors and peers."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The modernized UI resulted in higher user engagement and a significant decrease in the bounce rate. Interactive features and a captivating design held users’ attention, promoting longer visits and enhanced interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-unicollege-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-unicollege-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-unicollege-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-unicollege-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-unicollege-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-unicollege-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Catering to various user groups—such as prospective students, current students, parents, and faculty—requires an intuitive navigation system that allows each group to access relevant information without confusion.",
+     "Presenting extensive information on courses, admissions, events, and campus life can overwhelm users if not organized effectively, leading to difficulty in finding pertinent details.",
+     "With a significant portion of users accessing websites via mobile devices, ensuring a seamless and responsive design across all screen sizes is crucial for user engagement.",
+     "Maintaining user interest through interactive and dynamic content is vital to encourage exploration and interaction with the website’s offerings."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "The website employs a navigation structure that segments content based on user groups, allowing easy access to information tailored for each audience.",
+     "Information is categorized under clear headings such as “About Us,” “Learning Methods,” “Study Fields,” and “Enrolment,” enabling users to locate desired content efficiently.",
+     "The site is designed to be fully responsive, ensuring optimal functionality and appearance across desktops, tablets, and smartphones, enhancing user experience on all devices.",
+     "Incorporating accessibility best practices, such as alt text for images, keyboard navigability, and readable fonts, ensures compliance with accessibility standards and accommodates all users."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Detailed descriptions of full-time, part-time, and corporate training courses are provided, allowing prospective students to explore educational opportunities.",
+     "A dedicated section highlights upcoming courses, keeping students informed about new and ongoing educational programs",
+     "The website features the latest news, campus events, and student success stories, fostering a sense of community and keeping stakeholders updated.",
+     "A dedicated student login portal provides current students with easy access to resources, course materials, and academic information."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges with thoughtful solutions and incorporating user-centric features, UniCollege's website effectively serves its diverse audience, enhancing user experience and engagement."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://unicollege.co.za/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/quik-e-mobile-repair-portal": {
+  "title": "Quik-E - Mobile Repair Portal",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Quik-E – Mobile Repair Portal",
+    "image": "/images/wp/2025-03-quike-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Portal",
+     "Mobile Repair"
+    ],
+    "logo": "/images/wp/2025-03-quike-logo.png",
+    "text": [
+     "Quik-E, a cutting-edge mobile repair platform, set out to redefine how people manage device breakdowns and damage with speed, transparency, and convenience. The brand needed a solution that streamlined service bookings, offered real-time repair tracking, and provided hassle-free doorstep pickup and drop-off—all while ensuring users felt confident entrusting their phones to a third party.",
+     "Pelicans Technologies was selected for our deep expertise in crafting intuitive digital platforms. We built a secure, mobile-first website enabling customers to select protection plans, schedule services with ease, and track every stage of their repair journey—all in one sleek, user-friendly experience."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The modernized UI resulted in higher user engagement and a significant decrease in the bounce rate. Interactive features and a captivating design held users’ attention, promoting longer visits and enhanced interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-quike-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-03-quike-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-quike-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-quike-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-quike-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-quike-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Presenting a multi-step service (book, pick-up, repair, return) in a simple, intuitive format.",
+     "Majority of users access via mobile; required fast loading and optimized layout on smaller screens.",
+     "Convincing users to trust a third-party mobile repair service online.",
+     "Streamlining service plan selection, booking, and follow-up with minimal clicks and inputs.",
+     "Building a scalable backend for varied phone brands, conditions, and repair types.",
+     "Keeping users updated on service progress in a transparent and efficient way."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Clear visual breakdown of the four service stages improves understanding and builds confidence.",
+     "Mobile-optimized UI with compressed assets and fluid layouts for consistent performance across devices.",
+     "Real customer reviews with brand/issue/time saved info to build credibility.",
+     "Dropdown selectors for brand and phone condition guide users to relevant plans quickly.",
+     "Designed backend to handle multiple device types and statuses, integrated with CRM.",
+     "Clear call center number and promise of doorstep service + standby phone ensures smooth communication."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Users can choose and book mobile protection plans tailored to their needs.",
+     "Offers free pick-up and delivery for mobile repairs, enhancing convenience.",
+     "Ensures the use of authentic parts for all repairs, maintaining device integrity.",
+     "Commits to a 10-day repair or replace policy, minimizing downtime for users.",
+     "Repairs are conducted by expert technicians within the company's facilities.",
+     "Showcases testimonials and feedback, building trust with potential customers."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": ".Net",
+      "logo": "/images/wp/2024-12-dotnet.svg",
+      "href": "/net"
+     },
+     {
+      "name": "MS SQL",
+      "logo": "/images/wp/2024-12-mssql.svg",
+      "href": ""
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing key development challenges with smart, scalable solutions and focusing on user-first design, Quik-E’s platform now delivers a smooth, transparent mobile repair experience. The site empowers users with intuitive navigation, real-time service updates, and value-driven features like doorstep pickup and a 10-day repair-or-replace promise—building both trust and convenience into every interaction. This thoughtful digital approach ensures Quik-E effectively meets the needs of today’s fast-moving, mobile-first customers."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://quik-e.mobi/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/shree-parshwnath-colourants": {
+  "title": "Shree Parshwnath Colourants - Wordpress CMS",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Shree Parshwnath Colourants – WordPress CMS",
+    "image": "/images/wp/2025-03-spc-top-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "CMS",
+     "WordPress"
+    ],
+    "logo": "/images/wp/2024-12-spc1-logo.png",
+    "text": [
+     "Shree Parshwnath Colourants, a leading manufacturer and exporter of premium pigments and dyes, aimed to modernize its digital presence to better showcase its wide product range and global credibility. The brand required a sleek, professional website that could effectively highlight its industrial capabilities, streamline product discovery, and offer potential clients a seamless inquiry experience—all while reinforcing trust and brand value.",
+     "Pelicans Technologies was selected for our ability to transform traditional industrial brands into strong digital experiences. We delivered a modern, responsive website for Shree Parshwnath Colourants that not only communicates the brand’s legacy and product expertise but also simplifies the user journey with structured navigation, categorized product pages, and inquiry-driven touchpoints."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The modernized UI resulted in higher user engagement and a significant decrease in the bounce rate. Interactive features and a captivating design held users’ attention, promoting longer visits and enhanced interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-spc-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-03-spc-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-spc-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-spc-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-spc-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-spc-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "The previous website lacked modern aesthetics, responsiveness, and user engagement, making it difficult to appeal to today’s digital audience.",
+     "The site did not render well on mobile devices, affecting user experience and accessibility across various screen sizes.",
+     "There was no clear categorization or presentation of the company’s wide product range, causing confusion for potential customers.",
+     "The site had performance issues, with slow loading speeds that negatively impacted user retention and SEO."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Developed a modern, clean, and brand-aligned website layout using updated UI/UX principles.",
+     "Implemented a fully responsive design to ensure seamless viewing across desktops, tablets, and smartphones.",
+     "Structured the product catalog with clear categories and dedicated pages for each product type to enhance user navigation.",
+     "Optimized images, code, and implemented caching techniques to improve overall website speed and loading times."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Created a clean header and footer menu with intuitive links, making it easy for users to explore different sections.",
+     "Added smart filtering and categorized listings to help users quickly find relevant products.",
+     "Included contact forms and inquiry buttons with proper routing to help capture leads directly from the website.",
+     "Applied on-page SEO best practices including meta tags, alt texts, and structured URLs to enhance search engine visibility."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges with thoughtful solutions and incorporating user-centric features, Shree Parshwnath Colourants' website now effectively showcases its product range, reinforces its brand identity, and delivers a smooth, engaging user experience across devices."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "http://shreeparshwnath.com/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/slay-coffee-online-store": {
+  "title": "Slay Coffee - Online Store",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Slay Coffee – Online Store",
+    "image": "/images/wp/2025-02-slay-top-bg.jpg",
+    "video": "bgnKloB1MD4"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Online Store",
+     "Ecommerce"
+    ],
+    "logo": "/images/wp/2024-12-slay-logo-2.png",
+    "text": [
+     "Slay Coffee, a bold and premium online coffee brand, required a seamless digital platform to match its energetic and high-quality offerings. The brand needed a robust eCommerce solution, a frictionless ordering system, and an engaging user experience to captivate coffee enthusiasts and drive sales.",
+     "Pelicans Technologies was chosen for our expertise in crafting dynamic digital solutions that enhance customer interactions, streamline operations, and boost brand engagement."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "We gave our UI a fresh look, and it made a big difference in user engagement, cutting the bounce rate way down. The interactive features kept users hooked, leading to longer visits and more meaningful interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-02-img1-2.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-02-slay-mob-2.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-slay-mob-1.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-slay-img2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-slay-img3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-slay-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-slay-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-slay-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-02-slay-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-slay-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-slay-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-02-slay-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-02-slay-img4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-02-slay-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Existing platform lacked the ability to scale effectively, struggling to handle the growing product inventory as demand and stock levels continued to increase.",
+     "Lack of a unified eCommerce platform for hotel services results in fragmented guest experiences, making it difficult to manage bookings and amenities efficiently",
+     "Limited online presence and digital brand engagement reduce the hotel’s visibility, making it harder to attract potential guests and build long-term loyalty.",
+     "Difficulty in tracking guest interactions and preferences, making it hard to personalize services, improve satisfaction, and foster repeat business effectively.",
+     "Suboptimal user experience leading to lower conversions leads to frustration, causing potential guests to abandon bookings and reducing conversions."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Created a tailored content management system that simplifies content updates and ensures smooth management of website materials, reducing manual effort and time.",
+     "Implemented an easy-to-use booking platform, streamlining the reservation experience and making it more efficient for guests to book rooms and services with minimal effort.",
+     "Developed an integrated eCommerce solution that enables guests to easily purchase additional hotel services, such as dining, activities, and amenities, enhancing revenue opportunities.",
+     "Introduced automation tools to track guest interactions, enabling personalized experiences based on guest preferences, improving satisfaction and fostering loyalty.",
+     "Optimized website performance to ensure faster load times and implemented robust security measures, boosting reliability, reducing downtime, and providing a safer browsing experience."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Custom CMS for efficient content updates",
+     "Seamless booking platform with real-time availability",
+     "Integrated eCommerce for hotel services and promotions",
+     "Reward Points for Guest users",
+     "Mobile-friendly and visually engaging interface"
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "React JS",
+      "logo": "/images/wp/2024-12-reactjs-2.svg",
+      "href": "/react-js"
+     },
+     {
+      "name": "Next JS",
+      "logo": "/images/wp/2024-12-nextjs.svg",
+      "href": "/next-js"
+     },
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "Slay Coffee’s website development on Next JS & React JS successfully addressed the challenges of providing a premium, user-friendly e-commerce platform while maintaining brand consistency and offering advanced subscription features. The site’s visually stunning design, mobile optimization, SEO features, and smooth checkout process contributed to improved customer engagement, retention, and higher conversion rates. By leveraging Shopify’s powerful e-commerce tools, Slay Coffee was able to expand its customer base, drive organic traffic, and enhance the overall customer experience, ultimately solidifying its position as a premium coffee brand in India."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://www.slaycoffee.in/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "A Toddler Thing – Online Clothing Store",
+      "href": "/portfolio/a-toddler-thing-online-clothing-store",
+      "image": "/images/wp/2025-02-att.jpg",
+      "tags": [
+       "Shopify",
+       "Ecommerce",
+       "PHP"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/the-cruise-holidays-travel-portal": {
+  "title": "The Cruise Holidays - Travel Portal",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "The Cruise Holidays – Travel Portal",
+    "image": "/images/wp/2025-03-cruise-main-bg.jpg",
+    "video": ""
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "Cruise Travel Portal",
+     "Cruise Deals"
+    ],
+    "logo": "/images/wp/2024-12-thecruise-logo.png",
+    "text": [
+     "The Cruise Holidays, a bespoke travel agency specializing in luxury cruise experiences, needed a refined and engaging digital platform that could reflect the exclusivity and grandeur of its curated cruise packages. The brand aimed to offer a seamless browsing experience, inspire wanderlust, and provide easy access to detailed itineraries, onboard experiences, and booking options.",
+     "Pelicans Technologies was selected for our proven ability to design immersive, user-centric digital experiences. Our team delivered a modern, responsive platform that simplifies exploration and booking, enhances user engagement, and reinforces The Cruise Holidays’ position as a premier provider of unforgettable cruise journeys."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "After revamping the UI, user engagement skyrocketed, and we saw a big drop in bounce rate. Interactive features and a fun, engaging design kept users around longer, sparking deeper interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-03-cruise-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-03-cruise-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-cruise-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-cruise-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "six-column-grid",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-cruise-mob-5.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-mob-6.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-box-1.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-box-2.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-box-3.jpg",
+      "width": 660,
+      "height": 504
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-box-4.jpg",
+      "width": 660,
+      "height": 504
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-03-cruise-img-4.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-03-cruise-mob-4.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Customers often take time to decide on cruise bookings due to high costs and longer travel durations. This results in a lengthy sales funnel.",
+     "Cruise bookings involve multiple variables (itineraries, cabins, dining, shore excursions), which can overwhelm users during online browsing.",
+     "Unlike tangible products, selling the “experience” of a cruise online requires a rich, immersive presentation, which can be limited by poor design.",
+     "Users often struggle to find the most relevant cruises suited to their travel preferences, destinations, or budgets.",
+     "Many users browse on mobile, but older site designs are often not fully optimized, leading to drop-offs.",
+     "Users may hesitate to make costly cruise bookings online without speaking to a representative or getting personalized assistance."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Optimized booking funnel with clear steps, filters, and options to simplify complex cruise searches, making the process intuitive.",
+     "High-quality imagery, videos, and destination highlights to convey the luxury and uniqueness of cruise holidays.",
+     "Suggest cruises based on browsing behavior, previous inquiries, travel dates, and destination preferences.",
+     "Build trust with real-time assistance and easy options to speak to a travel expert before booking.",
+     "Rebuilt the website using a mobile-optimized Shopify theme to ensure seamless experiences across devices.",
+     "Implemented email signups, Facebook Pixel, and Google Ads tracking to retarget visitors and nurture leads."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "Sophisticated and user-friendly theme reflecting the elegance and class of premium cruise holidays.",
+     "Dynamic cruise search filters by destination, price, duration, cruise line, and departure port to help users narrow down quickly.",
+     "Cruise videos, image galleries, and 360° cabin views to immerse users in the experience.",
+     "Live chat and WhatsApp integration for quick customer support and human interaction during key decision moments.",
+     "Mobile-optimized booking interface ensuring ease of navigation and quick actions on phones and tablets.",
+     "Personalized email journeys with segmented campaigns based on browsing history, inquiry forms, or abandoned bookings.",
+     "Trust-building elements – Cruise reviews, testimonials, badges (e.g., ABTA, ATOL), and clear refund/guarantee policies.",
+     "\"Plan My Cruise” form, downloadable brochures, and newsletters to capture and nurture potential buyers."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "Node JS",
+      "logo": "/images/wp/2024-12-nodejs.svg",
+      "href": "/node"
+     },
+     {
+      "name": "React JS",
+      "logo": "/images/wp/2024-12-reactjs-2.svg",
+      "href": "/react-js"
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "The redevelopment of The Cruise Holidays website focused on creating a seamless, inspiring, and conversion-driven experience for travelers seeking luxury cruise vacations. The new site now offers an elegant design, intuitive cruise search tools, and immersive visual storytelling. The result is a user-friendly and mobile-optimized destination that builds trust, captures leads, and simplifies the complex cruise booking journey, helping the brand grow its online presence, improve inquiries, and attract a wider audience of discerning travelers."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://thecruiseholidays.co.uk/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/portfolio/waterbox-animation-website": {
+  "title": "Waterbox - Animation Website",
+  "description": "",
+  "blocks": [
+   {
+    "type": "cst-hero",
+    "title": "Waterbox – Animation Website",
+    "image": "/images/wp/2025-04-waterbox-top-bg.jpg",
+    "video": "FvDHQJOA4bk"
+   },
+   {
+    "type": "cst-intro",
+    "categories": [
+     "CMS",
+     "Animation Website"
+    ],
+    "logo": "/images/wp/2025-02-waterboxlogo.png",
+    "text": [
+     "Waterbox, a pioneering hydration brand, set out to revolutionize the way people think about water—going beyond hydration to deliver health, wellness, and sustainability in every sip. The brand needed a digital presence that could effectively showcase its mission, product range, and eco-conscious ethos, while also providing a seamless shopping experience.",
+     "Pelicans Technologies was brought on board for our proven ability to create compelling, high-performance digital platforms. We designed and developed a sleek, animated, user-centric website for Waterbox that reflects the brand’s clean, modern aesthetic."
+    ]
+   },
+   {
+    "type": "cst-featured-image-video",
+    "heading": {
+     "text": "Elevated the UI/UX",
+     "highlight": ""
+    },
+    "text": [
+     "The modernized UI resulted in higher user engagement and a significant decrease in the bounce rate. Interactive features and a captivating design held users’ attention, promoting longer visits and enhanced interactions."
+    ],
+    "image": {
+     "src": "/images/wp/2025-04-waterbox-img-1.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    "mobileImage": {
+     "src": "/images/wp/2025-04-waterbox-mob-1.jpg",
+     "width": 640,
+     "height": 1340
+    }
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-right",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-waterbox-mob-2.jpg",
+      "width": 640,
+      "height": 1340
+     },
+     {
+      "src": "/images/wp/2025-04-waterbox-img-2.jpg",
+      "width": 1920,
+      "height": 1080
+     }
+    ]
+   },
+   {
+    "type": "cst-two-column-grid",
+    "layout": "two-column-left",
+    "images": [
+     {
+      "src": "/images/wp/2025-04-waterbox-img-3.jpg",
+      "width": 1920,
+      "height": 1080
+     },
+     {
+      "src": "/images/wp/2025-04-waterbox-mob-3.jpg",
+      "width": 640,
+      "height": 1340
+     }
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Key Challenges",
+     "highlight": ""
+    },
+    "dark": false,
+    "items": [
+     "Ensuring the website loads quickly to prevent user frustration and reduce bounce rates.",
+     "As the number and intricacy of animations increase, managing the codebase can become challenging. Keeping track of timelines, tweens, and event listeners requires a well-structured approach.",
+     "Providing a consistent user experience across various web browsers to reach a wider audience.",
+     "Encouraging visitors to take actions such as subscribing, purchasing, or becoming resellers."
+    ]
+   },
+   {
+    "type": "two-column-numeric-content",
+    "heading": {
+     "text": "Solutions",
+     "highlight": ""
+    },
+    "dark": true,
+    "items": [
+     "Optimize assets and implement performance-enhancing techniques.​",
+     "Utilized GSAP’s Timeline feature to sequence and control multiple animations as a single unit. Break down complex animations into smaller, reusable functions or components.",
+     "Implement responsive design principles and test the website across multiple browsers.",
+     "Design intuitive and persuasive user interfaces with clear calls-to-action (CTAs)."
+    ]
+   },
+   {
+    "type": "listing-content",
+    "heading": {
+     "text": "Key Features",
+     "highlight": ""
+    },
+    "items": [
+     "The site emphasizes the environmental benefits of their WaterBox packaging, highlighting aspects like reduced CO2 emissions and the use of recyclable materials.",
+     "Detailed descriptions of their product range, including 250 ml, 500 ml, and 1000 ml cartons of natural spring water, are provided to inform potential customers.",
+     "The website incorporates high-quality scroll animation to showcase the products and their eco-friendly packaging, enhancing the overall user experience.",
+     "Users interested in regular deliveries or business partnerships can access dedicated sections for subscriptions and reseller applications, facilitating engagement with the brand."
+    ]
+   },
+   {
+    "type": "cst-technologies-stack",
+    "heading": {
+     "text": "Tech Stacks We Used",
+     "highlight": "Tech Stacks"
+    },
+    "items": [
+     {
+      "name": "Figma",
+      "logo": "/images/wp/2025-01-figma.svg",
+      "href": ""
+     },
+     {
+      "name": "JavaScript",
+      "logo": "/images/wp/2024-11-javascript-icon.svg",
+      "href": ""
+     },
+     {
+      "name": "WordPress",
+      "logo": "/images/wp/2024-12-wordpress.svg",
+      "href": "/wordpress"
+     },
+     {
+      "name": "MySQL",
+      "logo": "/images/wp/2024-12-mysql-1.svg",
+      "href": ""
+     }
+    ]
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Outcome",
+     "highlight": ""
+    },
+    "text": [
+     "By addressing these challenges with thoughtful solutions and integrating purpose-driven, user-friendly features, Waterbox's website successfully communicates its eco-conscious mission while delivering a seamless and engaging digital experience. The platform not only educates users about sustainable hydration but also inspires action—whether it's making a purchase, subscribing, or joining the movement toward a plastic-free future."
+    ],
+    "buttons": [],
+    "image": null,
+    "links": [
+     {
+      "href": "https://morethanwater.in/",
+      "image": "/images/wp/2025-02-visit-website-img.png",
+      "label": ""
+     }
+    ]
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "View Our Other Projects",
+     "highlight": "Other Projects"
+    },
+    "intro": [],
+    "filters": [],
+    "items": [
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,485 @@
+/* ---------- Admin panel (WordPress-style) ---------- */
+:root {
+  --admin-bg: #f0f0f1;
+  --admin-surface: #fff;
+  --admin-text: #1d2327;
+  --admin-muted: #646970;
+  --admin-border: #c3c4c7;
+  --admin-dark: #1d2327;
+  --admin-dark-2: #2c3338;
+  --admin-dark-text: #f0f0f1;
+  --admin-primary: #2271b1;
+  --admin-primary-hover: #135e96;
+  --admin-error: #d63638;
+  --admin-success: #00a32a;
+}
+
+/* Buttons don't inherit the page font by default */
+.login-page button,
+.admin-shell button {
+  font-family: inherit;
+}
+
+/* ---------- Login ---------- */
+.login-page {
+  min-height: 100vh;
+  background: var(--admin-bg);
+  color: var(--admin-text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+}
+
+.login-box {
+  width: 100%;
+  max-width: 340px;
+}
+
+.login-logo {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 28px;
+}
+
+.login-logo img {
+  height: 40px;
+  width: auto;
+}
+
+.login-form {
+  background: var(--admin-surface);
+  border: 1px solid var(--admin-border);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.04);
+  padding: 26px 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.login-form input {
+  font-size: 18px;
+  padding: 6px 10px;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.login-form input:focus {
+  outline: 2px solid var(--admin-primary);
+  outline-offset: -1px;
+  border-color: var(--admin-primary);
+}
+
+.password-field {
+  position: relative;
+}
+
+.password-field input {
+  padding-right: 64px;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  height: 32px;
+  padding: 0 10px;
+  border: 0;
+  background: none;
+  color: var(--admin-primary);
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.btn-primary {
+  align-self: flex-end;
+  background: var(--admin-primary);
+  color: #fff;
+  border: 1px solid var(--admin-primary);
+  border-radius: 3px;
+  padding: 6px 14px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: var(--admin-primary-hover);
+}
+
+.btn-primary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.login-error,
+.login-notice {
+  border-left: 4px solid var(--admin-error);
+  background: var(--admin-surface);
+  padding: 10px 12px;
+  margin: 0 0 16px;
+  font-size: 14px;
+}
+
+.login-notice {
+  border-left-color: var(--admin-primary);
+  box-shadow: 0 1px 1px rgb(0 0 0 / 0.04);
+}
+
+.login-back {
+  font-size: 13px;
+  padding-left: 24px;
+}
+
+.login-back a {
+  color: var(--admin-muted);
+  text-decoration: none;
+}
+
+/* ---------- Dashboard shell ---------- */
+.admin-shell {
+  min-height: 100vh;
+  background: var(--admin-bg);
+  color: var(--admin-text);
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-topbar {
+  height: 40px;
+  background: var(--admin-dark);
+  color: var(--admin-dark-text);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 12px;
+  font-size: 13px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.admin-topbar a {
+  color: var(--admin-dark-text);
+  text-decoration: none;
+}
+
+.topbar-left,
+.topbar-user {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.topbar-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--admin-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.topbar-role {
+  font-size: 11px;
+  text-transform: capitalize;
+  background: var(--admin-dark-2);
+  padding: 2px 8px;
+  border-radius: 10px;
+  color: #c3c4c7;
+}
+
+.topbar-logout {
+  background: none;
+  border: 1px solid #50575e;
+  color: var(--admin-dark-text);
+  border-radius: 3px;
+  padding: 3px 10px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.topbar-logout:hover {
+  border-color: var(--admin-dark-text);
+}
+
+.admin-body {
+  flex: 1;
+  display: flex;
+}
+
+.admin-sidebar {
+  width: 180px;
+  flex-shrink: 0;
+  background: var(--admin-dark);
+  padding: 8px 0;
+}
+
+.admin-sidebar a {
+  display: block;
+  color: var(--admin-dark-text);
+  text-decoration: none;
+  padding: 9px 14px;
+  font-size: 14px;
+}
+
+.admin-sidebar a:hover {
+  background: var(--admin-dark-2);
+  color: #72aee6;
+}
+
+.admin-sidebar a.active {
+  background: var(--admin-primary);
+  color: #fff;
+}
+
+.admin-main {
+  flex: 1;
+  min-width: 0;
+  padding: 20px 24px;
+}
+
+.admin-main h1 {
+  font-size: 23px;
+  font-weight: 400;
+  margin: 0 0 16px;
+}
+
+.admin-card {
+  background: var(--admin-surface);
+  border: 1px solid var(--admin-border);
+  padding: 16px 20px;
+  max-width: 640px;
+}
+
+.admin-card h2 {
+  font-size: 16px;
+  margin: 0 0 8px;
+}
+
+.admin-card p {
+  margin: 4px 0;
+  color: var(--admin-muted);
+}
+
+/* Small screens: sidebar becomes a scrollable row on top */
+@media (max-width: 782px) {
+  .admin-body {
+    flex-direction: column;
+  }
+
+  .admin-sidebar {
+    width: 100%;
+    display: flex;
+    overflow-x: auto;
+    padding: 0;
+  }
+
+  .admin-sidebar a {
+    white-space: nowrap;
+  }
+
+  .topbar-greeting,
+  .topbar-role,
+  .topbar-site {
+    display: none;
+  }
+
+  .admin-main {
+    padding: 16px;
+  }
+}
+
+/* ---------- Shared admin UI (buttons, notices, page header) ---------- */
+.admin-page-header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.admin-main .admin-page-header h1 {
+  margin: 0;
+}
+
+.admin-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 32px;
+  padding: 0 12px;
+  border-radius: 3px;
+  border: 1px solid var(--admin-primary);
+  font-size: 13px;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.admin-btn svg {
+  width: 16px;
+  height: 16px;
+}
+
+.admin-btn--primary {
+  background: var(--admin-primary);
+  color: #fff;
+}
+
+.admin-btn--primary:hover:not(:disabled) {
+  background: var(--admin-primary-hover);
+  border-color: var(--admin-primary-hover);
+}
+
+.admin-btn--secondary {
+  background: #f6f7f7;
+  color: var(--admin-primary);
+}
+
+.admin-btn--secondary:hover:not(:disabled) {
+  background: #f0f0f1;
+  border-color: var(--admin-primary-hover);
+  color: var(--admin-primary-hover);
+}
+
+.admin-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.admin-link {
+  background: none;
+  border: 0;
+  padding: 0;
+  font-size: 13px;
+  color: var(--admin-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.admin-link:hover {
+  color: var(--admin-primary-hover);
+}
+
+.admin-link--danger {
+  color: #b32d2e;
+}
+
+.admin-link--danger:hover {
+  color: #8a2424;
+}
+
+.admin-notice {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--admin-surface);
+  border: 1px solid var(--admin-border);
+  border-left: 4px solid var(--admin-success);
+  box-shadow: 0 1px 1px rgb(0 0 0 / 0.04);
+  padding: 8px 12px;
+  margin: 0 0 16px;
+  font-size: 14px;
+}
+
+.admin-notice p {
+  margin: 0;
+  flex: 1;
+}
+
+.admin-notice--error {
+  border-left-color: var(--admin-error);
+}
+
+.admin-notice--warning {
+  border-left-color: #dba617;
+}
+
+.admin-notice-dismiss {
+  background: none;
+  border: 0;
+  padding: 4px;
+  color: var(--admin-muted);
+  cursor: pointer;
+  display: inline-flex;
+}
+
+.admin-notice-dismiss:hover {
+  color: var(--admin-error);
+}
+
+/* Count bubble in the sidebar (e.g. unread messages) */
+.admin-sidebar a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.admin-badge {
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: 10px;
+  background: #d63638;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: center;
+}
+
+.topbar-profile:hover strong {
+  text-decoration: underline;
+}
+
+/* Role badge (users list, profile) */
+.role-badge {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 10px;
+  background: #f0f0f1;
+  color: #50575e;
+  white-space: nowrap;
+}
+
+.role-badge--admin {
+  background: #fcf0f1;
+  color: #8a2424;
+}
+
+.role-badge--editor {
+  background: #e5f0fa;
+  color: #135e96;
+}
+
+.role-badge--author {
+  background: #edfaef;
+  color: #00631d;
+}
+
+.admin-btn--danger {
+  background: #d63638;
+  border-color: #d63638;
+  color: #fff;
+}
+
+.admin-btn--danger:hover:not(:disabled) {
+  background: #b32d2e;
+  border-color: #b32d2e;
+}

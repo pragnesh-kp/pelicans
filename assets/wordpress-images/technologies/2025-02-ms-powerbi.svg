@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_1_);}
+	.st1{fill:url(#path-3_2_);}
+	.st2{fill:url(#Combined-Shape_2_);}
+</style>
+<g>
+	
+		<linearGradient id="Rectangle_1_" gradientUnits="userSpaceOnUse" x1="5.920849e-02" y1="-0.954" x2="5.920849e-02" y2="-0.7317" gradientTransform="matrix(219 0 0 630 115.5 631)">
+		<stop  offset="0" style="stop-color:#EBBB14"/>
+		<stop  offset="1" style="stop-color:#B25400"/>
+	</linearGradient>
+	<path id="Rectangle" class="st0" d="M109.9,30H147c3.2,0,5.8,2.6,5.8,5.8v128.4c0,3.2-2.6,5.8-5.8,5.8h-37.1
+		c-3.2,0-5.8-2.6-5.8-5.8V35.8C104.1,32.6,106.7,30,109.9,30z"/>
+	<g>
+		
+			<linearGradient id="path-3_2_" gradientUnits="userSpaceOnUse" x1="0.5174" y1="-1.1968" x2="0.5174" y2="-0.9746" gradientTransform="matrix(219 0 0 473 -13.5 631)">
+			<stop  offset="0" style="stop-color:#F9E583"/>
+			<stop  offset="1" style="stop-color:#DE9800"/>
+		</linearGradient>
+		<path id="path-3_1_" class="st1" d="M124.1,164.2v5.8h-5.8H81.2c-3.2,0-5.8-2.6-5.8-5.8V70.7c0-3.2,2.6-5.8,5.8-5.8h37.1
+			c3.2,0,5.8,2.6,5.8,5.8L124.1,164.2L124.1,164.2z"/>
+	</g>
+	
+		<linearGradient id="Combined-Shape_2_" gradientUnits="userSpaceOnUse" x1="0.9682" y1="-1.6857" x2="0.9682" y2="-1.4635" gradientTransform="matrix(219 0 0 315 -140.5 631)">
+		<stop  offset="0" style="stop-color:#F9E68B"/>
+		<stop  offset="1" style="stop-color:#F3CD32"/>
+	</linearGradient>
+	<path id="Combined-Shape_1_" class="st2" d="M95.9,164.2v5.8h-5.8H53c-3.2,0-5.8-2.6-5.8-5.8v-58.4c0-3.2,2.6-5.8,5.8-5.8h37.1
+		c3.2,0,5.8,2.6,5.8,5.8C95.9,105.8,95.9,164.2,95.9,164.2z"/>
+</g>
+</svg>

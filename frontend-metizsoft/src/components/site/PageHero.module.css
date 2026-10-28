@@ -1,0 +1,61 @@
+.hero {
+  padding-bottom: 88px;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 72px;
+}
+
+.kicker {
+  margin-bottom: 22px;
+}
+.kicker::before {
+  display: none;
+}
+
+.title {
+  max-width: 1100px;
+  font-size: clamp(38px, 5vw, 76px);
+  font-weight: 800;
+  line-height: 1.04;
+  letter-spacing: -0.04em;
+  color: var(--ink);
+}
+.title :global(.serif) {
+  font-size: 1.05em;
+}
+
+.intro {
+  max-width: 680px;
+  margin-top: 26px;
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--body);
+}
+
+.inner > :global(.btn),
+.inner > div {
+  margin-top: 32px;
+}
+
+.center .inner {
+  align-items: center;
+  text-align: center;
+}
+.center .title,
+.center .intro {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding-bottom: 56px;
+  }
+  .inner {
+    padding-top: 40px;
+  }
+}

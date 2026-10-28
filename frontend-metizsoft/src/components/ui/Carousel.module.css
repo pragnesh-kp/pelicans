@@ -1,0 +1,68 @@
+.wrap {
+  --per-view: 3.15;
+  --gap: 20px;
+}
+
+.track {
+  list-style: none;
+  margin: 0;
+  padding: 6px 2px 10px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - var(--gap) * (var(--per-view) - 1)) / var(--per-view));
+  column-gap: var(--gap);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+}
+
+.track::-webkit-scrollbar {
+  display: none;
+}
+
+.item {
+  scroll-snap-align: start;
+  min-width: 0;
+  display: flex;
+}
+
+.item > * {
+  flex: 1;
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 28px;
+}
+
+.dot {
+  width: 22px;
+  height: 4px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background: rgb(11 36 104 / 0.16);
+  cursor: pointer;
+  transition: width 0.3s, background-color 0.3s;
+}
+
+.active {
+  width: 40px;
+  background: var(--deep);
+}
+
+@media (max-width: 1024px) {
+  .wrap {
+    --per-view: 2.15;
+  }
+}
+
+@media (max-width: 640px) {
+  .wrap {
+    --per-view: 1.12;
+    --gap: 14px;
+  }
+}

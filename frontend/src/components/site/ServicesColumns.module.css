@@ -1,0 +1,141 @@
+.section {
+  padding: 0;
+}
+
+.pin {
+  padding: 88px 0 72px;
+  background: var(--bg);
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 32px;
+  margin-bottom: 56px;
+}
+
+.head :global(.btn) {
+  flex-shrink: 0;
+}
+
+.title {
+  max-width: 680px;
+  font-size: clamp(28px, 3.2vw, 40px);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-left: 1px solid var(--border);
+}
+
+.column {
+  padding: 8px 28px 28px;
+  border-right: 1px solid var(--border);
+}
+
+.icon {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--primary-text);
+  margin-bottom: 22px;
+}
+
+.column h3 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 10px;
+}
+
+.column p {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 20px;
+}
+
+.column ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+}
+
+.column li {
+  border-bottom: 1px solid var(--border);
+}
+
+.column a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 0;
+  font-size: 14.5px;
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.2s, padding 0.3s var(--ease-out);
+}
+
+.column a svg {
+  opacity: 0;
+  transition: opacity 0.2s, transform 0.3s var(--ease-out);
+}
+
+.column a:hover {
+  color: var(--primary-text);
+  padding-left: 6px;
+}
+
+.column a:hover svg {
+  opacity: 1;
+  transform: translate(2px, -2px);
+}
+
+/* room for the staggered columns before they line up (see PinnedColumns) */
+@media (min-width: 1024px) {
+  .pin {
+    padding-bottom: 150px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .columns {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 32px;
+  }
+}
+
+@media (max-width: 760px) {
+  .head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 600px) {
+  .pin {
+    padding: 64px 0 56px;
+  }
+  .columns {
+    grid-template-columns: 1fr;
+    border-left: 0;
+  }
+  .column {
+    border-right: 0;
+    padding: 0;
+  }
+  .column a svg {
+    opacity: 1;
+  }
+}

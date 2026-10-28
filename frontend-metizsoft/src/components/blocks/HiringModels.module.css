@@ -1,0 +1,132 @@
+.models {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.model {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 30px;
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid var(--border);
+  transition: box-shadow 0.3s, transform 0.4s var(--ease-out);
+}
+.model:hover {
+  box-shadow: var(--shadow);
+  transform: translateY(-4px);
+}
+
+.featured {
+  --text: #fff;
+  background: var(--gradient-card);
+  border-color: transparent;
+  color: #fff;
+}
+
+.head {
+  padding-bottom: 22px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--border-strong);
+}
+
+.featured .head {
+  border-color: rgb(255 255 255 / 0.3);
+}
+
+.icon {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+  background: var(--brand-light);
+}
+.featured .icon {
+  background: #fff;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.subtitle {
+  margin-top: 6px;
+  font-size: 15px;
+  color: var(--muted);
+}
+
+.featured .subtitle {
+  color: rgb(255 255 255 / 0.85);
+}
+
+.rows {
+  margin: 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 0;
+  font-size: 14.5px;
+  border-bottom: 1px dashed var(--border-strong);
+}
+
+.featured .row {
+  border-color: rgb(255 255 255 / 0.25);
+}
+
+.row:last-child {
+  border-bottom: 0;
+}
+
+.row dt {
+  color: var(--muted);
+}
+
+.featured .row dt {
+  color: rgb(255 255 255 / 0.8);
+}
+
+.row dd {
+  margin: 0;
+  font-weight: 600;
+  text-align: right;
+}
+
+.perks {
+  list-style: none;
+  margin: 28px 0 0;
+  padding: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  border-radius: 20px;
+  background: var(--light);
+  border: 1px solid var(--border);
+}
+
+.perks li {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--border);
+  color: var(--ink);
+}
+
+.perks svg {
+  color: var(--brand);
+}

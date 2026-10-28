@@ -1,0 +1,109 @@
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr));
+  gap: 20px;
+}
+
+.item {
+  display: flex;
+}
+
+.card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 26px;
+  border-radius: var(--radius);
+  background: var(--grey);
+  color: #000;
+  text-decoration: none;
+  transition: background-color 0.6s, color 0.4s, border-radius 0.6s;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.icon,
+.number {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: #fff;
+  color: var(--primary);
+}
+
+.number {
+  border-radius: 50%;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.title {
+  flex: 1;
+  font-size: 19px;
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.arrow {
+  width: 38px;
+  height: 38px;
+}
+
+.body {
+  margin-top: 20px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border-strong);
+  display: grid;
+  gap: 10px;
+}
+
+.text {
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--muted);
+  transition: color 0.4s;
+}
+
+@media (hover: hover) {
+  .card:hover {
+    background: var(--primary);
+    color: #fff;
+    border-bottom-left-radius: 110px;
+  }
+  .card:hover .text {
+    color: rgb(255 255 255 / 0.86);
+  }
+  .card:hover .body {
+    border-color: rgb(255 255 255 / 0.3);
+  }
+  .card:hover :global(.arrow-dot) {
+    background: #fff;
+    color: #000;
+    transform: rotate(45deg);
+  }
+}
+
+@media (max-width: 1100px) {
+  .grid {
+    grid-template-columns: repeat(min(var(--cols, 3), 2), minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .card {
+    padding: 20px;
+  }
+}

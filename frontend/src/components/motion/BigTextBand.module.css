@@ -1,0 +1,29 @@
+.band {
+  overflow: hidden;
+  padding: 72px 0;
+  background: var(--bg);
+}
+
+.track {
+  display: flex;
+  gap: 0.35em;
+  width: max-content;
+  font-size: clamp(64px, 12vw, 190px);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--text);
+}
+
+.outline {
+  color: transparent;
+  -webkit-text-stroke: 2px color-mix(in srgb, var(--text) 55%, transparent);
+}
+
+.dot {
+  margin-left: 0.35em;
+  color: var(--primary);
+  -webkit-text-stroke: 0;
+}

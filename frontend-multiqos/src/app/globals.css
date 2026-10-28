@@ -1,0 +1,621 @@
+/* ==========================================================
+   Design tokens — layout and look modelled on multiqos.com
+   (white pages, light-grey rounded cards, one bright accent,
+   pill + round-arrow buttons). Pelicans blue is the accent.
+   To change the accent colour, edit --primary* only.
+   ========================================================== */
+:root {
+  --primary: #1163fb;
+  --primary-hover: #0a52d9;
+  --primary-text: #0d55dd; /* accent text on white */
+  --primary-on-dark: #8cb3fd; /* accent text on dark */
+  --primary-50: #eef4ff;
+  --primary-100: #dbe7ff;
+  --primary-gradient: linear-gradient(115deg, #0b4fd6 0%, #1163fb 45%, #5b93ff 100%);
+  --on-primary: #ffffff;
+  --accent: var(--primary);
+
+  /* Neutrals */
+  --navy: #050d24; /* dark hero / dark bands */
+  --ink: #000000;
+  --text: #000000;
+  --muted: #434343;
+  --muted-2: #6b6b6b;
+  --muted-on-dark: #b8c2d9;
+  --grey: #f1f2f4; /* card background */
+  --grey-2: #f7f7f8;
+  --border: #e4e6ea;
+  --border-strong: #cfd3da;
+  --bg: #ffffff;
+  --bg-alt: #ffffff; /* sections don't alternate colours: cards do */
+  --surface: #f1f2f4;
+  --surface-2: #ffffff;
+
+  /* Soft tints (stat cards, testimonial cards, mega-menu CTA) */
+  --tint-1: #e3edff;
+  --tint-2: #ebe3fc;
+  --tint-3: #d9f1fd;
+  --tint-4: #e3f6ec;
+  --tint-5: #fff1e3;
+
+  /* Type */
+  --font-heading: var(--font-manrope), "Manrope", system-ui, sans-serif;
+  --font-body: var(--font-manrope), "Manrope", system-ui, sans-serif;
+
+  /* Layout */
+  --container: 1280px;
+  --gutter: 16px;
+  --radius: 32px;
+  --radius-md: 24px;
+  --radius-sm: 16px;
+  --radius-pill: 999px;
+  --header-h: 94px;
+  --shadow: 0 10px 40px rgb(0 0 0 / 0.06);
+  --shadow-lg: 0 24px 64px rgb(0 0 0 / 0.12);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --reveal-from: translate3d(0, 28px, 0);
+}
+
+/* Dark areas (home hero, CTA bands): white text */
+.theme-dark,
+.section--dark {
+  --text: #ffffff;
+  --muted: #b8c2d9;
+  --surface: rgb(255 255 255 / 0.06);
+  --border: rgb(255 255 255 / 0.14);
+  --border-strong: rgb(255 255 255 / 0.28);
+  --primary-text: #8cb3fd;
+  color: var(--text);
+}
+.section--dark {
+  background: var(--navy);
+}
+
+/* Accent band */
+.section--blue {
+  --text: #ffffff;
+  --muted: rgb(255 255 255 / 0.85);
+  --border: rgb(255 255 255 / 0.3);
+  --primary-text: #ffffff;
+  background: var(--primary-gradient);
+  color: #fff;
+}
+
+/* Kept for components that ask for a light band: same white page */
+.section--light {
+  background: var(--bg);
+}
+
+/* Lenis smooth scrolling (components/motion/SmoothScroll) */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+html.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* ==========================================================
+   Base
+   ========================================================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+  -webkit-text-size-adjust: 100%;
+  background: #fff;
+  color-scheme: light;
+  /* no visible page scrollbar (same as the main site; scrolling still works) */
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  margin: 0;
+  overflow-x: clip; /* nothing may push the page sideways on phones */
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 0;
+  color: inherit;
+}
+
+h1 {
+  letter-spacing: -1px;
+}
+h2 {
+  letter-spacing: -1px;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--primary);
+  color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ==========================================================
+   Layout helpers
+   ========================================================== */
+.container {
+  width: 100%;
+  max-width: calc(var(--container) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* Sections are separated by space only (two halves = 112px between sections) */
+.section {
+  padding: 56px 0;
+}
+
+.section--alt {
+  background: var(--bg-alt);
+}
+
+@media (min-width: 1536px) {
+  :root {
+    --container: 1440px;
+  }
+  .section {
+    padding: 72px 0;
+  }
+}
+
+@media (max-width: 1024px) {
+  :root {
+    --radius: 24px;
+    --radius-md: 20px;
+  }
+  .section {
+    padding: 40px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --header-h: 72px;
+    --radius: 20px;
+    --radius-md: 16px;
+    --radius-sm: 12px;
+  }
+  body {
+    font-size: 15px;
+  }
+  .section {
+    padding: 28px 0;
+  }
+}
+
+/* ==========================================================
+   Buttons — pill label + round arrow badge that overlaps it.
+   Markup: <a class="btn btn--primary">Label <ArrowUpRight/></a>
+   On hover the pill fills with the accent and the arrow turns →.
+   ========================================================== */
+.btn {
+  --btn-text: var(--text, #000);
+  --btn-line: currentColor;
+  --btn-fill: transparent;
+  --btn-dot: var(--primary);
+  --btn-dot-text: #fff;
+  --btn-h: 50px;
+  position: relative;
+  isolation: isolate;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: var(--btn-h);
+  padding: 0 26px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--btn-text);
+  background: none;
+  border: 0;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+/* The pill outline */
+.btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border: 1px solid var(--btn-line);
+  border-radius: var(--radius-pill);
+  background: var(--btn-fill);
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+/* With an icon: the icon becomes the round badge on the right */
+.btn:has(> svg) {
+  padding-right: calc(var(--btn-h) + 14px);
+}
+.btn:has(> svg)::before {
+  right: calc(var(--btn-h) - 10px);
+}
+.btn > svg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: var(--btn-h);
+  height: var(--btn-h);
+  padding: calc(var(--btn-h) * 0.29);
+  border-radius: 50%;
+  background: var(--btn-dot);
+  color: var(--btn-dot-text);
+  border: 1px solid var(--btn-dot);
+  transition: transform 0.3s, background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  --btn-text: #fff;
+  --btn-line: var(--primary);
+  --btn-fill: var(--primary);
+}
+.btn:hover > svg {
+  background: #fff;
+  color: #000;
+  transform: rotate(45deg);
+}
+
+/* Solid accent pill (forms, standout actions) */
+.btn--solid {
+  --btn-text: #fff;
+  --btn-line: var(--primary);
+  --btn-fill: var(--primary);
+}
+.btn--solid:hover {
+  --btn-line: var(--primary-hover);
+  --btn-fill: var(--primary-hover);
+}
+
+/* On dark or accent backgrounds: white outline, white badge */
+.btn--accent,
+.btn--ghost-light,
+.theme-dark .btn,
+.section--dark .btn,
+.section--blue .btn {
+  --btn-text: #fff;
+  --btn-line: rgb(255 255 255 / 0.9);
+  --btn-dot: #fff;
+  --btn-dot-text: #000;
+}
+.btn--accent:hover,
+.btn--ghost-light:hover,
+.theme-dark .btn:hover,
+.section--dark .btn:hover,
+.section--blue .btn:hover {
+  --btn-text: #000;
+  --btn-line: #fff;
+  --btn-fill: #fff;
+}
+.btn--accent:hover > svg,
+.btn--ghost-light:hover > svg,
+.theme-dark .btn:hover > svg,
+.section--dark .btn:hover > svg,
+.section--blue .btn:hover > svg {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+.btn--sm {
+  --btn-h: 44px;
+  font-size: 14px;
+  padding: 0 20px;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+@media (max-width: 768px) {
+  .btn {
+    --btn-h: 46px;
+    font-size: 14px;
+    padding: 0 20px;
+  }
+}
+
+/* Round arrow badge on its own (cards) */
+.arrow-dot {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  transition: transform 0.3s, background-color 0.3s, color 0.3s;
+}
+.arrow-dot svg {
+  width: 20px;
+  height: 20px;
+}
+.arrow-dot--outline {
+  background: #fff;
+  color: #000;
+  border: 1px solid var(--border-strong);
+}
+
+/* ==========================================================
+   Section heading: eyebrow with target icon, big title on the
+   left, intro paragraph on the right (multiqos pattern)
+   ========================================================== */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+
+.eyebrow::before {
+  content: "";
+  flex: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1.5px solid currentColor;
+  background: radial-gradient(circle, currentColor 0 2.5px, transparent 3px);
+}
+
+.section-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.82fr);
+  gap: 24px 72px;
+  align-items: end;
+  margin-bottom: 48px;
+}
+
+.section-head h2,
+.section-title {
+  font-size: clamp(28px, 3.2vw, 44px);
+  line-height: 1.25;
+  letter-spacing: -1px;
+  font-weight: 700;
+}
+
+.section-head__intro {
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--muted);
+  padding-bottom: 6px;
+}
+
+.section-head--center {
+  grid-template-columns: 1fr;
+  justify-items: center;
+  text-align: center;
+}
+.section-head--center .section-head__intro {
+  max-width: 760px;
+}
+
+@media (max-width: 1024px) {
+  .section-head {
+    grid-template-columns: 1fr;
+    margin-bottom: 32px;
+  }
+  .eyebrow {
+    font-size: 15px;
+  }
+  .section-head__intro {
+    font-size: 15.5px;
+  }
+}
+
+/* Accent-coloured word in headings */
+.hl {
+  color: var(--primary);
+}
+
+/* ==========================================================
+   Motion
+   Elements opt in with attributes (see components/motion/MotionProvider):
+     data-reveal[="up|fade|left|right|zoom"]  fades in when scrolled into view
+     data-stagger                             its children fade in one after another
+   .enter-seq children play once on page load (hero sections).
+   Everything here is skipped when the visitor prefers reduced motion.
+   ========================================================== */
+@property --angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: var(--reveal-from);
+  }
+}
+
+@keyframes char-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+}
+
+.split-word,
+.split-char {
+  display: inline-block;
+}
+
+.split-word {
+  white-space: nowrap;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  [data-reveal="fade"] {
+    --reveal-from: none;
+  }
+  [data-reveal="left"] {
+    --reveal-from: translate3d(-48px, 0, 0);
+  }
+  [data-reveal="right"] {
+    --reveal-from: translate3d(48px, 0, 0);
+  }
+  [data-reveal="zoom"] {
+    --reveal-from: scale(0.94);
+  }
+
+  html[data-motion] [data-reveal]:not([data-revealed]),
+  html[data-motion] [data-stagger]:not([data-revealed]) > * {
+    opacity: 0;
+  }
+
+  [data-reveal][data-revealed=""] {
+    animation: reveal 0.9s var(--ease-out) backwards;
+    animation-delay: var(--reveal-delay, 0ms);
+  }
+
+  [data-stagger][data-revealed=""] > * {
+    --reveal-from: translate3d(0, 24px, 0);
+    animation: reveal 0.75s var(--ease-out) backwards;
+    animation-delay: calc(var(--i, 11) * 70ms);
+  }
+
+  [data-stagger] > :nth-child(1) { --i: 0; }
+  [data-stagger] > :nth-child(2) { --i: 1; }
+  [data-stagger] > :nth-child(3) { --i: 2; }
+  [data-stagger] > :nth-child(4) { --i: 3; }
+  [data-stagger] > :nth-child(5) { --i: 4; }
+  [data-stagger] > :nth-child(6) { --i: 5; }
+  [data-stagger] > :nth-child(7) { --i: 6; }
+  [data-stagger] > :nth-child(8) { --i: 7; }
+  [data-stagger] > :nth-child(9) { --i: 8; }
+  [data-stagger] > :nth-child(10) { --i: 9; }
+  [data-stagger] > :nth-child(11) { --i: 10; }
+
+  .enter-seq > * {
+    animation: reveal 0.8s var(--ease-out) backwards;
+  }
+  .enter-seq > :nth-child(2) { animation-delay: 0.08s; }
+  .enter-seq > :nth-child(3) { animation-delay: 0.16s; }
+  .enter-seq > :nth-child(4) { animation-delay: 0.24s; }
+  .enter-seq > :nth-child(5) { animation-delay: 0.32s; }
+  .enter-seq > :nth-child(n + 6) { animation-delay: 0.4s; }
+
+  html[data-motion] [data-reveal]:not([data-revealed]) .split-char {
+    opacity: 0;
+  }
+  [data-reveal][data-revealed=""] .split-char,
+  .enter-seq .split-char {
+    animation: char-in 0.5s cubic-bezier(0.33, 1, 0.68, 1) backwards;
+    animation-delay: calc(var(--ci, 0) * 12ms + 0.05s);
+  }
+
+  .enter-media {
+    --reveal-from: translate3d(0, 32px, 0) scale(0.97);
+    animation: reveal 1s var(--ease-out) 0.2s backwards;
+  }
+
+  .page-enter {
+    animation: fade-in 0.45s ease-out;
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Rotating hero phrase (components/site/RotatingWords): all words share one grid
+   cell so the line never jumps; the active one slides up into view */
+.rotating__track {
+  display: inline-grid;
+  vertical-align: bottom;
+  overflow: hidden;
+}
+.rotating__word {
+  grid-area: 1 / 1;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.5s var(--ease-out), transform 0.6s var(--ease-out);
+}
+.rotating__word.is-active {
+  opacity: 1;
+  transform: none;
+}

@@ -1,0 +1,18 @@
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px 28px;
+  margin-top: 32px;
+}
+
+.email {
+  color: rgb(255 255 255 / 0.9);
+  font-size: 15px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.email:hover {
+  color: #fff;
+}

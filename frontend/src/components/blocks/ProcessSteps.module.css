@@ -1,0 +1,138 @@
+.timeline {
+  position: relative;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+/* Centre line: grey track with a blue fill (ScrollLine) */
+.line {
+  position: absolute;
+  top: 8px;
+  bottom: 8px;
+  left: 50%;
+  width: 2px;
+  margin-left: -1px;
+  background: var(--border-strong);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.line > span {
+  position: absolute;
+  inset: 0;
+  background: var(--primary-gradient);
+  transform-origin: top center;
+}
+
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 56px;
+}
+
+.step {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 64px minmax(0, 1fr);
+  align-items: start;
+}
+
+.head {
+  text-align: right;
+}
+
+.count {
+  display: block;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1;
+  color: transparent;
+  -webkit-text-stroke: 1px var(--border-strong);
+  margin-bottom: 8px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.dot {
+  justify-self: center;
+  width: 16px;
+  height: 16px;
+  margin-top: 30px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--primary);
+  box-shadow: 0 0 0 6px var(--primary-50);
+  position: relative;
+  z-index: 1;
+}
+
+.body {
+  padding-top: 18px;
+}
+
+.icon {
+  width: 52px;
+  height: 52px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  background: #fff;
+  margin-bottom: 14px;
+}
+
+.text {
+  font-size: 15.5px;
+  color: var(--muted);
+}
+
+/* Phones: line on the left, everything beside it */
+@media (max-width: 760px) {
+  .line {
+    left: 8px;
+  }
+  .step {
+    grid-template-columns: 16px minmax(0, 1fr);
+    gap: 0 20px;
+  }
+  .head {
+    grid-column: 2;
+    text-align: left;
+  }
+  .dot {
+    grid-column: 1;
+    grid-row: 1;
+    margin-top: 6px;
+  }
+  .body {
+    grid-column: 2;
+    padding-top: 10px;
+  }
+  .count {
+    font-size: 40px;
+  }
+  .steps {
+    gap: 40px;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .icon {
+    transition: transform 0.35s var(--ease-out);
+  }
+  .step:hover .icon {
+    transform: scale(1.08) rotate(-4deg);
+  }
+  .dot {
+    transition: background-color 0.3s, transform 0.3s var(--ease-out);
+  }
+  .step:hover .dot {
+    background: var(--primary);
+    transform: scale(1.2);
+  }
+}

@@ -1,0 +1,138 @@
+/* Cells share their borders: the list draws the top/left lines,
+   every cell draws its right/bottom line */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+  border-left: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.item {
+  display: flex;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+  padding: 36px 32px;
+  color: inherit;
+  text-decoration: none;
+  background: transparent;
+  transition: background-color 0.35s, box-shadow 0.35s, transform 0.4s var(--ease-out);
+}
+.card::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 0;
+  height: 2px;
+  background: var(--deep);
+  transition: width 0.5s var(--ease-out);
+}
+.card:hover {
+  z-index: 1;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.card:hover::before {
+  width: calc(100% + 2px);
+}
+.onAlt .card {
+  background: rgb(255 255 255 / 0.5);
+}
+.onAlt .card:hover {
+  background: #fff;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  color: var(--deep);
+  background: var(--brand-light);
+  transition: background-color 0.3s, color 0.3s;
+}
+.icon img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+.card:hover .icon {
+  color: #fff;
+  background: var(--deep);
+}
+.card:hover .icon img {
+  filter: brightness(0) invert(1);
+}
+
+.number {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.label {
+  min-width: 0;
+  overflow: hidden;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--muted-2);
+}
+
+.title {
+  margin-top: 6px;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.3px;
+}
+
+.text {
+  font-size: 15px;
+  line-height: 1.75;
+}
+.text + .text {
+  margin-top: -4px;
+}
+
+.more {
+  margin-top: auto;
+  padding-top: 8px;
+}
+
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(min(var(--cols), 2), minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .card {
+    padding: 28px 22px;
+  }
+}

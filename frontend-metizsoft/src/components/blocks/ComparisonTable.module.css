@@ -1,0 +1,62 @@
+.scroller {
+  overflow-x: auto;
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid var(--border);
+  padding: 10px;
+}
+
+.table {
+  width: 100%;
+  min-width: 860px;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 15px;
+}
+
+.table th,
+.table td {
+  padding: 16px 20px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}
+
+.table thead th {
+  font-size: 16px;
+  font-weight: 700;
+  border-bottom: 0;
+}
+
+.table tbody th {
+  font-weight: 700;
+  width: 20%;
+}
+
+.table td {
+  color: var(--muted);
+}
+
+.table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+
+/* Pelicans column */
+.ours {
+  background: var(--brand-light);
+}
+
+.table thead .ours {
+  background: var(--deep);
+  color: #fff;
+  border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+}
+
+.table td.ours {
+  color: var(--deep);
+  font-weight: 600;
+}
+
+.table tbody tr:last-child .ours {
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+}

@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 28px;
+  min-height: 340px;
+  border-radius: var(--radius);
+  background: var(--grey);
+  transition: background-color 0.6s, color 0.4s, border-radius 0.6s;
+}
+
+.index {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  margin-bottom: auto;
+  border-radius: 50%;
+  background: #fff;
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.title {
+  margin-top: 40px;
+  font-size: 22px;
+  line-height: 1.3;
+  letter-spacing: 0.2px;
+}
+
+.text {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--muted);
+  transition: color 0.4s;
+}
+
+@media (hover: hover) {
+  .card:hover {
+    background: var(--primary);
+    color: #fff;
+    border-bottom-left-radius: 120px;
+  }
+  .card:hover .text {
+    color: rgb(255 255 255 / 0.86);
+  }
+}

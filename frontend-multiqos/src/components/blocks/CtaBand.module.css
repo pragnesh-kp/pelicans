@@ -1,0 +1,137 @@
+.wrap {
+  padding: 56px 0;
+}
+
+/* Accent gradient banner with soft concentric rings on the right (multiqos CTA) */
+.band {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  display: grid;
+  gap: 40px;
+  align-items: center;
+  padding: 64px 56px;
+  border-radius: var(--radius);
+  color: #fff;
+  background: var(--primary-gradient);
+}
+
+.band::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  right: -12%;
+  width: 760px;
+  aspect-ratio: 1;
+  translate: 0 -50%;
+  border-radius: 50%;
+  background: repeating-radial-gradient(circle, rgb(255 255 255 / 0.13) 0 1.5px, transparent 1.5px 46px);
+  mask-image: radial-gradient(circle, #000 25%, transparent 70%);
+}
+
+.withImage {
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.75fr);
+}
+
+.title {
+  font-size: clamp(26px, 3vw, 40px);
+  line-height: 1.25;
+  max-width: 720px;
+}
+
+.title span {
+  color: #fff;
+}
+
+.text {
+  margin-top: 14px;
+  max-width: 640px;
+  font-size: 17px;
+  color: rgb(255 255 255 / 0.88);
+}
+
+.media {
+  position: relative;
+  aspect-ratio: 496 / 277;
+}
+
+.image {
+  object-fit: contain;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .band::before {
+    animation: rings 18s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes rings {
+  to {
+    scale: 1.12;
+  }
+}
+
+/* Case-study "Outcome" */
+.outcome {
+  padding: 40px;
+  border-radius: var(--radius);
+  background: var(--grey);
+}
+
+.outcomeText {
+  font-size: 17px;
+  color: var(--muted);
+}
+
+.outcomeText + .outcomeText {
+  margin-top: 12px;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 28px;
+}
+
+.badge {
+  display: block;
+  padding: 10px 16px;
+  border-radius: var(--radius-sm);
+  background: #fff;
+  transition: box-shadow 0.25s;
+}
+
+.badge:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+.badgeImg {
+  height: 40px;
+  width: auto;
+}
+
+@media (max-width: 1024px) {
+  .wrap {
+    padding: 40px 0;
+  }
+  .withImage {
+    grid-template-columns: 1fr;
+  }
+  .band {
+    padding: 40px 28px;
+  }
+}
+
+@media (max-width: 640px) {
+  .wrap {
+    padding: 28px 0;
+  }
+  .band {
+    padding: 32px 20px;
+  }
+  .outcome {
+    padding: 24px;
+  }
+}

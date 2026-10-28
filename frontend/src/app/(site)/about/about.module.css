@@ -1,0 +1,161 @@
+.story {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 64px;
+}
+
+.storyTitle {
+  font-size: clamp(30px, 4vw, 46px);
+  font-weight: 700;
+}
+
+.badge {
+  margin-top: 28px;
+  width: 200px;
+  height: auto;
+}
+
+.storyText {
+  display: grid;
+  gap: 18px;
+  font-size: 18.5px;
+  color: var(--muted);
+}
+
+.stats {
+  margin-top: 64px;
+}
+
+/* Vision / Mission / Values */
+.values {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.valueCard {
+  padding: 32px 28px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.valueCard h3 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 20px 0 10px;
+}
+
+.valueCard p {
+  color: var(--muted);
+}
+
+.valueIcon {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--primary-50);
+  color: var(--primary-text);
+}
+
+/* Team */
+.team {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.member {
+  text-align: center;
+}
+
+.photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  border-radius: var(--radius);
+  margin-bottom: 18px;
+  background:
+    radial-gradient(circle at 70% 25%, rgb(37 99 235 / 0.16), transparent 55%),
+    linear-gradient(160deg, var(--primary-50), var(--primary-100));
+  color: var(--primary-text);
+  font-family: var(--font-heading);
+  font-size: 56px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.photo {
+  position: relative;
+  overflow: hidden;
+}
+
+.photoImg {
+  object-fit: cover;
+  object-position: top center;
+}
+
+.member h3 {
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.member p {
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+@media (max-width: 900px) {
+  .story {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .storyText {
+    font-size: 17px;
+  }
+
+  .stats {
+    margin-top: 40px;
+  }
+
+  .values {
+    grid-template-columns: 1fr;
+  }
+
+  .team {
+    gap: 14px;
+  }
+
+  .photo {
+    font-size: 40px;
+  }
+}
+
+/* Phones: two per row */
+@media (max-width: 700px) {
+  .team {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .member h3 {
+    font-size: 18px;
+  }
+  .member p {
+    font-size: 14.5px;
+  }
+}

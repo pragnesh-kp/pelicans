@@ -1,0 +1,4629 @@
+{
+ "/industries": {
+  "title": "Industries",
+  "description": "",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Top Industry Verticals We Serve",
+    "text": [
+     "We collaborate with you to plan, design, and program your project. Knowledge and experience are combined, always to create a professional touch that accurately reflects your business."
+    ],
+    "buttons": [],
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "industries-serve",
+    "heading": null,
+    "intro": []
+   },
+   {
+    "type": "quote-slider",
+    "heading": {
+     "text": "Valuable Feedback from Our Clients",
+     "highlight": "from Our Clients"
+    }
+   }
+  ]
+ },
+ "/fintech": {
+  "title": "FinTech",
+  "description": "Transform financial services with secure, scalable, and innovative FinTech solutions.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Fintech Development Solutions",
+    "text": [
+     "Unlock a competitive advantage with AI-driven FinTech software solutions that optimize financial management. Experience unmatched scalability, robust security, and improved efficiency to drive growth and meet business goals."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-fintech.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering top-tier IT solutions for Fintech industry.",
+     "highlight": "Fintech industry."
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Financial Portal Development",
+      "text": [
+       "Leverage cutting-edge technology with custom financial portals that provide access to banking services, financial tools, and market updates, ensuring a seamless and feature-rich user experience."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Investment Management Software",
+      "text": [
+       "Our investment management solutions allow real-time tracking of funds and assets with predictive features for improved decision-making and risk detection, enhancing operational efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Mobile Banking App Development",
+      "text": [
+       "Secure and scalable mobile banking apps tailored for banks, neo-banks, corporates, and retail banks. We offer intuitive design and microservices-backed architecture to enhance banking experiences."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Mutual Fund Portal Solutions",
+      "text": [
+       "Tap into the growing demand for mutual funds with our portal solutions that include essential tools like SIP calculators and payment gateways for efficient fund management and operations"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Payment App Development",
+      "text": [
+       "Transform your payment systems with feature-rich, secure payment apps that provide a smooth user experience, enabling efficient digital transactions in today’s evolving payment landscape."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "E-Payment Solutions",
+      "text": [
+       "Our comprehensive e-payment solutions enable smooth and secure transactions across multiple payment modes, ensuring user convenience and safe fund transfers."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Digital Wallet Solutions",
+      "text": [
+       "We design customizable digital wallets offering fast, safe, and efficient transactions, meeting rising customer expectations for seamless and secure payment experiences."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Insurance Software Development",
+      "text": [
+       "Enhance your market reach with innovative insurance software solutions using AI, ML, and big data to provide real-time policy management and customer access to relevant information"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Crowdfunding Platform Development",
+      "text": [
+       "Create robust, feature-rich crowdfunding platforms for donations, fundraising, and campaigns, with tools like social networking, investment tracking, and digital document management for an enriched user experience."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Decentralized Finance (DeFi) Platform",
+      "text": [
+       "Build custom decentralized finance solutions to tap into the DeFi sector, offering streamlined financial services with secure operations aligned with your business needs."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Fintech CRM Software Development",
+      "text": [
+       "Develop efficient fintech CRM systems that provide real-time insights into customer behavior and experiences, enabling better engagement and improved user satisfaction."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Currency Exchange Platform Development",
+      "text": [
+       "Our custom currency exchange platforms cater to your specific needs, ensuring safe, efficient, and seamless currency exchange operations, supported by expert fintech development."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Revolutionize FinTech with Smart Technology",
+     "highlight": ""
+    },
+    "text": [
+     "Utilize cutting-edge technologies to enhance and streamline financial processes"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming Finance with Innovative Software Solutions",
+     "highlight": "Innovative Software Solutions"
+    },
+    "intro": [
+     "We assist FinTech and financial services firms in developing advanced applications solutions utilizing technologies such as IoT, AI, and Blockchain."
+    ],
+    "items": [
+     {
+      "q": "Billing & Payment Solutions",
+      "a": [
+       "Optimize your financial operations with our billing and payment software. It includes invoice management, secure payment handling, and automated reconciliation for streamlined financial operations. Gain accuracy, compliance, and transparent financial insights for seamless operations."
+      ]
+     },
+     {
+      "q": "Financial CRM Systems",
+      "a": [
+       "Boost customer engagement with our tailored Financial CRM software. Track real-time customer activity, gain valuable insights into behavior, and make data-driven adjustments to enhance experiences. Elevate satisfaction and drive impactful interactions."
+      ]
+     },
+     {
+      "q": "Mobile Banking Applications",
+      "a": [
+       "Revolutionize convenience with our mobile banking solutions, offering secure account access, seamless fund transfers, and personalized financial alerts. Designed to meet modern banking needs, our software ensures a superior user experience."
+      ]
+     },
+     {
+      "q": "Electronic Trading Platforms",
+      "a": [
+       "Empower traders with our advanced electronic trading platforms, featuring real-time market data, portfolio management tools, and secure trade execution. Experience seamless, fast, and secure trading with solutions designed for speed and accessibility."
+      ]
+     },
+     {
+      "q": "Digital Payment Systems",
+      "a": [
+       "Streamline your checkout with cutting-edge digital payment solutions offering one-click transactions, multi-currency support, and robust fraud protection. Our secure platforms enhance convenience, support global payments, and build user trust effortlessly."
+      ]
+     },
+     {
+      "q": "Cybersecurity Solutions",
+      "a": [
+       "Streamline your checkout with cutting-edge digital payment solutions offering one-click transactions, multi-currency support, and robust fraud protection. Our secure platforms enhance convenience, support global payments, and build user trust effortlessly."
+      ]
+     },
+     {
+      "q": "Digital Wallet Solutions",
+      "a": [
+       "Meet evolving customer expectations with our tailored digital wallet solutions. We create advanced wallets designed for fast, secure, and seamless transactions. Empower your business to accept payments instantly with just a tap."
+      ]
+     },
+     {
+      "q": "Treasury Management Solutions",
+      "a": [
+       "Enhance your treasury operations with advanced management software focused on ensuring stability and fostering growth. Gain real-time cash insights, robust risk management, and streamlined liquidity planning to optimize financial resources effectively."
+      ]
+     },
+     {
+      "q": "Pricing Optimization Software",
+      "a": [
+       "Achieve a competitive edge with advanced pricing management software. Leverage dynamic pricing strategies, real-time analytics, and customizable offers to adapt to market trends and consumer behavior, driving higher profitability and market share."
+      ]
+     },
+     {
+      "q": "Loan Management Systems",
+      "a": [
+       "Achieve a competitive edge with advanced pricing management software. Leverage dynamic pricing strategies, real-time analytics, and customizable offers to adapt to market trends and consumer behavior, driving higher profitability and market share."
+      ]
+     },
+     {
+      "q": "Financial Planning & Control",
+      "a": [
+       "Enhance your financial strategies with our software, offering advanced forecasting, budget planning tools, and real-time analytics to support effective wealth management and strategic financial planning."
+      ]
+     },
+     {
+      "q": "Accounting Systems",
+      "a": [
+       "Transform your accounting with advanced systems. Benefit from efficient ledger management, automated tax reporting, and integrated payroll services for accurate, streamlined financial operations and compliance."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Fintech Business?",
+     "highlight": "Fintech Business?"
+    },
+    "intro": [
+     "We assist FinTech and financial services firms in developing advanced applications utilizing technologies such as IoT, AI, and Blockchain."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/non-profits": {
+  "title": "Non-Profits",
+  "description": "Empowering non-profits with scalable, impact-driven digital solutions.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Nonprofit Software Development Solutions",
+    "text": [
+     "Pelicans combines nonprofit industry expertise and a breadth of technical skill sets with AI-enabled development practices to help purpose-driven organizations overcome challenges, accelerate impact, and deliver measurable outcomes that drive community change."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2026-04-non-profits-org.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Empowering Nonprofits Through AI-Based Digital Solutions",
+     "highlight": "AI-Based Digital Solutions"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Full Cycle Website Development",
+      "text": [
+       "Pelicans provides end-to-end website development services, seamlessly integrating strategic planning, innovative design, and advanced programming to deliver high-performing, scalable, and user-friendly websites. We take a custom approach to each project, ensuring that every phase, from initial concept to final launch, is executed with precision and tailored to meet the client’s specific business objectives and digital strategy."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Website Design",
+      "text": [
+       "Crafting visually stunning and user-friendly website designs that reflect the client’s brand identity and engage their target audience. We utilize responsive website design principles to ensure optimal viewing across all devices, enhancing the user experience and maximizing conversion potential. Pelican’s creative skill in generating original, intuitive designs that captivate and convert."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom Software Development",
+      "text": [
+       "We provide tailored software development services for non-profits, addressing their unique challenges. Our solutions include donor management systems to enhance engagement and retention, financial tracking tools for transparency and accountability, and advanced data analytics to optimize resource utilization—helping you maximize impact in the communities you serve."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI & ML Development",
+      "text": [
+       "We help nonprofits navigate the complexity of AI in a responsible and practical way, identifying mission-aligned opportunities that drive real impact. Our approach focuses on automating outreach, optimizing resource allocation, and improving operational efficiency—enabling your organization to work smarter, scale efforts effectively, and amplify its overall impact."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Mobile App Development",
+      "text": [
+       "Mobile apps play a crucial role in the non-profit sector for better outreach, donor engagement, and event management. We help clients develop customized mobile apps that align with the specific needs and goals of the non-profit, focusing on user experience, functionality, and accessibility. Our team is adept in developing app types such as event apps, volunteer coordination apps, donation apps, and informational apps to help non-profits reach their audience effectively"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Management Information System Development",
+      "text": [
+       "We create MIS solutions specifically designed to meet the unique needs of non-profits in managing their operations, data, and stakeholder interactions. We emphasize the role and importance of MIS in non-profit organizations, highlighting its use in streamlining processes, improving decision-making, and enhancing data management. Our MIS solutions include elements like data collection, reporting, analytics, and user interfaces crucial for non-profit operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "UI/UX Design",
+      "text": [
+       "Designing intuitive, accessible, and user-centric digital experiences that enhance engagement for donors, volunteers, and beneficiaries. We simplify complex workflows into clear, meaningful interactions that improve usability, increase participation, and strengthen overall user satisfaction."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Integration & Modernization",
+      "text": [
+       "Modernizing legacy systems by seamlessly integrating databases, CRMs, and third-party tools into a unified ecosystem. This reduces manual effort, improves data accuracy and transparency, and enables nonprofits to operate more efficiently while scaling their impact."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Data & Analytics",
+      "text": [
+       "Enabling nonprofits to turn data into actionable insights through AI-ready analytics solutions. We help measure program outcomes, optimize fundraising strategies, and support data-driven decision-making—empowering organizations to maximize efficiency and deliver greater community impact."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Financial Management Software",
+      "text": [
+       "We develop software solutions to address specific financial management challenges faced by non-profit organizations, such as budgeting, funding allocation, and financial reporting. Our financial management software offers key functionalities such as automated financial reporting, real-time budget tracking, and integration with fundraising platforms."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Lead Your Industry with AI Driven Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "A Trusted Partner for Non-profits to Drive Change Through Technology"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Custom Nonprofit Software Solutions",
+     "highlight": "Software Solutions"
+    },
+    "intro": [
+     "We combine deep nonprofit expertise with hands-on experience to deliver custom software solutions that streamline operations, enhance transparency, and maximize your organization’s impact."
+    ],
+    "items": [
+     {
+      "q": "CRM & ERP",
+      "a": [
+       "Customizing and integrating CRM and ERP systems that connect fundraising, operations, and finance into one source of truth, enabling impactful engagement and data-driven decisions."
+      ]
+     },
+     {
+      "q": "Donor Management",
+      "a": [
+       "Building donor management systems that track giving, automate acknowledgments, and personalize engagement to boost retention, simplify reporting, and drive fundraising success."
+      ]
+     },
+     {
+      "q": "Grant Management",
+      "a": [
+       "Developing grant management systems that simplify application tracking, compliance reviews, and fund distribution to improve transparency and reporting for every grant cycle"
+      ]
+     },
+     {
+      "q": "Fundraising & Payments",
+      "a": [
+       "Creating unified fundraising and payment solutions that integrate with existing systems, enabling seamless online donations, recurring giving, and financial tracking."
+      ]
+     },
+     {
+      "q": "Impact Tracking",
+      "a": [
+       "Designing data-driven dashboards that connect program outcomes with financial performance, helping nonprofits visualize and communicate their mission impact."
+      ]
+     },
+     {
+      "q": "Volunteer Management",
+      "a": [
+       "Customizing solutions to simplify recruitment, scheduling, and reporting, making it easier to coordinate efforts and recognize contributions at scale."
+      ]
+     },
+     {
+      "q": "Marketing Automation",
+      "a": [
+       "Implementing marketing automation frameworks that help nonprofits nurture relationships, increase retention, and deliver targeted messaging across email, social, and digital channels."
+      ]
+     },
+     {
+      "q": "Membership Portals",
+      "a": [
+       "Creating secure, self-service membership portals that streamline signups, renewals, event participation, and communication, enhancing engagement across your community."
+      ]
+     },
+     {
+      "q": "Reporting & Compliance",
+      "a": [
+       "Developing audit-ready transparency solutions across finances, activities, and outcomes, helping nonprofits maintain 501(c)(3) compliance while strengthening accountability and trust."
+      ]
+     },
+     {
+      "q": "Operational Management Solutions",
+      "a": [
+       "AI-driven automation optimizes operational functions, reducing resource consumption while enhancing efficiency. We offer intelligent process automation, task prioritization, autonomous control systems, and error reduction for smoother, more effective operations."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Non Profits Choose Pelicans Solutions?",
+     "highlight": "Pelicans Solutions?"
+    },
+    "intro": [
+     "Our commitment to quality, combined with proven expertise, makes us a trusted partner for nonprofit software development delivering reliable, scalable solutions that drive efficiency"
+    ],
+    "items": [
+     {
+      "title": "Domain Expertise",
+      "text": [
+       "Our experience with Nonprofits, NGOs, trusts, and foundations allows us to deeply understand sector-specific challenges, enabling us to build solutions that align with program goals, donor expectations, and operational realities."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Cost-Effective, Scalable Solutions",
+      "text": [
+       "We focus on optimizing development costs without compromising quality, delivering scalable and future-ready solutions that provide long-term value and sustainable growth."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Easy-to-Use for Non-Technical Teams",
+      "text": [
+       "Our solutions feature intuitive interfaces and simplified dashboards, ensuring that staff and volunteers can easily manage operations without requiring technical expertise."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "High Security & Data Protection",
+      "text": [
+       "We implement robust security protocols, including data encryption, access controls, and compliance standards, to safeguard sensitive donor and financial information."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Long-Term Partnership",
+      "text": [
+       "Beyond development, we act as a long-term technology partner offering ongoing maintenance, performance optimization, upgrades, and strategic guidance as your organization evolves."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/education-elearning": {
+  "title": "Education",
+  "description": "Revolutionizing education with custom solutions for students and educators",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Education & eLearning Development Solutions",
+    "text": [
+     "Create customized, interactive educational software to inspire next-gen learning. We deliver innovative eLearning solutions and network tools that empower institutions, educators, and students, ensuring seamless knowledge sharing and intuitive user experiences."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-education-1.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering Comprehensive IT solutions for eLearning industry",
+     "highlight": "eLearning industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "eLearning Portals",
+      "text": [
+       "We deliver advanced eLearning portals for audiences of all sizes, offering features like multilingual support, analytics, reporting, live classes, discussion boards, and role-based cloud access."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Online Education Platforms",
+      "text": [
+       "Our online education platforms are built with cutting-edge integrations to fit your learning methods. Share your requirements, and we’ll craft a platform to engage learners effectively"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "LMS Development",
+      "text": [
+       "Streamline eLearning with a feature-rich LMS offering personalized course suggestions, virtual classrooms, and skill assessments. Boost knowledge retention and learner experience by 40%."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Enterprise LMS Development",
+      "text": [
+       "Create tailored enterprise LMS solutions for online training, certifications, and job-specific learning. Flexible designs tailored to meet the learning and development needs of organizations and their diverse audiences"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "eLearning App Development",
+      "text": [
+       "Deliver impactful training with custom eLearning apps for web and mobile, using responsive designs and advanced tech. Backed by 25+ proven practices, we ensure engaging, accessible learning"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "CBT and ITB Solutions",
+      "text": [
+       "We design scalable, secure, and user-friendly CBT and ITB systems, providing reliable assessments for educational and professional settings."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom eLearning Development",
+      "text": [
+       "Build personalized, interactive eLearning solutions aligned with your goals. Our top 1% edtech team excels in SCORM, xAPI, LMS platforms, and multimedia to achieve outstanding outcomes."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "eLearning Software Modernization",
+      "text": [
+       "Upgrade eLearning systems with cutting-edge technologies, seamless integrations, and robust migrations. Achieve zero downtime and 500% performance improvement with advanced modernization."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Transform Your Education and eLearning Business",
+     "highlight": ""
+    },
+    "text": [
+     "Harness innovative technologies to improve learning experiences and outcomes."
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming education through Next-Level Software",
+     "highlight": "Next-Level Software"
+    },
+    "intro": [
+     "Explore our innovative education and eLearning solutions designed to transform learning experiences. We provide customized development services that blend expert knowledge with advanced technology."
+    ],
+    "items": [
+     {
+      "q": "MVP Development",
+      "a": [
+       "Our MVP development services help you quickly test eLearning ideas. We create cost-effective, feature-packed MVPs to gather user feedback, validate concepts, and plan for scalable, full-product launches."
+      ]
+     },
+     {
+      "q": "Student Information Management Systems",
+      "a": [
+       "We build cloud-based student information systems for easy, anytime access. Our solutions cover all student touchpoints, including grades and attendance, tailored to meet your operational needs and functionality."
+      ]
+     },
+     {
+      "q": "Online Education Portals",
+      "a": [
+       "We provide advanced eLearning portals that cater to all audience sizes. Our solutions include multilingual support, analytics, live classes, discussion boards, and role-based access, all connected via the cloud."
+      ]
+     },
+     {
+      "q": "Mobile Learning Applications",
+      "a": [
+       "We design mobile learning solutions for easy and accessible learning. Our cloud-based platforms include advanced content management, task automation, and modern tech to provide a seamless, ready-to-use experience."
+      ]
+     },
+     {
+      "q": "University Administration Systems",
+      "a": [
+       "We provide scalable, feature-rich university management solutions tailored to your needs. Our custom approach enhances efficiency, aligns with your goals, and helps boost your university’s revenue and effectiveness."
+      ]
+     },
+     {
+      "q": "ERP Solutions for Educational Institutions",
+      "a": [
+       "Leverage our expertise in ERP solutions for your academy. We create custom ERPs to manage academics from a unified dashboard, focusing on simplicity, accessibility, and improved convenience for better efficiency."
+      ]
+     },
+     {
+      "q": "Library Management Systems",
+      "a": [
+       "We specialize in library management solutions that provide easy access to services like cataloging, registration, circulation, and more. Our user-friendly, intuitive interface makes it simple to filter and search resources with quick accessibility."
+      ]
+     },
+     {
+      "q": "AI and ML-based Learning Platforms",
+      "a": [
+       "Our AI/ML-powered learning solutions offer personalized education, adapting learning paths to each student’s needs. With data-driven insights, we help maximize student success and improve learning outcomes."
+      ]
+     },
+     {
+      "q": "Gamified Learning Solutions",
+      "a": [
+       "We combine learning with creativity, offering gamified education solutions that make learning fun and engaging. With seamless access to cutting-edge technologies, we help you enhance your offerings and stand out in the market."
+      ]
+     },
+     {
+      "q": "Competitive Exam Preparation Systems",
+      "a": [
+       "Our competitive exam solutions provide students with the tools they need to succeed. We offer a centralized dashboard for easy access to essential educational resources, enhancing convenience and helping students achieve their goals."
+      ]
+     },
+     {
+      "q": "Online Assessment Platforms",
+      "a": [
+       "Our experts design advanced online assessment systems, creating a next-gen digital learning environment. We integrate assessments, HR features, and AI/ML-powered auto-grading to evaluate student abilities efficiently and accurately."
+      ]
+     },
+     {
+      "q": "Virtual Classroom Technology",
+      "a": [
+       "Our experts focus on making education more accessible by creating interactive classroom solutions with microphones, cameras, and AR/VR-based learning. We also incorporate 3D videos and simulations for an enhanced eLearning experience."
+      ]
+     },
+     {
+      "q": "Knowledge Management Systems",
+      "a": [
+       "Our knowledge management solutions enhance your operations by providing seamless access to content, guidance, and insights. We design products that allow students and learners to easily search and access all necessary resources for success."
+      ]
+     },
+     {
+      "q": "Corporate Training Platforms",
+      "a": [
+       "Our EdTech experts take a custom approach to design corporate training portals that simplify employee training. These feature-rich portals offer easy access to resources and allow you to track progress for better insights."
+      ]
+     },
+     {
+      "q": "Online Tutoring Services",
+      "a": [
+       "We develop online tutoring platforms tailored to your needs, offering enhanced learning experiences for better retention. Our solutions include features to tackle common online learning challenges, such as time zone differences and doubt resolution."
+      ]
+     },
+     {
+      "q": "AR/VR-based Learning Solutions",
+      "a": [
+       "Our experts in educational software development use advanced AR and VR technologies to create immersive learning experiences. These solutions enhance understanding and retention, taking learning to the next level with AR/VR capabilities."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Education Business?",
+     "highlight": "Education Business?"
+    },
+    "intro": [
+     "We develop LMS, eLearning platforms, course tools, and mLearning apps using modern tech. Pelicans experts offer scalable, market-proven EdTech solutions with full support"
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/e-commerce": {
+  "title": "E-commerce",
+  "description": "Innovative solutions for the evolving needs of retail and eCommerce consumers.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "E-Commerce Development Solutions",
+    "text": [
+     "We build impactful e-com websites and apps that drive sales. With our eCommerce expertise, we focus on every detail to ensure your site aligns perfectly with your brand and goals. If you’re proud of your brand, we’ll make sure your website reflects that pride."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-ecommerce.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid",
+    "heading": {
+     "text": "eCommerce Development Platforms We Use",
+     "highlight": "eCommerce Development"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Shopify",
+      "text": [
+       "Transform your e-commerce brand with Shopify. We create online stores designed to drive conversions and increase sales, giving your business the tools it needs to thrive."
+      ],
+      "image": "/images/wp/2024-12-shopify.svg",
+      "href": "/shopify"
+     },
+     {
+      "title": "Woocommerce",
+      "text": [
+       "Collaborate with us to design WooCommerce websites customized to meet your customers’ needs, showcase your brand, and boost sales, helping your e-commerce business stand out from the competition."
+      ],
+      "image": "/images/wp/2024-12-woocommerce.svg",
+      "href": "/woocommerce"
+     },
+     {
+      "title": "Magento",
+      "text": [
+       "Transform your online business with Magento. We help you build a secure, flexible, and feature-packed e-commerce store that’s fully customizable and responsive, ensuring a seamless experience."
+      ],
+      "image": "/images/wp/2024-12-magento-1.svg",
+      "href": "/magento"
+     },
+     {
+      "title": "Oddo",
+      "text": [
+       "Streamline your operations and manage inventory effortlessly with our eCommerce solutions integrated with Odoo ERP. We combine powerful eCommerce features with seamless back-end management for a unified platform."
+      ],
+      "image": "/images/wp/2024-12-odoo-2.svg",
+      "href": "/odoo"
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering top-tier IT solutions for Ecommerce Industry",
+     "highlight": "Ecommerce Industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "eCommerce Web Development",
+      "text": [
+       "Enhance digital presence and grow your online business with our specialized eCommerce solutions. We create fast, responsive, SEO-friendly websites that offer a seamless shopping experience and efficient payment integrations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "eCommerce App Development",
+      "text": [
+       "Engage the growing mobile audience with our custom eCommerce app development. Our apps ensure fast, secure, and responsive performance with personalized features and push notifications."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Multi-Vendor Marketplace",
+      "text": [
+       "Enhance your retail operations with our custom multi-vendor B2B/B2C marketplace solutions. We simplify vendor interactions, catalog management, logistics, and analytics for a smoother transaction experience."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom eCommerce Software Development",
+      "text": [
+       "Transform your retail vision with custom software development. We build feature-rich online stores, integrating advanced search, personalized recommendations, and seamless checkout systems."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Retail eCommerce Solutions",
+      "text": [
+       "Expand globally with multilingual, multi-currency eCommerce platforms. Our solutions provide a seamless shopping experience while meeting diverse customer needs across borders."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Retail eCommerce Operations",
+      "text": [
+       "Enhance your retail operations with features like POS, warehouse management, and accounting, integrated seamlessly into your eCommerce platform for efficient product management and increased revenue."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "ERP eCommerce Integration",
+      "text": [
+       "Optimize your operations with ERP integration for eCommerce. Our solutions, like Odoo integration, streamline resource planning, project management, and synchronize your business processes for better efficiency"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "UI/UX Design and Prototyping",
+      "text": [
+       "Our UI/UX design services prioritize a user-centered approach, ensuring your eCommerce website is both visually engaging and easy to navigate, providing a smooth journey from browsing to checkout"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Lead the Next Era of E-Commerce Innovation",
+     "highlight": ""
+    },
+    "text": [
+     "Leverage technology to enhance and simplify online shopping experiences."
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming Ecommerce with Innovative Software Solutions",
+     "highlight": "Transforming Ecommerce"
+    },
+    "intro": [
+     "Explore our innovative eCommerce software solutions designed to revolutionize your online business. We deliver customized development services that combine expertise and cutting-edge technology."
+    ],
+    "items": [
+     {
+      "q": "eCommerce Development",
+      "a": [
+       "Enhance your eCommerce platform’s adaptability with our microservices architecture. It enables seamless updates, scalability for high traffic, and independent development for faster feature releases, ensuring optimal performance and growth."
+      ]
+     },
+     {
+      "q": "Retail and eCommerce Billing Solutions",
+      "a": [
+       "Streamline your eCommerce financial operations with our custom billing and accounting solutions. Enjoy automated invoicing, real-time integration with eCommerce platforms, and custom financial reports to make informed business decisions."
+      ]
+     },
+     {
+      "q": "Online Stores and Marketplaces",
+      "a": [
+       "Launch a high-performing online store or marketplace with our tailored eCommerce development solutions. We offer user-friendly designs, advanced analytics for tracking vendor and customer engagement, and smooth onboarding for both vendors and buyers."
+      ]
+     },
+     {
+      "q": "Warehouse & Inventory Management",
+      "a": [
+       "Streamline your inventory and warehouse operations with our solutions. Track stock levels in real time, automate reordering, and integrate with sales channels to ensure efficient product flow and meet customer demands seamlessly."
+      ]
+     },
+     {
+      "q": "Supply Chain and Logistics Solutions",
+      "a": [
+       "Improve your supply chain performance with our tailored logistics software solutions. Gain full visibility, use predictive tools for better planning, and track key logistics metrics through intuitive dashboards to ensure timely deliveries and smooth operations."
+      ]
+     },
+     {
+      "q": "Retail Software Development",
+      "a": [
+       "Enhance the retail journey with our customized software, effortlessly connecting in-store and online shopping experiences. Seamless POS integration, real-time inventory and sales analytics, and loyalty programs to drive customer engagement and repeat business."
+      ]
+     },
+     {
+      "q": "On-Demand eCommerce Apps",
+      "a": [
+       "Enhance the retail journey with our customized software, effortlessly connecting in-store and online shopping experiences. Seamless POS integration, real-time inventory and sales analytics, and loyalty programs to drive customer engagement and repeat business."
+      ]
+     },
+     {
+      "q": "eCommerce Migration Solutions",
+      "a": [
+       "Seamlessly transition to a more advanced eCommerce platform with our expert migration services. We ensure data integrity, maintain SEO rankings, and provide ongoing support for a smooth transition and continued business growth."
+      ]
+     },
+     {
+      "q": "Payment Gateway Integration",
+      "a": [
+       "Improve your checkout process with secure, versatile payment gateway integrations. Support global payment methods, ensure secure transactions with encryption, and streamline flows to minimize cart abandonment and boost customer trust."
+      ]
+     },
+     {
+      "q": "Retail CRM and ERP",
+      "a": [
+       "Boost retail operations and customer relationships with our CRM and ERP solutions. Manage customer interactions, streamline back-office tasks, increase sales, improve productivity, and deliver outstanding experiences to your clients."
+      ]
+     },
+     {
+      "q": "PWA eCommerce Solutions",
+      "a": [
+       "Boost user engagement with our PWA development for eCommerce platforms, combining web reach with an app-like experience. Enjoy offline browsing, push notifications, and a seamless interface for higher user retention and personalized offers."
+      ]
+     },
+     {
+      "q": "B2C eCommerce Solutions",
+      "a": [
+       "Enhance customer shopping with our B2C eCommerce apps. We offer intuitive interfaces and seamless checkout, designed to engage users, drive conversions, and build brand loyalty through exceptional app development and design."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your eCommerce Business?",
+     "highlight": "eCommerce Business?"
+    },
+    "intro": [
+     "Explore advanced retail and eCommerce solutions that optimize data flow, integrate all touchpoints, and create powerful solutions for B2B and B2C marketplaces."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/manufacturing": {
+  "title": "Manufacturing",
+  "description": "Automate manufacturing operations to boost efficiency and achieve goals faster.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Manufacturing Development Solutions",
+    "text": [
+     "Transform your manufacturing processes with Pelicans custom software solutions. We leverage advanced technology and industry expertise to enhance production efficiency and operations. Partner with us for innovation-driven growth"
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-manufacturing.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering top-tier solutions for Manufacturing industry",
+     "highlight": "Manufacturing industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Manufacturing ERP Solutions",
+      "text": [
+       "Our ERP software integrates key aspects of your manufacturing business, including finance, supply chain, inventory, production, and sales, for a seamless operational flow"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Predictive Maintenance Technology",
+      "text": [
+       "Leverage advanced analytics and machine learning to detect patterns, predict equipment failures, and schedule timely maintenance before disruptions occur."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Production Scheduling Tools",
+      "text": [
+       "Maximize your assets and workforce by optimizing production schedules, balancing capacity, constraints, and demand for effective planning."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Real-Time Inventory Management",
+      "text": [
+       "Track inventory levels, automate restocking, predict demand, and streamline order fulfillment to ensure smooth operations and timely delivery."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Quality Management Systems (QMS)",
+      "text": [
+       "Simplify quality control processes such as audits, non-conformance management, and corrective actions to maintain product consistency and regulatory compliance."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Customer Relationship Management Software",
+      "text": [
+       "Manage customer interactions, track leads, automate sales processes, and optimize order management to foster strong business relationships."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Manufacturing Execution Systems (MES)",
+      "text": [
+       "Gain real-time insights into production operations by connecting your shop floor to enterprise systems for improved efficiency and control."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Material Requirements Planning (MRP)",
+      "text": [
+       "Optimize material flow, reduce inventory costs, prevent stockouts, and enhance supply chain performance with our MRP software solutions."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Business Intelligence for Manufacturing",
+      "text": [
+       "Access powerful analytics and dynamic dashboards for sales, inventory, and financial data, enabling smarter, data-driven business decisions."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Order Management Systems (OMS)",
+      "text": [
+       "Automate and streamline the entire order lifecycle, from entry to shipping and invoicing, while tracking resources, production, and customer orders."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Supply Chain Management Software",
+      "text": [
+       "Enhance supply chain efficiency by managing suppliers, purchases, inventories, logistics, and demand forecasting within one unified system."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Equipment Maintenance Solutions",
+      "text": [
+       "Boost asset reliability, reduce downtime, and extend equipment lifespan by implementing proactive maintenance strategies for your manufacturing equipment."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Shape the Future of Manufacturing Operations",
+     "highlight": ""
+    },
+    "text": [
+     "Leverage the latest and advanced technologies to optimize production processes"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Revolutionizing Manufacturing Industry with Cutting-Edge Solutions",
+     "highlight": "Cutting-Edge Solutions"
+    },
+    "intro": [
+     "Offering cutting-edge manufacturing software systems designed to optimize efficiency in the ever-evolving manufacturing industry. Our custom solutions empower operations with advanced software, enhancing production capabilities and improving productivity."
+    ],
+    "items": [
+     {
+      "q": "Manufacturing ERP & MRP Systems",
+      "a": [
+       "Enhance your manufacturing processes with our customized ERP and MRP solutions. Gain real-time control over processes, align production with supply chain needs, and customize to fit your unique manufacturing methods."
+      ]
+     },
+     {
+      "q": "Predictive Maintenance Software",
+      "a": [
+       "Avoid equipment failures and improve reliability using our predictive maintenance software. Using AI, it forecasts maintenance needs, reduces downtime, and optimizes schedules to boost production and improve asset performance for extended lifespan."
+      ]
+     },
+     {
+      "q": "Manufacturing Scheduling Solutions",
+      "a": [
+       "Boost production efficiency with our scheduling software. It optimizes runs, reduces bottlenecks, and adapts in real-time to changing conditions, all while providing clear visual dashboards for easy schedule management."
+      ]
+     },
+     {
+      "q": "Inventory Management Software",
+      "a": [
+       "Maintain ideal stock levels with our inventory management software. It provides real-time tracking, minimizes waste, and automates reordering based on predictive analytics. It also integrates smoothly with procurement and production systems."
+      ]
+     },
+     {
+      "q": "CRM Software for Manufacturing",
+      "a": [
+       "Enhance customer relationships with our CRM software for manufacturing. It tracks interactions for personalized engagement, automates marketing campaigns, and supports post-sale feedback to foster loyalty and boost sales."
+      ]
+     },
+     {
+      "q": "Manufacturing Execution Systems",
+      "a": [
+       "Boost shop floor efficiency with our advanced Manufacturing Execution Software. It tracks workflows, integrates with machines for real-time data, and provides analytics to optimize production and improve output quality."
+      ]
+     },
+     {
+      "q": "Order Management Software",
+      "a": [
+       "Enhance order fulfillment with our solution, ensuring timely and accurate deliveries. Centralized order tracking, automated updates for customers, and seamless integration with shipping and logistics for smooth distribution."
+      ]
+     },
+     {
+      "q": "Equipment Maintenance Software",
+      "a": [
+       "Ensure optimal equipment performance with our maintenance software. Schedule maintenance, track service history, and use predictive analytics to prevent issues. Custom alerts help maintenance teams act quickly for timely repairs."
+      ]
+     },
+     {
+      "q": "Product Tracking Solutions",
+      "a": [
+       "Gain full visibility into your product journey with our tracking software. Track products in real-time, monitor batches and serial numbers for quality, and integrate with supply chain systems for complete product oversight."
+      ]
+     },
+     {
+      "q": "Energy Management Systems",
+      "a": [
+       "Optimize energy use with our smart energy management systems for manufacturing. Monitor energy consumption, reduce waste, and cut costs. Benefit from automated optimization using AI and access detailed reports for sustainability and compliance."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Manufacturing Business?",
+     "highlight": "Manufacturing Business?"
+    },
+    "intro": [
+     "Our manufacturing software solutions tackle key challenges like supply chain optimization, inventory control, production planning, and quality management."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/healthcare": {
+  "title": "Healthcare",
+  "description": "AI-powered solutions designed to transform the health and fitness industries.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Digital Healthcare Development Solutions",
+    "text": [
+     "Get custom healthcare solutions for better patient care. Our software offers secure, effective, and regulatory-compliant solutions to enhance your healthcare business."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-healthcare-1.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering Smarter Tech Solutions for Healthcare industry",
+     "highlight": "for Healthcare industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Healthcare Web Development",
+      "text": [
+       "We create scalable, secure, and responsive healthcare web platforms that seamlessly integrate into your ecosystem. Our solutions enhance patient and provider experiences, ensuring accessibility and functionality for healthcare firms of all sizes."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom Healthcare Software Development",
+      "text": [
+       "We develop custom software solutions tailored to healthcare professionals’ needs, enabling efficient tracking of patient vitals, monitoring recovery, and managing medical data for better care and decision-making."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Laboratory Information Management System",
+      "text": [
+       "Our tailored LIMS solutions simplify sample tracking while ensuring full compliance with regulations. We enhance laboratory workflows and data management, providing advanced features to optimize laboratory operations and improve result accuracy."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom mHealth App Development",
+      "text": [
+       "Our mHealth apps offer patients personalized health management tools, from monitoring vital signs to booking appointments. We design intuitive interfaces and actionable insights to improve health engagement and care efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Electronic Health Record (EHR) Software",
+      "text": [
+       "We offer secure, interoperable EHR software solutions to optimize data management, documentation, and medical decision-making. Our system ensures seamless data exchange, enhancing overall patient care and clinical efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Medical Device Software Development",
+      "text": [
+       "We specialize in developing software for medical devices, including embedded systems and cloud-based applications. Our solutions drive innovation in medical technology, improving patient outcomes and operational efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Pharmacy Delivery App",
+      "text": [
+       "Our pharmacy delivery app allows customers to easily order medications online, with detailed descriptions and prices. It offers a seamless, convenient way for patients to access prescriptions from the comfort of their homes"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Telemedicine App Development",
+      "text": [
+       "Our telemedicine apps enable remote healthcare services, transforming manual processes into efficient digital workflows. Designed for hospitals and clinics, they enhance patient care and simplify healthcare operations with a seamless, contact-free experience."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Pharmacy Management System",
+      "text": [
+       "We provide custom pharmacy management solutions that streamline operations, enhance patient safety, and ensure regulatory compliance. Our systems improve workflow efficiency and support accurate medication management."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "HIPAA-Compliant Software",
+      "text": [
+       "Our software solutions are HIPAA-compliant, ensuring patient data privacy and security. We integrate role-based access control (RBAC) and encryption to protect sensitive health information, meeting industry regulations."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Transform Healthcare with Innovative Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Leverage advanced technologies to improve patient outcomes and streamline care delivery"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming Healthcare Operations with Innovative Software Solutions",
+     "highlight": "Innovative Software Solutions"
+    },
+    "intro": [
+     "Embrace the future of healthcare management with innovative solutions. Partner with a top Health Tech company driving the digital health transformation."
+    ],
+    "items": [
+     {
+      "q": "EMR/EHR systems",
+      "a": [
+       "Our EMR and EHR practice management software integrates electronic communications, record tracking, and customizable chart templates. It offers seamless third-party integrations for smarter experiences, improving efficiency for both doctors and patients."
+      ]
+     },
+     {
+      "q": "Telemedicine and Telehealth Solutions",
+      "a": [
+       "Our telehealth and telemedicine solutions enable virtual visits, remote consultations, and integration with wearable health tech, improving accessibility, patient engagement, and care continuity for efficient healthcare services."
+      ]
+     },
+     {
+      "q": "Practice Management Software",
+      "a": [
+       "Streamline your healthcare practice with our practice management software, featuring appointment scheduling, patient registration, billing, claims processing, and analytics to improve operations and enhance patient care."
+      ]
+     },
+     {
+      "q": "Clinical Decision Support Systems",
+      "a": [
+       "Improve clinical decision-making with our CDSS, providing evidence-based recommendations and alerts to support informed healthcare choices. It integrates with patient records, highlights medication interactions, and aids in diagnostic and treatment decisions for better patient care."
+      ]
+     },
+     {
+      "q": "Healthcare Mobile Applications",
+      "a": [
+       "Our healthcare mobile apps enhance patient engagement with easy health tracking, secure messaging with providers, and convenient access to healthcare services anytime, anywhere, promoting better outcomes and a seamless experience."
+      ]
+     },
+     {
+      "q": "mHealth App Development",
+      "a": [
+       "Our mHealth apps enhance wellness and support chronic disease management with features like remote monitoring of vitals, personalized health coaching, and medication reminders, ensuring better patient outcomes and engagement."
+      ]
+     },
+     {
+      "q": "Healthcare (CRM)",
+      "a": [
+       "Our healthcare CRM solutions improve patient relationships by enabling personalized care, streamlined communication, and managing feedback. With analytics, we track patient behavior and preferences, enhancing engagement and satisfaction."
+      ]
+     },
+     {
+      "q": "Medical Inventory Management Software",
+      "a": [
+       "Our inventory management software helps efficiently manage medical supplies, reduce waste, and ensure availability. It offers real-time tracking, automated reorder alerts, and integrates with procurement systems for seamless operations."
+      ]
+     },
+     {
+      "q": "Medical Billing Solutions",
+      "a": [
+       "Our medical billing software simplifies billing, ensuring accuracy and regulatory compliance. It automates coding, claim submissions, payment processing, reconciliation, and provides financial reporting to optimize management and insights."
+      ]
+     },
+     {
+      "q": "Remote Patient Monitoring Systems",
+      "a": [
+       "Our remote patient monitoring system offers continuous care by tracking health data remotely. It integrates with home devices, sends alerts for abnormal readings, and includes tools for patient engagement and self-management."
+      ]
+     },
+     {
+      "q": "Medical Insurance Verification Solutions",
+      "a": [
+       "Our insurance verification solution simplifies the process, reducing admin work and enhancing patient experience. It offers automated coverage checks, real-time eligibility verification, and reduces claim denials and delays."
+      ]
+     },
+     {
+      "q": "HIPAA-Compliant Software Solutions",
+      "a": [
+       "Our HIPAA-compliant software protects sensitive health data with top security measures. It includes encryption, secure data exchange, compliance tracking, reporting, and tools for risk assessment and management."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Healthcare Business?",
+     "highlight": "Healthcare Business?"
+    },
+    "intro": [
+     "End-to-end software solutions for healthcare, supporting medical institutions, telemedicine, remote care, and management of physical and mental health."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "A Toddler Thing – Online Clothing Store",
+      "href": "/portfolio/a-toddler-thing-online-clothing-store",
+      "image": "/images/wp/2025-02-att.jpg",
+      "tags": [
+       "Shopify",
+       "Ecommerce",
+       "PHP"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Mobile App",
+      "href": "/portfolio/art-hotel-mobile-app",
+      "image": "/images/wp/2025-02-arthotel-mobile-main.jpg",
+      "tags": [
+       "Mobile App",
+       "Flutter",
+       "Booking Management System"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/ai-solution": {
+  "title": "AI Solutions",
+  "description": "Innovative applications powered by generative AI for diverse industries.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "AI Solutions",
+    "text": [],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-da4563d1-dca0-4688-a3d1-82236ae2c682.png",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Revolutionizing Industries with AI-Based Software Solutions",
+     "highlight": "AI-Based Software Solutions"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "AI for Business Transformation",
+      "text": [
+       "We specialize in AI-driven solutions that elevate business operations by automating complex processes, enhancing data analysis, and supporting intelligent decision-making systems. Our development services help businesses achieve optimization and growth, ensuring a transformative impact across all levels of the organization."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Industry-Specific AI Solutions",
+      "text": [
+       "Our tailored AI solutions address industry-specific challenges, providing actionable results that enhance business outcomes. We implement AI applications across diverse sectors such as healthcare, finance, retail, and more. These solutions are designed to streamline operations, optimize decision-making, and improve customer satisfaction"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI-Powered Customer Engagement",
+      "text": [
+       "We enhance customer engagement with intelligent AI-driven chatbots and business assistants, designed to automate customer service and provide personalized user interactions. By leveraging natural language processing, our solutions ensure smooth integration with existing platforms while increasing satisfaction and improving the overall customer experience"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI Product Development",
+      "text": [
+       "We guide the entire lifecycle of AI product development, from ideation to launch, ensuring that visionary ideas are brought to life. Our iterative design approach helps refine products for peak performance, while our go-to-market strategies and post-launch support ensure the product meets market needs and drives success."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI Security Solutions",
+      "text": [
+       "Our AI-powered security solutions help safeguard digital assets through proactive threat detection, real-time monitoring, and compliance with global cybersecurity standards. We focus on delivering robust protection to prevent breaches and ensure a secure environment for your business operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI-as-a-Service",
+      "text": [
+       "With our AI-as-a-Service offerings, businesses can seamlessly integrate advanced AI solutions without the need for extensive internal infrastructure. Our flexible, reliable, and cost-effective services cater to a wide range of needs, providing businesses with the tools they need to innovate and grow."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "AI-Driven Automation",
+      "text": [
+       "Our AI-driven business process automation solutions enhance productivity, reduce errors, and integrate smoothly with existing workflows. These automation systems enable continuous learning and process improvement, ensuring businesses operate at maximum efficiency while minimizing disruptions."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom AI Models",
+      "text": [
+       "We offer customized AI model development to address unique business challenges. Our tailored data-driven models are designed to meet specific objectives, with continuous training and refinement to optimize performance. These models integrate seamlessly with business intelligence tools for actionable insights and strategic advantage."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Generative AI Development",
+      "text": [
+       "We offer scalable and reliable generative AI development services, enabling businesses to create innovative solutions such as personalized content and user experiences. Our expertise helps drive creativity and innovation, supporting advancements in design, media, and other sectors through the power of generative AI."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "PoC and MVP with AI",
+      "text": [
+       "Our PoC and MVP development services simplify AI innovation by transforming concepts into live prototypes for market testing. We help businesses validate AI models and solutions, ensuring feasibility and securing stakeholder buy-in through structured testing and data-backed insights."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Lead Your Industry with AI Driven Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Unlock innovation and efficiency of your business with advanced AI technologies."
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Innovating Future with AI Development Solutions",
+     "highlight": "AI Development Solutions"
+    },
+    "intro": [
+     "We build AI-driven applications that evolve from core purpose to user engagement, leading the way in next-gen technology."
+    ],
+    "items": [
+     {
+      "q": "Advanced Data Analytics",
+      "a": [
+       "Our AI-powered data analytics solutions transform raw information into insightful patterns and trends. These actionable insights fuel business strategies, driving unprecedented efficiency and fostering creativity across all functions of your organization."
+      ]
+     },
+     {
+      "q": "Robotic Process Automation (RPA)",
+      "a": [
+       "Leveraging AI, our custom RPA services streamline essential tasks, enabling human talent to focus on high-level strategic initiatives. By blending technology with creativity, we enhance operational processes and foster business growth."
+      ]
+     },
+     {
+      "q": "Natural Language Processing",
+      "a": [
+       "With NLP, our AI technologies grasp and interpret human language in its most authentic form, offering innovative customer interactions and advanced search capabilities that enhance user experiences and engagement."
+      ]
+     },
+     {
+      "q": "Intelligent Document Recognition",
+      "a": [
+       "Our AI-powered document recognition systems revolutionize data extraction, offering rapid, accurate information processing to optimize organizational workflows and improve decision-making efficiency."
+      ]
+     },
+     {
+      "q": "AIoT Solutions",
+      "a": [
+       "By merging AI with IoT, we create intelligent ecosystems that not only gather data but also process it, enabling advanced analytics and driving smarter decision-making across all business domains."
+      ]
+     },
+     {
+      "q": "Machine Learning Frameworks",
+      "a": [
+       "Our AI engineers specialize in building dynamic machine learning frameworks that adapt to new data inputs, ensuring that your software remains up-to-date with the latest AI innovations and breakthroughs."
+      ]
+     },
+     {
+      "q": "Cognitive Computing Solutions",
+      "a": [
+       "We create systems that simulate human thought, using algorithms for reasoning, context-aware processing, and adaptive learning. Our solutions predict user behavior and provide intuitive interface designs, revolutionizing problem-solving capabilities."
+      ]
+     },
+     {
+      "q": "Custom AI Development",
+      "a": [
+       "Our AI solutions are tailored to your business, utilizing advanced algorithms and data analysis. We design custom AI, identify patterns, and integrate with existing systems. Scalable architectures and continuous learning improve performance over time."
+      ]
+     },
+     {
+      "q": "Generative AI Applications",
+      "a": [
+       "We leverage generative AI to create innovative content, UI designs, and data-driven solutions. Our tools for content generation, design simulation, data augmentation, and intellectual property generation empower creativity and drive new possibilities."
+      ]
+     },
+     {
+      "q": "Operational Management Solutions",
+      "a": [
+       "AI-driven automation optimizes operational functions, reducing resource consumption while enhancing efficiency. We offer intelligent process automation, task prioritization, autonomous control systems, and error reduction for smoother, more effective operations."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for AI Software Development?",
+     "highlight": "AI Software Development?"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "AI Apartment Rental Marketplace",
+      "href": "/portfolio/ai-apartment-rental-marketplace",
+      "image": "/images/wp/2025-02-ai-rental-main.jpg",
+      "tags": [
+       "Artificial Intelligence",
+       "AI Chatbot",
+       "Mobile App",
+       "React Native"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/logistics-distribution": {
+  "title": "Logistics",
+  "description": "Optimize Logistics and Distribution with customer-centric solutions",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Logistics & Distribution Solutions",
+    "text": [
+     "We offer logistics software development tailored to meet your business needs, redefining workflows from transportation to logistics with innovative, future-ready solutions."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-logistics-1.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Custom Software Development for the Logistics Industry",
+     "highlight": "Logistics Industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Warehouse Logistics Software",
+      "text": [
+       "Streamline workflows with advanced warehouse management solutions. Track inventory, update information in real-time, optimize space usage, and ensure transparency for effective operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Sales and After-Sales Mobility Solutions",
+      "text": [
+       "Improve your customer experience with smooth and hassle-free sales and after-sales support solutions. Enjoy real-time updates, robust service management, and improved customer satisfaction for smooth operations from purchase to support."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Advanced Shipping Solutions",
+      "text": [
+       "Create custom logistics software to optimize Less-than-Container Load (LCL) deliveries. Scale your shipping operations while reducing costs with advanced shipping management tools."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Fleet Management Solutions",
+      "text": [
+       "Create advanced fleet planning and management solutions with real-time tracking capabilities. Optimize resources, enhance carrier performance, and enable timely last-mile deliveries for a competitive edge"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Telematics Software Development",
+      "text": [
+       "Leverage cutting-edge technologies for precise asset tracking and management. Detect inventory, monitor transit, prevent theft, and receive timely notifications to ensure smooth operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Supply Chain Management",
+      "text": [
+       "Implement next-gen supply chain solutions to identify inefficiencies, deploy optimization strategies, and eliminate bottlenecks for seamless operations and higher productivity."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Freight Audit and Logistics Management",
+      "text": [
+       "Maximize operational efficiency with real-time freight-tracking, management, and payment solutions. Enhance delivery accuracy, strengthen brand loyalty, and boost customer satisfaction with intelligent logistic features."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Asset Tracking Software Development",
+      "text": [
+       "Harness the power of cutting-edge technology to streamline asset tracking and management. Our tailor-made solutions help you monitor inventory, track transit, and prevent theft. Get real-time updates and notifications to stay informed about your assets’ movements."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Lead the Way with Next-Generation Supply Chain Software.",
+     "highlight": ""
+    },
+    "text": [
+     "Embrace advanced trends and smart solutions to optimize your logistics effortlessly"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Now",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Pioneering the Future of Logistics with Advanced Software Solutions",
+     "highlight": "Advanced Software Solutions"
+    },
+    "intro": [
+     "We provide cutting-edge logistics software development services that streamline transportation management and supply chain operations for greater efficiency."
+    ],
+    "items": [
+     {
+      "q": "Warehouse & Transportation Management",
+      "a": [
+       "Our warehouse logistics software streamlines your workflow by offering essential features to track inventory and update information in real-time. We design solutions that improve management, ensure transparency, and optimize warehouse space."
+      ]
+     },
+     {
+      "q": "Inventory Optimization Software",
+      "a": [
+       "Our inventory software helps you streamline stock levels and cut down on waste, ensuring better efficiency in your operations. It forecasts demand, prevents overstock and stockouts, and customizes reordering based on real-time inventory, ensuring smooth and efficient operations."
+      ]
+     },
+     {
+      "q": "Custom Supply Chain Management Systems",
+      "a": [
+       "We create advanced supply chain management solutions to monitor and enhance the efficiency of your entire supply chain. Our products identify inefficiencies, deploy improvements, manage operations better, and eliminate bottlenecks to keep your process smooth."
+      ]
+     },
+     {
+      "q": "Traffic Management Software Solutions",
+      "a": [
+       "Our advanced parking management solutions simplify operations with IoT integration. Effortlessly check parking availability, assign spots quickly, and optimize resources to save time and enhance efficiency in managing parking spaces."
+      ]
+     },
+     {
+      "q": "Fleet Management Systems",
+      "a": [
+       "Our advanced parking management solutions simplify operations with IoT integration. Effortlessly check parking availability, assign spots quickly, and optimize resources to save time and enhance efficiency in managing parking spaces."
+      ]
+     },
+     {
+      "q": "Route Optimization Software for Logistics",
+      "a": [
+       "Our AI-powered logistics solutions optimize routes for better efficiency, helping save fuel and time. With predictive capabilities, we analyze potential issues and avoid obstacles, ensuring streamlined deliveries and real-time location tracking."
+      ]
+     },
+     {
+      "q": "AI-Powered Chatbots for Logistics",
+      "a": [
+       "Boost customer satisfaction with our AI-powered chatbots offering instant support for logistics, automated tracking updates, and 24/7 assistance for booking and shipping. Seamlessly integrates with your CRM and ERP for dependable service."
+      ]
+     },
+     {
+      "q": "Medical Supplies and Equipment Logistics",
+      "a": [
+       "Ensure timely, safe delivery of medical supplies with logistics software designed for Medicare needs. Manage sensitive inventory, track compliance for medical items, and provide advanced traceability for full supply chain transparency."
+      ]
+     },
+     {
+      "q": "Automated Logistics Solutions",
+      "a": [
+       "Enhance logistics efficiency with our AI-powered solutions, reducing manual tasks and boosting productivity. Automate order processing, use ML for equipment maintenance predictions, and secure warehouse operations with Robotic Process Automation (RPA)."
+      ]
+     },
+     {
+      "q": "Order Management Systems",
+      "a": [
+       "Master order and stock fulfillment with our complete order management solutions, streamlining logistics from purchase to delivery. Track orders in real-time, integrate with supply chain for stock visibility, and automate order processing for faster, accurate delivery."
+      ]
+     },
+     {
+      "q": "Freight Forwarding Software Solutions",
+      "a": [
+       "Our logistics software simplifies global shipping with freight forwarding solutions for agility and compliance. It supports multi-modal transport, optimizes costs with consolidation, and ensures customs and regulatory compliance for smooth operations."
+      ]
+     },
+     {
+      "q": "Custom Integrations with Accounting Systems",
+      "a": [
+       "Streamline logistics and finance with our custom accounting integrations. Get real-time reports on logistics costs and revenues, automate invoicing and payments, and integrate with procurement and sales for complete visibility across operations."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Logistics Business",
+     "highlight": "Logistics Business"
+    },
+    "intro": [
+     "Streamline your logistics and transportation processes with advanced IT solutions tailored to manage records efficiently, boost productivity, and align with industry standards"
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/travel-hospitality": {
+  "title": "Travel & Hospitality",
+  "description": "Create seamless travel experiences with advanced, user-friendly solutions.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Travel & Hospitality Development Solutions",
+    "text": [
+     "Boost profitability with custom travel app solutions. Expand business reach effectively with feature-rich, user-friendly apps. Partner with Pelicans for top-notch travel app development."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-travel.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Transforming Travel Industry with Digital Services",
+     "highlight": "Travel Industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Travel App Development",
+      "text": [
+       "Custom travel app development solutions that enhance the entire travel experience, from trip planning to navigation. We provide a comprehensive toolkit to ensure memorable and smooth journeys."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Travel Planning Solutions",
+      "text": [
+       "Our offerings feature itinerary planning, resource integration, and seamless expense management. With features like trip customization and destination discovery, we empower travelers to independently design their ideal travel experiences."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Travel Management Solutions",
+      "text": [
+       "We provide complete travel management services, including corporate travel expense tracking, real-time flight tracking, booking approvals, and duty-of-care features. Our solutions improve efficiency while ensuring the well-being of travelers through live updates on accommodations and attractions"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Online Booking Systems",
+      "text": [
+       "We create flexible, centralized booking systems for hotels, tours, transportation, and activities. Our solutions streamline the booking process and offer live support across platforms like mobile apps, websites, and social media. We also integrate secure PCI-compliant payment gateways for safe transactions."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Virtual Tour & AR Apps",
+      "text": [
+       "We design engaging virtual tours and AR-based apps, enabling travelers to explore attractions and destinations before their journey. These tools allow users to explore locations remotely, plan better, and make informed decisions about their itineraries."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Language Translation Apps",
+      "text": [
+       "Our language translation solutions break communication barriers with features like real-time voice, text, and image translations. Advanced AI enables offline translations, offering support for a wide range of languages and dialects to enhance global travel."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Shape the Future of Travel & Hospitality Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Utilize Innovative latest trends and smart technologies to enhance travel experiences"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Now",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Discover Our Cutting-Edge Travel Solutions",
+     "highlight": "Travel Solutions"
+    },
+    "intro": [
+     "We specialize in creating advanced travel applications to help tourism companies deliver exceptional experiences to their users. Discover our premier travel app development solutions:"
+    ],
+    "items": [
+     {
+      "q": "Travel Mobile App Development",
+      "a": [
+       "Enhance travel experiences effortlessly with our custom travel app solutions, tailored to diverse preferences. We offer advanced filters, intuitive interfaces, AI chatbot assistance, seamless integration, and flexible infrastructure to simplify planning and navigation."
+      ]
+     },
+     {
+      "q": "Travel Web Portals",
+      "a": [
+       "We specialize in developing comprehensive travel portals, offering seamless global travel solutions. From intuitive searches to secure bookings, our precision-designed software ensures an integrated experience, making you a top choice in the travel industry."
+      ]
+     },
+     {
+      "q": "Tourism Software Solutions",
+      "a": [
+       "Boost your travel business with our Tourism Software Solutions, designed to streamline operations and enhance customer experiences. From seamless bookings and itinerary planning to real-time updates and analytics, we deliver tailored solutions."
+      ]
+     },
+     {
+      "q": "CRM & ERP for Tourism Enterprises",
+      "a": [
+       "Enhance efficiency and customer engagement with our CRM & ERP solutions for tourism enterprises. Streamline bookings, manage resources, track customer interactions, and gain real-time insights to optimize operations and deliver exceptional experiences."
+      ]
+     },
+     {
+      "q": "Hotel & Home Rental Apps (like Airbnb)",
+      "a": [
+       "Transform hospitality with our Hotel & Home Rental Apps, designed for seamless booking experiences. Enable property listings, user reviews, secure payments, and real-time availability updates. Perfect for connecting hosts and travelers effortlessly."
+      ]
+     },
+     {
+      "q": "Community Portals for Travelers",
+      "a": [
+       "Create vibrant travel communities with our Community Portals for Travelers. Enable users to share experiences, tips, and itineraries, interact in forums, and engage in discussions. Build connections and enhance travel experiences for all."
+      ]
+     },
+     {
+      "q": "Vehicle Rental Solutions",
+      "a": [
+       "Simplify vehicle rental management with our innovative solutions. From online bookings and fleet tracking to billing and maintenance schedules, our system ensures seamless operations, enhanced customer experience, and optimized resource utilization."
+      ]
+     },
+     {
+      "q": "Tour Operator Software",
+      "a": [
+       "Streamline your operations by managing bookings, itineraries, customer communication, and payments in a single platform. Enhance efficiency and provide seamless experiences for your clients, boosting satisfaction and growth."
+      ]
+     },
+     {
+      "q": "Travel Guide Management Systems",
+      "a": [
+       "Our Travel Guide Management System simplifies the creation and management of personalized travel guides. Offer curated recommendations, itineraries, and real-time updates to enhance your customers’ travel experiences while streamlining content management."
+      ]
+     },
+     {
+      "q": "Travel Video Blogging Apps",
+      "a": [
+       "Our Travel Video Blogging App lets users capture, edit, and share their travel experiences seamlessly. With easy video uploads, interactive features, and social media integration, it empowers travelers to create and share memorable journeys with the world."
+      ]
+     },
+     {
+      "q": "Trip Plan Comparison Apps",
+      "a": [
+       "Our Trip Plan Comparison App helps travelers effortlessly compare various trip options, including destinations, accommodations, and activities. With real-time updates and detailed filters, it ensures informed decisions for a seamless travel experience."
+      ]
+     },
+     {
+      "q": "Traveler Community Platforms",
+      "a": [
+       "Our Traveler Community Platform connects like-minded explorers, fostering a space for sharing experiences, tips, and travel recommendations. With features like forums, events, and personalized recommendations, it enhances the travel journey through collaboration."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Travel Business?",
+     "highlight": "Travel Business?"
+    },
+    "intro": [
+     "Pelicans excels in creating innovative, user-centric travel apps designed specifically for the industry. Using cutting-edge technology, we deliver feature-rich solutions to enhance user engagement and drive business growth."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informe"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/food-restaurant": {
+  "title": "Food & Restaurant",
+  "description": "Innovative solutions to help food and restaurant businesses grow and thrive.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Food & Restaurant Development Solutions",
+    "text": [
+     "Combining culinary creativity with tech expertise, we deliver innovative software for the food and beverage industry. Streamline kitchen to dining operations with tailored solutions for unmatched efficiency."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-food-restaurant-2.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Custom Software Development for Food & Restuartant Industry",
+     "highlight": "Food & Restuartant Industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Food Service Software Development",
+      "text": [
+       "Revolutionize culinary management with tailored software solutions designed for the food industry. From streamlining operations to enhancing creativity and dining experiences, our innovative systems deliver functionality and efficiency."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Food Ordering System",
+      "text": [
+       "Reimagine ordering with sophisticated Food Ordering Systems that deliver enticing digital menus and efficient backend operations, ensuring a smooth journey from selection to satisfaction."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Food and Restaurant Software Development",
+      "text": [
+       "Enhance your food business with advanced software that optimizes ingredient procurement, refines recipe management, and elevates hospitality, driving culinary excellence at every step."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Restaurant Software Development",
+      "text": [
+       "Streamline restaurant operations with our sophisticated software solutions, ensuring precision from kitchen dispatch to customer satisfaction, all crafted to optimize the dining experience"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Restaurant CRM Solutions",
+      "text": [
+       "Build lasting customer relationships with Restaurant CRM solutions that analyze preferences, anticipate needs, and deliver personalized experiences to turn occasional diners into loyal patrons"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Food App Development",
+      "text": [
+       "Transform dining with cutting-edge Food App Development services. Create seamless connections between your cuisine and customers, offering convenience and excellence with every tap"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Shape the Future of Food & Restaurant Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Embrace cutting-edge trends and innovative technologies to improve dining and restaurant experiences."
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Revolutionizing Food & Restaurant Industry with Cutting-Edge Solutions",
+     "highlight": "Cutting-Edge Solutions"
+    },
+    "intro": [
+     "From food safety systems to restaurant management platforms we offer specialized software solutions that blend culinary expertise with technology, shaping the future of the food and beverage industry."
+    ],
+    "items": [
+     {
+      "q": "Point of Sale (POS) Systems",
+      "a": [
+       "Revolutionize your retail operations with our advanced Point of Sale Systems, designed for secure transactions and enhanced customer service. Enjoy smooth checkout, real-time inventory tracking, and data-driven insights to optimize business strategies."
+      ]
+     },
+     {
+      "q": "Online Ordering & Delivery Platforms",
+      "a": [
+       "Expand your restaurant’s reach with our online ordering and delivery software, ensuring smooth order management and timely deliveries. Boost customer retention with personalized offers and quality service from start to finish."
+      ]
+     },
+     {
+      "q": "Reservation & Table Management Systems",
+      "a": [
+       "Enhance your guest experience with our Reservation and Table Management Systems, optimizing seating and satisfaction. Manage bookings, waitlists, and table assignments with ease, while sending real-time updates and automated confirmations."
+      ]
+     },
+     {
+      "q": "Inventory Management Software",
+      "a": [
+       "Efficiently manage your food inventory with our tailored software for the food & beverage industry. Track stock levels, reduce waste, and receive automated alerts to avoid shortages while simplifying supplier ordering and restocking."
+      ]
+     },
+     {
+      "q": "Employee Scheduling & Management Software",
+      "a": [
+       "Streamline workforce management with our employee time tracking software. Easily schedule shifts, track work hours, integrate payroll for accurate pay, and offer employees a self-service portal for managing availability and shifts."
+      ]
+     },
+     {
+      "q": "Menu Management & Engineering Software",
+      "a": [
+       "Optimize your menu with our Menu Management Software. Easily create, adjust, and price menus based on ingredient costs and sales data. Get insights on popular dishes and update menus in real time for promotions and customer preferences."
+      ]
+     },
+     {
+      "q": "Food Safety & Compliance Software",
+      "a": [
+       "Ensure top food safety and compliance with our software. Automate health inspection audits, monitor temperatures, and track storage. Provide staff with training on hygiene and safety to protect your brand and visitors."
+      ]
+     },
+     {
+      "q": "Kitchen Maintenance & Management",
+      "a": [
+       "Ensure smooth kitchen operations with our Kitchen Maintenance and Management Software. Schedule equipment maintenance, optimize staff workflows, and use analytics for continuous improvements, boosting efficiency and culinary quality."
+      ]
+     },
+     {
+      "q": "Food & Beverage Inventory Integration",
+      "a": [
+       "Combine technology with inventory management using our Food & Beverage Inventory Software. Track stock in real-time with barcode scanning, reduce waste for better profitability, and sync with purchasing for an efficient supply chain."
+      ]
+     },
+     {
+      "q": "Restaurant Menu Management Software",
+      "a": [
+       "Enhance your menu with our Restaurant Menu Management Software. Plan seasonal menus, analyze costs, and integrate customer feedback. Keep menus updated in real-time with digital display syncing for a dynamic dining experience."
+      ]
+     },
+     {
+      "q": "Automated Inventory Control with AI",
+      "a": [
+       "Transform inventory management with our AI-driven system. Forecast demand, optimize stock, and adjust in real-time. Integrates with POS for accurate inventory updates and provides analytics for predictive ordering and reducing spoilage."
+      ]
+     },
+     {
+      "q": "Restaurant App Development",
+      "a": [
+       "Boost your restaurant’s reach with our custom app. Streamline reservations, offer loyalty programs for repeat customers, and enable mobile ordering for convenience, driving sales and enhancing the overall dining experience."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Food & Restaurant Business?",
+     "highlight": "Food & Restaurant Business?"
+    },
+    "intro": [
+     "Empower your business with tailored solutions that blend technology and culinary excellence, creating the perfect recipe for success."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/real-estate": {
+  "title": "Real Estate",
+  "description": "Transforming real estate with CMS, ERP, and CRM solutions for better comms.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Real Estate Development Solutions",
+    "text": [
+     "We leverage technology to reveal hidden revenue opportunities, showcasing properties and connecting with buyers. We provide comprehensive real estate software solutions, delivering exceptional services to meet all your needs."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-real-estate-3.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering Smarter Software Services for Real-Estate industry",
+     "highlight": "Real-Estate industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Real Estate Web Development",
+      "text": [
+       "Enhance your online presence with Pelicans expert real estate web development services. We create high-performance websites that showcase properties, improve agent-client interactions, and streamline property searches, all while ensuring an engaging user experience."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Real Estate App Development",
+      "text": [
+       "We develop the apps that provides real-time property updates, notifications, and virtual tours, offering convenience for both buyers and agents."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Property Management Software Development",
+      "text": [
+       "We build cloud-based property management systems that offer accurate leasing details, contact storage, and streamlined property information, helping landlords and tenants manage their properties efficiently."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Real Estate Vendor Management",
+      "text": [
+       "Our vendor management solutions handle everything from vendor databases to orders and rates. We provide centralized systems that help you manage vendor relationships and mitigate risks while scaling operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Construction Management Software",
+      "text": [
+       "Our software connects real estate operations with real-time updates, improving task management, inspections, communications, and team coordination, all in one platform for seamless on-site collaboration."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Property Listing Marketplace",
+      "text": [
+       "We develop solutions for managing property listings, whether residential or commercial, and streamline the buying, selling, and renting processes with efficient filtering and project management"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Property Booking Management",
+      "text": [
+       "Simplify property booking management with our advanced solutions. We utilize cutting-edge technologies to ease the process and ensure smooth, efficient booking operations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Real Estate Software Modernization",
+      "text": [
+       "Stay ahead with our software modernization services. We update your existing systems with the latest tech, features, and security standards, making your real estate operations more efficient and secure."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "CRM for Real Estate Agents",
+      "text": [
+       "Enhance your customer service with our CRM solutions tailored for real estate agents. Track client preferences, manage leads, and deliver personalized property recommendations for greater satisfaction."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Real Estate Auction Software",
+      "text": [
+       "Streamline your real estate auctions with our custom software, allowing for easy property listing, bidding, and fast sales to the highest bidder, all within seconds."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Transform Real Estate Operations with Tech Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Utilize advanced technologies to simplify real estate workflows and boost efficiency"
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming Real Estate Industry with Innovative Software Solutions",
+     "highlight": "Innovative Software Solutions"
+    },
+    "intro": [
+     "Each real estate business has its own specific needs, and we’re here to meet them all with our deep industry experience. Together, we’ll achieve impactful results, enhancing both our expertise and your reputation."
+    ],
+    "items": [
+     {
+      "q": "Property Management Software Development",
+      "a": [
+       "We design cloud-based property management systems that provide accurate leasing and property details. Our secure software manages contact info and lease agreements, streamlining operations for landlords and tenants while boosting efficiency."
+      ]
+     },
+     {
+      "q": "Real Estate CRM Development",
+      "a": [
+       "Enhance client connections and simplify sales with our Real Estate CRM solutions. Manage data, track sales, gain insights, automate campaigns, and analyze funnels to boost conversions and deliver tailored experiences."
+      ]
+     },
+     {
+      "q": "Real Estate Investment Software Solutions",
+      "a": [
+       "Maximize your investment opportunities with our real estate investment software, crafted for investors and financial analysts. It offers advanced tools for market analysis, portfolio management, risk assessment, trend prediction, and capital flow tracking."
+      ]
+     },
+     {
+      "q": "Lease Management Software Development",
+      "a": [
+       "Elevate your leasing operations with our custom lease management software, tailored to meet the needs of landlords, property managers, and real estate agents. It simplifies lease tracking, automates rent adjustments, and creates digital agreements."
+      ]
+     },
+     {
+      "q": "Integrated Workplace Management Solutions",
+      "a": [
+       "Streamline your operations with our Integrated Workplace Management System (IWMS). Monitor all workplace activities through a centralized dashboard, providing real-time insights to optimize and manage every aspect efficiently."
+      ]
+     },
+     {
+      "q": "HOA Management Software",
+      "a": [
+       "Revolutionize HOA operations with our tailored HOA management software. Simplify dues collection, automate maintenance requests, enable electronic voting, offer online payment portals, and share updates via digital community boards."
+      ]
+     },
+     {
+      "q": "Asset & Inventory Management Solutions",
+      "a": [
+       "Manage your assets and inventory effortlessly with our custom inventory management software. Designed to fit your operations, our solutions simplify processes, enhance efficiency, and help you achieve your business goals."
+      ]
+     },
+     {
+      "q": "Real Estate ERP Development",
+      "a": [
+       "Our real estate ERP solutions integrate collections, property management, sales, billing, and asset tracking on a cloud platform, providing clear insights into your project’s progress and boosting operational efficiency."
+      ]
+     },
+     {
+      "q": "Enterprise Real Estate Software Solutions",
+      "a": [
+       "Pelicans creates enterprise-level real estate software for large realtors and developers. Our solutions offer data integration, workflow automation, and compliance management to support growth and streamline operations."
+      ]
+     },
+     {
+      "q": "Real Estate MLS Software Development",
+      "a": [
+       "Elevate your real estate business with unique MLS Software. Our platform provides real-time property data, advanced search options, collaboration tools for agents, and syndication for wider property reach."
+      ]
+     },
+     {
+      "q": "Vendor Management Solutions",
+      "a": [
+       "Our vendor management system streamlines operations by handling vendors, risks, contacts, rates, procedures, and orders. We provide scalable solutions to manage all aspects of your vendor relationships efficiently."
+      ]
+     },
+     {
+      "q": "Real Estate Valuation Engine Development",
+      "a": [
+       "Simplify real estate property valuation with our automated engine. It provides accurate property value assessments through thorough evaluation, helping you determine the right value quickly and easily."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Real Estate Business?",
+     "highlight": "Real Estate Business?"
+    },
+    "intro": [
+     "We offer complete real estate app development services, focusing on user-centric design to enhance experience, engagement, and retention."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality"
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ },
+ "/oil-gas": {
+  "title": "Oil & Gas",
+  "description": "Custom on-demand applications designed for seamless user experiences.",
+  "blocks": [
+   {
+    "type": "hero",
+    "title": "Oil & Gas Development Solutions",
+    "text": [
+     "Optimize upstream, midstream, and downstream operations with leading oil and gas software solutions. Improve business efficiency and manage your workforce effectively with our innovative tools."
+    ],
+    "buttons": [
+     {
+      "label": "Let’s Connect",
+      "href": "/contact"
+     }
+    ],
+    "image": "/images/wp/2024-12-oil-gas.jpg",
+    "stats": [],
+    "form": false,
+    "logos": true
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Delivering Smarter Tech Solutions for Oil & Gas industry",
+     "highlight": "Oil & Gas industry"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Oil & Gas Software Development",
+      "text": [
+       "Enhance operational efficiency in healthcare with tailored software solutions that improve patient care, streamline workflows, and ensure compliance across various sectors."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Innovative Oil & Gas Solutions",
+      "text": [
+       "Boost your energy sector projects with advanced oil and gas data management software and bespoke solutions, designed to address the industry’s unique and complex demands."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Custom Software Development",
+      "text": [
+       "At Pelicans, we specialize in custom software development for the oil and gas industry, focusing on compliance, operational efficiency, and innovation to meet sector-specific needs."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Mobility Solutions",
+      "text": [
+       "With extensive experience in mobile app development, we deliver native, hybrid, or cross-platform solutions that empower your oil and gas business with the most effective mobility tools."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Smart Helmet Solutions",
+      "text": [
+       "Improve safety and productivity across your workforce with our IoT-driven smart helmet solutions, designed specifically for the oil and gas industry."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Oil and Gas Fleet Management",
+      "text": [
+       "Track and manage your fleet efficiently from mines to refineries with our GPS-powered fleet management application, ensuring seamless operations across all stages"
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Oil and Gas Consulting Services",
+      "text": [
+       "As a leading service provider, we help clients navigate technical changes and improve productivity and workforce management with our expertise and global approach."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Big Data Analytics",
+      "text": [
+       "Empower your oil and gas business with real-time visibility and predictive analytics to manage networks, digital oilfields, and infrastructure assets effectively."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Cloud Managed Services",
+      "text": [
+       "Our managed IT services for oil and gas enterprises provide secure data protection, recovery, and backup, ensuring smooth and efficient file sharing across stakeholders."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "ERP/CRM Solutions",
+      "text": [
+       "Optimize your operations with our ERP and CRM solutions, designed to improve inventory management, demand forecasting, and supply chain processes in the oil and gas sector."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Internet of Things (IoT)",
+      "text": [
+       "Leverage the power of IoT to enhance productivity and operational efficiency, utilizing our expert services to connect and streamline your business processes."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Enterprise Mobility Solutions",
+      "text": [
+       "Manage and connect your entire workforce with our enterprise mobile app, allowing you to track tasks, locations, and productivity in real-time from one platform."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "mid-page-cta",
+    "heading": {
+     "text": "Transform Oil & Gas Industry with Tech Solutions",
+     "highlight": ""
+    },
+    "text": [
+     "Utilize advanced technologies to optimize operations and boost overall efficiency."
+    ],
+    "buttons": [
+     {
+      "label": "Get Started Today",
+      "href": "/contact"
+     }
+    ],
+    "image": null,
+    "links": []
+   },
+   {
+    "type": "faq",
+    "heading": {
+     "text": "Transforming Oil & Gas Operations with Innovative Software Solutions",
+     "highlight": "Innovative Software Solutions"
+    },
+    "intro": [
+     "We deliver comprehensive, tailor-made IT solutions to streamline production, distribution, and trading in the oil and gas industry."
+    ],
+    "items": [
+     {
+      "q": "Asset Management Applications",
+      "a": [
+       "Enhance asset management in oil and gas with our custom apps, offering real-time tracking and performance monitoring. Integrate with ERP and CMMS systems for streamlined workflows and optimized operations tailored to your needs."
+      ]
+     },
+     {
+      "q": "Field Service Management Software",
+      "a": [
+       "Boost efficiency in oil and gas with our field service management software, offering on-site data solutions and customizable interfaces. Leverage advanced analytics from field data to optimize production and operations in complex environments."
+      ]
+     },
+     {
+      "q": "Oil and Gas Analytics Solutions",
+      "a": [
+       "Unlock strategic insights with our oil and gas analytics software, using predictive analytics and real-time data. Tailored solutions enhance extraction, distribution, and decision-making to optimize operations in the oil and gas industry."
+      ]
+     },
+     {
+      "q": "Field Data Collection Apps",
+      "a": [
+       "Streamline field operations with our Field Data Collection Apps, designed for oil and gas. Collect and submit data remotely, integrate with GIS for enhanced analysis, and support offline use for timely decision-making in exploration and production."
+      ]
+     },
+     {
+      "q": "Refinery Scheduling Software",
+      "a": [
+       "Optimize refinery operations with our scheduling software, boosting productivity with advanced algorithms. It integrates seamlessly with refinery systems and offers custom solutions to meet the complex scheduling needs of the oil and gas industry."
+      ]
+     },
+     {
+      "q": "Production Monitoring and Optimization Solutions",
+      "a": [
+       "Improve reservoir management with our customized modeling and monitoring software. Monitor production, equipment performance, and efficiency in real time for better control and decision-making. Use predictive analytics for proactive maintenance and tailored solutions to maintain peak performance."
+      ]
+     },
+     {
+      "q": "Health, Safety, and Environment Applications",
+      "a": [
+       "Enhance safety with our HSE apps, built for oil and gas. Track incidents, ensure regulatory compliance, and maintain industry standards. Tailored solutions for protecting staff and the environment while supporting a culture of safety."
+      ]
+     },
+     {
+      "q": "Reservoir Monitoring and Management",
+      "a": [
+       "Enhance reservoir management with our tailored modeling and monitoring software for improved performance and control. Real-time tracking, advanced tools, and data analytics help boost efficiency and ensure best practices in oil and gas operations."
+      ]
+     },
+     {
+      "q": "Geospatial Mapping and GIS Solutions",
+      "a": [
+       "Boost exploration and planning with our GIS and mapping apps, designed for the oil and gas industry. Integrate drilling data, perform detailed site assessments, and optimize field development using precise spatial analysis tools."
+      ]
+     },
+     {
+      "q": "Drilling and Well Management Apps",
+      "a": [
+       "Enhance drilling operations with our Well Management Apps, offering real-time monitoring for safety and efficiency. Integrate reservoir and production data for full well oversight. Tailored solutions to handle complex oil and gas drilling tasks."
+      ]
+     },
+     {
+      "q": "Oil and Gas Asset Management Solutions",
+      "a": [
+       "Maximize asset performance with our oil and gas-specific asset management software. Manage asset lifecycles, optimize performance, and utilize data-driven analytics for improved efficiency and adherence to industry standards."
+      ]
+     },
+     {
+      "q": "Pipeline Management Software",
+      "a": [
+       "Safeguard and optimize pipeline operations with our advanced management software. It includes leak detection, throughput monitoring, and integration with existing systems, ensuring compliance, safety, and adherence to industry standards."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "box-grid",
+    "variant": "box-two-grid-content",
+    "heading": {
+     "text": "Why Choose Pelicans for your Oil & Gas Business ?",
+     "highlight": "Oil & Gas Business ?"
+    },
+    "intro": [
+     "Enhance your energy sector projects with premium oil and gas data management software and customized solutions, expertly crafted to meet the industry’s complex needs."
+    ],
+    "items": [
+     {
+      "title": "Expertise Across Domains",
+      "text": [
+       "Our in-depth knowledge of diverse technologies allows us to deliver efficient, cutting-edge solutions at cost-effective rates. Ongoing R&D ensures our clients always receive the latest innovations."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Uncompromising Quality",
+      "text": [
+       "Our quality assurance team is committed to delivering top-notch solutions that meet the highest standards. Clients receive thoroughly tested, secure, and reliable deliverables."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Agile Team Efforts",
+      "text": [
+       "Our skilled developers and designers collaborate to build tailored solutions. The agile approach ensures flexibility to meet client needs and achieve exceptional results."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Client-Centric Focus",
+      "text": [
+       "We prioritize understanding and aligning with clients’ strategies, goals, and visions to deliver the right solutions at the right time."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Transparent Communication",
+      "text": [
+       "We maintain open and consistent communication, sharing all progress updates and critical details to keep clients fully informed."
+      ],
+      "image": null,
+      "href": ""
+     },
+     {
+      "title": "Competitive Pricing",
+      "text": [
+       "We provide top-notch digital solutions crafted by talented professionals at highly competitive prices without compromising quality."
+      ],
+      "image": null,
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "box-grid",
+    "variant": "four-boxes",
+    "heading": {
+     "text": "Who We Serve – Bespoke solutions for your business needs with endwise management & support",
+     "highlight": "Bespoke solutions for your business needs with endwise management & support"
+    },
+    "intro": [],
+    "items": [
+     {
+      "title": "Startup",
+      "text": [
+       "Helping rising businesses to create MVPs or envisioned products"
+      ],
+      "image": "/images/wp/2024-12-startup.svg",
+      "href": ""
+     },
+     {
+      "title": "Scaleup",
+      "text": [
+       "Curated services for scaling-up issues with business accord"
+      ],
+      "image": "/images/wp/2024-12-scaleup.svg",
+      "href": ""
+     },
+     {
+      "title": "Enterprise",
+      "text": [
+       "Expert-driven process enhancements for better outcomes."
+      ],
+      "image": "/images/wp/2024-12-enterprise.svg",
+      "href": ""
+     },
+     {
+      "title": "Agencies",
+      "text": [
+       "Quick dedicated resource & team allocation for faster progress"
+      ],
+      "image": "/images/wp/2024-12-agency.svg",
+      "href": ""
+     }
+    ],
+    "buttons": []
+   },
+   {
+    "type": "case-studies",
+    "heading": {
+     "text": "Check Out Our Latest Projects",
+     "highlight": "Latest Projects"
+    },
+    "intro": [
+     "Discover how our cutting-edge solutions and deep expertise turn business ideas into measurable success. At Pelicans, every partnership is a blend of creativity and strategic insights."
+    ],
+    "filters": [],
+    "items": [
+     {
+      "title": "Art Hotel – Hotel Booking Website",
+      "href": "/portfolio/art-hotel-hotel-booking-website",
+      "image": "/images/wp/2025-02-art.jpg",
+      "tags": [
+       "WordPress",
+       "PHP",
+       "JavaScript"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Nivose France – Online Store",
+      "href": "/portfolio/nivose-france-online-store",
+      "image": "/images/wp/2025-02-nivose.jpg",
+      "tags": [
+       "Shopify",
+       "PHP",
+       "Ecommerce"
+      ],
+      "category": ""
+     },
+     {
+      "title": "Slay Coffee – Online Store",
+      "href": "/portfolio/slay-coffee-online-store",
+      "image": "/images/wp/2025-02-slay-coffee.jpg",
+      "tags": [
+       "React",
+       "Next.js",
+       "Ecommerce"
+      ],
+      "category": ""
+     }
+    ]
+   },
+   {
+    "type": "industries-serve",
+    "heading": {
+     "text": "Transforming Industries with Smart Solutions",
+     "highlight": "Smart Solutions"
+    },
+    "intro": [
+     "We deliver cutting-edge solutions that drive innovation across 10+ industries, leveraging deep expertise to redefine excellence."
+    ]
+   },
+   {
+    "type": "blog-post",
+    "heading": {
+     "text": "Key Insights on Web Development",
+     "highlight": "Web Development"
+    }
+   }
+  ]
+ }
+}

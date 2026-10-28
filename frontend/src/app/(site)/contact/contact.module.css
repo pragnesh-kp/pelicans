@@ -1,0 +1,157 @@
+.section {
+  background: var(--bg-alt);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.formCard {
+  padding: 40px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+
+.formTitle {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 28px;
+}
+
+.info {
+  display: grid;
+  gap: 16px;
+}
+
+.infoBlock {
+  padding: 28px;
+  background: var(--ink);
+  color: #fff;
+  border-radius: var(--radius);
+}
+
+.infoTitle {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--primary-on-dark);
+  margin-bottom: 18px;
+}
+
+.infoLink {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+  padding: 6px 0;
+  word-break: break-word;
+}
+
+.infoLink:hover {
+  color: var(--primary-on-dark);
+}
+
+.infoIcon {
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(96 165 250 / 0.14);
+  color: var(--primary-on-dark);
+}
+
+.offices {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 16px;
+}
+
+.offices li {
+  display: flex;
+  gap: 12px;
+  color: var(--muted-on-dark);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.offices svg {
+  color: var(--primary-on-dark);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.flag {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+  margin-top: 1px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.offices strong {
+  display: block;
+  color: #fff;
+  font-weight: 500;
+}
+
+.social {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.social a {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid var(--border-dark);
+  border-radius: 999px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 14.5px;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.social a:hover {
+  border-color: var(--primary-on-dark);
+  color: var(--primary-on-dark);
+}
+
+@media (max-width: 960px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .formCard {
+    padding: 24px 18px;
+    border-radius: var(--radius);
+  }
+
+  .formTitle {
+    font-size: 24px;
+  }
+
+  .infoBlock {
+    padding: 22px 18px;
+  }
+}

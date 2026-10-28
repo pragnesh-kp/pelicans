@@ -1,0 +1,770 @@
+/* ==========================================================
+   Design tokens — layout and look modelled on metizsoft.com
+   (white pages, soft grid hero, Poppins + italic serif accent,
+   white bordered cards, deep-coloured solid buttons, dark
+   gradient stats band, deep footer). Colours are Pelicans
+   navy + blue (client wants white + blue): metizsoft's indigo
+   maps to --deep, its purple to --brand.
+   ========================================================== */
+:root {
+  /* Brand */
+  --deep: #0b2468; /* buttons, footer, highlighted words */
+  --deep-2: #12358f;
+  --brand: #1163fb; /* Pelicans blue */
+  --brand-dark: #0a4fd4;
+  --brand-light: #eef4ff; /* pills, icon tiles */
+  --brand-100: #dbe7ff;
+  --sky: #22b5f5; /* end of the gradient */
+  --gradient: linear-gradient(90deg, var(--deep) 0%, var(--brand) 58%, var(--sky) 100%);
+  --gradient-card: linear-gradient(135deg, #0b2468 0%, #0f3a9e 55%, #1163fb 100%);
+  --gradient-dark: linear-gradient(135deg, #0a1126 0%, #0d1f52 50%, #0b1736 100%);
+
+  /* Neutrals */
+  --ink: #1c1c1c;
+  --text: #1c1c1c;
+  --body: rgb(77 77 77 / 0.85);
+  --muted: #5d6170;
+  --muted-2: #7c8293;
+  --light: #f8f9fc; /* alternate sections */
+  --border: #e8eaf0;
+  --border-lt: #f0f1f5;
+  --border-strong: #d5d9e3;
+  --bg: #ffffff;
+  --bg-alt: #f8f9fc;
+  --contact-bg: #e7efff; /* the contact section above the footer */
+
+  /* Names the older components still use */
+  --primary: var(--brand);
+  --primary-hover: var(--brand-dark);
+  --primary-text: var(--brand);
+  --primary-on-dark: #8cb3fd;
+  --primary-50: var(--brand-light);
+  --primary-100: var(--brand-100);
+  --primary-gradient: var(--gradient-card);
+  --on-primary: #ffffff;
+  --accent: var(--brand);
+  --navy: #0a1636;
+  --grey: #ffffff;
+  --grey-2: var(--light);
+  --surface: #ffffff;
+  --surface-2: var(--light);
+  --muted-on-dark: #b8c2d9;
+  --tint-1: #eef4ff;
+  --tint-2: #e8f6ff;
+  --tint-3: #eefaf3;
+  --tint-4: #fff6ec;
+  --tint-5: #f3f0ff;
+
+  /* Type */
+  --font-heading: var(--font-poppins), "Poppins", system-ui, sans-serif;
+  --font-body: var(--font-poppins), "Poppins", system-ui, sans-serif;
+  --font-serif: var(--font-instrument), "Instrument Serif", Georgia, serif;
+
+  /* Layout */
+  --container: 1280px;
+  --gutter: 24px;
+  --radius: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+  --radius-pill: 999px;
+  --header-h: 76px;
+  --shadow-sm: 0 1px 2px rgb(11 36 104 / 0.04);
+  --shadow: 0 12px 40px rgb(11 36 104 / 0.08);
+  --shadow-lg: 0 24px 64px rgb(11 36 104 / 0.14);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --reveal-from: translate3d(0, 28px, 0);
+}
+
+/* Dark areas (stats band, CTA banners): white text */
+.theme-dark,
+.section--dark {
+  --text: #ffffff;
+  --body: rgb(255 255 255 / 0.78);
+  --muted: rgb(255 255 255 / 0.72);
+  --muted-2: rgb(255 255 255 / 0.6);
+  --border: rgb(255 255 255 / 0.14);
+  --border-strong: rgb(255 255 255 / 0.28);
+  --primary-text: #8cb3fd;
+  color: var(--text);
+}
+.section--dark {
+  background: var(--gradient-dark);
+}
+.section--blue {
+  --text: #ffffff;
+  --body: rgb(255 255 255 / 0.85);
+  --muted: rgb(255 255 255 / 0.85);
+  --border: rgb(255 255 255 / 0.3);
+  --primary-text: #ffffff;
+  background: var(--gradient-card);
+  color: #fff;
+}
+.section--light {
+  background: var(--bg);
+}
+
+/* Lenis smooth scrolling (components/motion/SmoothScroll) */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+html.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* ==========================================================
+   Base
+   ========================================================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+  -webkit-text-size-adjust: 100%;
+  background: #fff;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  overflow-x: clip;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.7;
+  letter-spacing: -0.005em;
+  color: var(--body);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0;
+  color: var(--text);
+  letter-spacing: -0.02em;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--brand);
+  color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ==========================================================
+   Layout helpers
+   ========================================================== */
+.container {
+  width: 100%;
+  max-width: calc(var(--container) + var(--gutter) * 2);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.section {
+  padding: 96px 0;
+}
+
+.section--alt {
+  background: var(--bg-alt);
+}
+
+/* Two white sections in a row share their spacing */
+.section:not(.section--alt):not(.section--dark):not(.section--blue) + .section:not(.section--alt):not(.section--dark):not(.section--blue) {
+  padding-top: 24px;
+}
+
+@media (min-width: 1536px) {
+  :root {
+    --container: 1360px;
+  }
+  .section {
+    padding: 112px 0;
+  }
+}
+
+@media (max-width: 1024px) {
+  .section {
+    padding: 72px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --header-h: 64px;
+    --gutter: 16px;
+    --radius: 18px;
+    --radius-md: 14px;
+  }
+  body {
+    font-size: 15px;
+  }
+  .section {
+    padding: 56px 0;
+  }
+}
+
+/* ==========================================================
+   Buttons — solid deep-blue rectangle (10px corners) with a
+   small ↗ after the label; `btn--outline` is the 2px-border
+   version. Markup: <a class="btn">Label <ArrowUpRight/></a>
+   ========================================================== */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 50px;
+  padding: 14px 30px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.2px;
+  color: #fff;
+  background: var(--deep);
+  border: 2px solid var(--deep);
+  border-radius: 10px;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s, transform 0.3s var(--ease-out), box-shadow 0.3s;
+}
+.btn > svg {
+  flex: none;
+  width: 15px;
+  height: 15px;
+  transition: transform 0.3s var(--ease-out);
+}
+.btn:hover {
+  background: var(--brand);
+  border-color: var(--brand);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgb(17 99 251 / 0.28);
+}
+.btn:hover > svg {
+  transform: translate(2px, -2px);
+}
+
+.btn--outline {
+  color: var(--deep);
+  background: transparent;
+}
+.btn--outline:hover {
+  color: #fff;
+  background: var(--deep);
+  border-color: var(--deep);
+  box-shadow: 0 10px 24px rgb(11 36 104 / 0.2);
+}
+
+.btn--solid {
+  background: var(--brand);
+  border-color: var(--brand);
+}
+.btn--solid:hover {
+  background: var(--deep);
+  border-color: var(--deep);
+}
+
+/* On dark or blue backgrounds: white button */
+.btn--accent,
+.btn--light,
+.btn--ghost-light,
+.theme-dark .btn,
+.section--dark .btn,
+.section--blue .btn {
+  color: var(--deep);
+  background: #fff;
+  border-color: #fff;
+}
+.btn--accent:hover,
+.btn--light:hover,
+.btn--ghost-light:hover,
+.theme-dark .btn:hover,
+.section--dark .btn:hover,
+.section--blue .btn:hover {
+  color: #fff;
+  background: transparent;
+  border-color: #fff;
+  box-shadow: none;
+}
+
+.btn--sm {
+  min-height: 42px;
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 8px;
+}
+.btn--block {
+  width: 100%;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+  transform: none;
+}
+
+@media (max-width: 768px) {
+  .btn {
+    min-height: 46px;
+    padding: 12px 22px;
+    font-size: 14px;
+  }
+}
+
+/* Text link with ↗ ("Explore", "Learn more") */
+.link-arrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--deep);
+  text-decoration: none;
+}
+.link-arrow svg {
+  width: 14px;
+  height: 14px;
+  transition: transform 0.3s var(--ease-out);
+}
+.link-arrow:hover {
+  color: var(--brand);
+}
+.link-arrow:hover svg,
+a:hover .link-arrow svg {
+  transform: translate(2px, -2px);
+}
+
+/* Small round arrow badge (cards) */
+.arrow-dot {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--brand-light);
+  color: var(--deep);
+  transition: transform 0.3s var(--ease-out), background-color 0.3s, color 0.3s;
+}
+.arrow-dot svg {
+  width: 16px;
+  height: 16px;
+}
+a:hover > .arrow-dot,
+a:hover .arrow-dot,
+.arrow-dot:hover {
+  background: var(--deep);
+  color: #fff;
+  transform: rotate(45deg);
+}
+.arrow-dot--outline {
+  background: #fff;
+  border: 1px solid var(--border);
+}
+
+/* Icon in a small rounded square (cards) */
+.icon-tile {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--brand-light);
+  color: var(--brand);
+}
+.icon-tile svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* ==========================================================
+   Section headings
+   - .eyebrow on its own: light-blue pill ("Our Process")
+   - inside a split heading it becomes a small uppercase kicker
+     with a dot ("• WHAT WE BUILD")
+   - .kicker: uppercase label with a line before it
+   ========================================================== */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 18px;
+  margin-bottom: 18px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--brand);
+  background: var(--brand-light);
+  border-radius: 24px;
+}
+
+.section-head:not(.section-head--center) .eyebrow,
+.eyebrow--kicker {
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted-2);
+}
+.section-head:not(.section-head--center) .eyebrow::before,
+.eyebrow--kicker::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--deep);
+}
+
+.theme-dark .eyebrow,
+.section--dark .eyebrow,
+.section--blue .eyebrow {
+  color: #fff;
+  background: rgb(255 255 255 / 0.12);
+}
+
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+.kicker::before {
+  content: "";
+  width: 40px;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.5;
+}
+
+.section-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 20px 80px;
+  align-items: end;
+  margin-bottom: 56px;
+}
+
+.section-head h2,
+.section-title {
+  font-size: clamp(28px, 2.9vw, 40px);
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -1.2px;
+  color: var(--text);
+}
+
+.section-head__intro {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--body);
+}
+.section-head__intro + .section-head__intro {
+  margin-top: 10px;
+}
+
+.section-head--center {
+  grid-template-columns: 1fr;
+  justify-items: center;
+  text-align: center;
+  gap: 12px;
+}
+.section-head--center .section-head__intro {
+  max-width: 640px;
+}
+
+@media (max-width: 1024px) {
+  .section-head {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin-bottom: 40px;
+  }
+  .section-head__intro {
+    font-size: 15px;
+  }
+}
+
+/* Highlighted words in headings */
+.hl {
+  color: var(--brand);
+}
+.theme-dark .hl,
+.section--dark .hl {
+  background: linear-gradient(90deg, #9cc1ff, var(--sky));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Italic serif words with the brand gradient (hero titles) */
+.serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding-right: 0.06em; /* the italic overhang is not clipped */
+}
+
+/* Soft light-blue hero background with a faded grid (metizsoft hero) */
+.grid-wash {
+  position: relative;
+  isolation: isolate;
+  background:
+    radial-gradient(60% 70% at 18% 30%, rgb(17 99 251 / 0.16), transparent 70%),
+    radial-gradient(50% 60% at 85% 10%, rgb(34 181 245 / 0.16), transparent 70%),
+    radial-gradient(70% 60% at 60% 100%, rgb(124 160 255 / 0.18), transparent 70%),
+    linear-gradient(180deg, #f3f7ff 0%, #f7faff 60%, #ffffff 100%);
+}
+.grid-wash::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgb(28 28 28 / 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(28 28 28 / 0.05) 1px, transparent 1px);
+  background-size: 56px 56px;
+  -webkit-mask-image: radial-gradient(90% 70% at 50% 40%, #000 30%, transparent 90%);
+  mask-image: radial-gradient(90% 70% at 50% 40%, #000 30%, transparent 90%);
+}
+
+/* Small grey chips ("iOS", "Flutter") */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  font-size: 11.5px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--muted);
+  background: var(--light);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+/* White bordered card with a lift on hover */
+.card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color 0.3s, box-shadow 0.3s, transform 0.4s var(--ease-out);
+}
+a.card:hover,
+.card--hover:hover {
+  border-color: var(--brand-100);
+  box-shadow: var(--shadow);
+  transform: translateY(-4px);
+}
+
+/* ==========================================================
+   Motion
+   Elements opt in with attributes (see components/motion/MotionProvider):
+     data-reveal[="up|fade|left|right|zoom"]  fades in when scrolled into view
+     data-stagger                             its children fade in one after another
+   .enter-seq children play once on page load (hero sections).
+   Everything here is skipped when the visitor prefers reduced motion.
+   ========================================================== */
+@property --angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: var(--reveal-from);
+  }
+}
+
+@keyframes char-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+}
+
+.split-word,
+.split-char {
+  display: inline-block;
+}
+
+.split-word {
+  white-space: nowrap;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  [data-reveal="fade"] {
+    --reveal-from: none;
+  }
+  [data-reveal="left"] {
+    --reveal-from: translate3d(-48px, 0, 0);
+  }
+  [data-reveal="right"] {
+    --reveal-from: translate3d(48px, 0, 0);
+  }
+  [data-reveal="zoom"] {
+    --reveal-from: scale(0.94);
+  }
+
+  html[data-motion] [data-reveal]:not([data-revealed]),
+  html[data-motion] [data-stagger]:not([data-revealed]) > * {
+    opacity: 0;
+  }
+
+  [data-reveal][data-revealed=""] {
+    animation: reveal 0.9s var(--ease-out) backwards;
+    animation-delay: var(--reveal-delay, 0ms);
+  }
+
+  [data-stagger][data-revealed=""] > * {
+    --reveal-from: translate3d(0, 24px, 0);
+    animation: reveal 0.75s var(--ease-out) backwards;
+    animation-delay: calc(var(--i, 11) * 70ms);
+  }
+
+  [data-stagger] > :nth-child(1) { --i: 0; }
+  [data-stagger] > :nth-child(2) { --i: 1; }
+  [data-stagger] > :nth-child(3) { --i: 2; }
+  [data-stagger] > :nth-child(4) { --i: 3; }
+  [data-stagger] > :nth-child(5) { --i: 4; }
+  [data-stagger] > :nth-child(6) { --i: 5; }
+  [data-stagger] > :nth-child(7) { --i: 6; }
+  [data-stagger] > :nth-child(8) { --i: 7; }
+  [data-stagger] > :nth-child(9) { --i: 8; }
+  [data-stagger] > :nth-child(10) { --i: 9; }
+  [data-stagger] > :nth-child(11) { --i: 10; }
+
+  .enter-seq > * {
+    animation: reveal 0.8s var(--ease-out) backwards;
+  }
+  .enter-seq > :nth-child(2) { animation-delay: 0.08s; }
+  .enter-seq > :nth-child(3) { animation-delay: 0.16s; }
+  .enter-seq > :nth-child(4) { animation-delay: 0.24s; }
+  .enter-seq > :nth-child(5) { animation-delay: 0.32s; }
+  .enter-seq > :nth-child(n + 6) { animation-delay: 0.4s; }
+
+  html[data-motion] [data-reveal]:not([data-revealed]) .split-char {
+    opacity: 0;
+  }
+  [data-reveal][data-revealed=""] .split-char,
+  .enter-seq .split-char {
+    animation: char-in 0.5s cubic-bezier(0.33, 1, 0.68, 1) backwards;
+    animation-delay: calc(var(--ci, 0) * 12ms + 0.05s);
+  }
+
+  .enter-media {
+    --reveal-from: translate3d(0, 32px, 0) scale(0.97);
+    animation: reveal 1s var(--ease-out) 0.2s backwards;
+  }
+
+  .page-enter {
+    animation: fade-in 0.45s ease-out;
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Rotating hero phrase (components/site/RotatingWords): all words share one grid
+   cell so the line never jumps; the active one slides up into view */
+.rotating__track {
+  display: inline-grid;
+  vertical-align: bottom;
+  overflow: hidden;
+}
+.rotating__word {
+  grid-area: 1 / 1;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.5s var(--ease-out), transform 0.6s var(--ease-out);
+}
+.rotating__word.is-active {
+  opacity: 1;
+  transform: none;
+}
+
+/* The header is fixed: pages start below it, heroes slide underneath it */
+.site > main {
+  padding-top: var(--header-h);
+}
+.hero-top {
+  margin-top: calc(-1 * var(--header-h));
+  padding-top: var(--header-h);
+}

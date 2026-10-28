@@ -1,0 +1,150 @@
+/* Sticky row of category pills */
+.jump {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 20;
+  padding: 14px 0;
+  background: rgb(255 255 255 / 0.92);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+.jump ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.jump a {
+  display: block;
+  padding: 9px 18px;
+  font-size: 14.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #000;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.jump a:hover {
+  color: var(--primary);
+}
+
+.jump a[aria-current="true"] {
+  background: var(--primary);
+  color: #fff;
+}
+
+.head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.85fr);
+  gap: 16px 72px;
+  align-items: end;
+  margin-bottom: 36px;
+}
+
+.head > .eyebrow,
+.head > :global(.eyebrow) {
+  grid-column: 1;
+  margin-bottom: -10px;
+}
+
+.name {
+  grid-column: 1;
+  font-size: clamp(28px, 3vw, 40px);
+}
+
+.description {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  align-self: end;
+  font-size: 16.5px;
+  color: var(--muted);
+}
+
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.grid li {
+  display: flex;
+}
+
+.card {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 26px;
+  border-radius: var(--radius);
+  background: #fff;
+  border: 1px solid var(--border);
+  color: #000;
+  text-decoration: none;
+  transition: background-color 0.6s, color 0.4s, border-radius 0.6s;
+}
+
+.logoTile {
+  display: grid;
+  place-items: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
+  background: #fff;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.text {
+  margin-top: 8px;
+  font-size: 15px;
+  color: var(--muted);
+  transition: color 0.4s;
+}
+
+.more {
+  position: absolute;
+  top: 26px;
+  right: 26px;
+}
+
+@media (hover: hover) {
+  .card:hover {
+    background: var(--primary);
+    color: #fff;
+  }
+  .card:hover .text {
+    color: rgb(255 255 255 / 0.86);
+  }
+  .card:hover .more {
+    background: #fff;
+    color: #000;
+    transform: rotate(45deg);
+  }
+}
+
+@media (max-width: 900px) {
+  .head {
+    grid-template-columns: 1fr;
+  }
+  .description {
+    grid-column: 1;
+    grid-row: auto;
+  }
+}

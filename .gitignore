@@ -1,0 +1,19 @@
+# Dependencies and builds
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Secrets
+.env
+.env*.local
+!.env.example
+!.env.local.example
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local Claude settings
+.claude/settings.local.json

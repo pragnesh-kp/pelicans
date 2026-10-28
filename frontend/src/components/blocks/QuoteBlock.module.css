@@ -1,0 +1,10 @@
+.quote {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: var(--font-heading);
+  font-size: clamp(24px, 3vw, 34px);
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--primary-text);
+}

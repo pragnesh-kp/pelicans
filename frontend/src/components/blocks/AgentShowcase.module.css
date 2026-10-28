@@ -1,0 +1,213 @@
+/* AI agent section: 4-step loop, agent cards, platform chips */
+.subheading {
+  margin: 0 0 22px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--primary-text);
+  text-align: center;
+}
+
+/* ---------- How it works ---------- */
+.loop {
+  margin-bottom: 64px;
+}
+
+.steps {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+}
+
+/* dashed line joining the step icons */
+.steps::before {
+  content: "";
+  position: absolute;
+  top: 28px;
+  left: 12.5%;
+  right: 12.5%;
+  border-top: 1.5px dashed var(--primary-100);
+}
+
+.step {
+  position: relative;
+  text-align: center;
+  padding: 0 8px;
+}
+
+.stepIcon {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  margin: 0 auto 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  box-shadow: 0 0 0 8px var(--primary-50), 0 10px 30px rgb(17 99 251 / 0.35);
+}
+
+.stepCount {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.stepTitle {
+  margin: 4px 0 8px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.stepText {
+  margin: 0 auto;
+  max-width: 260px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+/* ---------- Agent cards ---------- */
+.grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 28px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.card:hover {
+  border-color: var(--primary);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow);
+}
+
+.cardIcon {
+  width: 52px;
+  height: 52px;
+  margin-bottom: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  background: var(--primary-50);
+  border: 1px solid var(--primary-100);
+  color: var(--primary-text);
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.cardText {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+/* ---------- Platforms ---------- */
+.platforms {
+  margin-top: 48px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 14px 18px;
+}
+
+.platformsLabel {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.logos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* colourful logos on white chips, like the rest of the site */
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px 8px 12px;
+  border-radius: var(--radius-pill);
+  background: #fff;
+  color: #111;
+  font-size: 14.5px;
+  font-weight: 600;
+  transition: transform 0.25s var(--ease-out, ease-out);
+}
+
+.logo:hover {
+  transform: scale(1.06);
+}
+
+.logo img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+
+/* ---------- Smaller screens ---------- */
+@media (max-width: 1000px) {
+  .steps {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 36px;
+  }
+
+  .steps::before {
+    display: none;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .loop {
+    margin-bottom: 48px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    padding: 24px;
+  }
+}
+
+@media (max-width: 420px) {
+  .steps {
+    grid-template-columns: 1fr;
+  }
+}

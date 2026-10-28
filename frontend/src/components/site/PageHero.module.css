@@ -1,0 +1,63 @@
+.hero {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--bg);
+  padding: calc(120px + var(--header-h)) 0 96px;
+  border-bottom: 1px solid var(--border);
+  /* faint grid */
+  background-image:
+    linear-gradient(rgb(128 128 128 / 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(128 128 128 / 0.09) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+.glow {
+  position: absolute;
+  inset: -40% -15% auto auto;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(17 99 251 / 0.35), transparent 60%);
+  pointer-events: none;
+}
+
+.inner {
+  position: relative;
+}
+
+.title {
+  font-size: clamp(36px, 5vw, 64px);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.08;
+  max-width: 960px;
+}
+
+.intro {
+  margin-top: 24px;
+  max-width: 680px;
+  font-size: 17.5px;
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: calc(72px + var(--header-h)) 0 56px;
+  }
+  .intro {
+    font-size: 16px;
+  }
+}
+
+/* ---------- Motion ---------- */
+@keyframes drift {
+  50% {
+    transform: translate(-80px, 60px) scale(1.1);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .glow {
+    animation: drift 16s ease-in-out infinite;
+  }
+}

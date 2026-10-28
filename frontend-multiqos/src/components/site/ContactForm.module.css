@@ -1,0 +1,145 @@
+.form {
+  display: grid;
+  gap: 20px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+
+.field label {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.field label span {
+  color: var(--primary-text);
+}
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  font: inherit;
+  font-size: 16px; /* 16px stops iOS zooming into the field */
+  color: var(--text);
+  padding: 13px 20px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-pill);
+  background: #fff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.field textarea {
+  border-radius: var(--radius-sm);
+  resize: vertical;
+  min-height: 140px;
+}
+
+.field input:focus,
+.field select:focus,
+.field textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgb(17 99 251 / 0.15);
+}
+
+.field [aria-invalid="true"] {
+  border-color: #d92d20;
+}
+
+.field [aria-invalid="true"]:focus {
+  box-shadow: 0 0 0 3px rgb(217 45 32 / 0.18);
+}
+
+.fieldError {
+  font-size: 14px;
+  color: #c4320a;
+}
+
+.formError {
+  margin: 0;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  background: rgb(217 45 32 / 0.14);
+  border: 1px solid rgb(217 45 32 / 0.4);
+  color: #c4320a;
+  font-size: 15px;
+}
+
+.trap {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.note {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+.footer :global(.btn):hover .spin {
+  transform: none;
+}
+
+@keyframes spin {
+  to {
+    rotate: 360deg;
+  }
+}
+
+.success {
+  text-align: center;
+  padding: 48px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.success svg {
+  color: var(--primary);
+}
+
+.success h3 {
+  font-size: 26px;
+}
+
+.success p {
+  color: var(--muted);
+  max-width: 420px;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 640px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+
+  .footer :global(.btn) {
+    width: 100%;
+  }
+}

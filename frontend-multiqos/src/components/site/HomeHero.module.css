@@ -1,0 +1,121 @@
+.hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: min(calc(100svh - var(--header-h)), 820px);
+  padding: 80px 0;
+  overflow: hidden;
+  background: var(--navy);
+  color: #fff;
+}
+
+.inner {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 56px;
+}
+
+.badge {
+  display: inline-flex;
+  max-width: 100%;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 24px;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: var(--radius-pill);
+  border: 1px solid rgb(255 255 255 / 0.2);
+  background: rgb(255 255 255 / 0.06);
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--primary);
+  box-shadow: 0 0 0 4px rgb(17 99 251 / 0.3);
+}
+
+.title {
+  font-size: clamp(32px, 4.4vw, 64px);
+  line-height: 1.22;
+  letter-spacing: -1px;
+}
+
+.highlight {
+  color: #4d8dff;
+}
+
+.divider {
+  width: 1px;
+  align-self: stretch;
+  min-height: 280px;
+  background: linear-gradient(180deg, transparent, rgb(255 255 255 / 0.5) 20%, rgb(255 255 255 / 0.5) 80%, transparent);
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
+
+.intro {
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 1.6;
+  color: rgb(255 255 255 / 0.88);
+  max-width: 520px;
+}
+
+.stats {
+  display: flex;
+  gap: 48px;
+  margin: 12px 0 0;
+  padding-top: 28px;
+  border-top: 1px solid rgb(255 255 255 / 0.16);
+}
+
+.stats dd {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.stats dt {
+  margin-top: 4px;
+  font-size: 14px;
+  color: rgb(255 255 255 / 0.7);
+}
+
+@media (max-width: 1024px) {
+  .inner {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+  }
+  .divider {
+    min-height: 0;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, rgb(255 255 255 / 0.5), transparent);
+  }
+}
+
+@media (max-width: 640px) {
+  .hero {
+    padding: 56px 0;
+  }
+  .intro {
+    font-size: 16.5px;
+  }
+  .stats {
+    gap: 32px;
+  }
+  .stats dd {
+    font-size: 32px;
+  }
+}

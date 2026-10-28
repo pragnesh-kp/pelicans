@@ -1,0 +1,262 @@
+/* Testimonial slider (round photo + pink quote card) */
+.slider {
+  --card-bg: #fde4e4; /* soft blush pink */
+  --card-text: #111;
+  --dot-active: #e11d48;
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr) 56px;
+  grid-template-areas:
+    "prev slides next"
+    ".    dots   .";
+  align-items: center;
+  column-gap: 40px;
+  row-gap: 28px;
+  touch-action: pan-y; /* vertical scrolling stays normal; horizontal = swipe */
+}
+
+.slides {
+  grid-area: slides;
+  display: grid;
+}
+
+/* Every slide sits in the same cell; only the active one is visible */
+.slide {
+  grid-area: 1 / 1;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  align-items: center;
+  gap: 56px;
+  opacity: 0;
+  transform: translateX(24px);
+  transition: opacity 0.45s ease, transform 0.55s var(--ease-out, ease-out);
+  pointer-events: none;
+}
+
+.active {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+
+/* ---------- Photo ---------- */
+.photo {
+  position: relative;
+  width: 320px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 1.5px solid var(--text);
+  background: var(--surface, #191918);
+}
+
+.photoImg {
+  object-fit: cover;
+  object-position: top center;
+}
+
+.initial {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 96px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+/* ---------- Card ---------- */
+.card {
+  background: var(--card-bg);
+  color: var(--card-text);
+  border-radius: 48px;
+  padding: 72px 72px 64px;
+  min-height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.quote {
+  margin: 0 0 40px;
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.name {
+  display: block;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+.role {
+  display: block;
+  margin-top: 6px;
+  font-size: 17px;
+  color: #333;
+}
+
+.flag {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  vertical-align: -2px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* ---------- Arrows ---------- */
+.arrow {
+  width: 56px;
+  height: 56px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1.5px solid var(--text);
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, opacity 0.2s, transform 0.2s;
+}
+
+.prev {
+  grid-area: prev;
+}
+
+.next {
+  grid-area: next;
+}
+
+.arrow:hover:not(:disabled) {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.arrow:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+/* ---------- Dots ---------- */
+.dots {
+  grid-area: dots;
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+}
+
+.dot {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* visible dot is small; the button around it is a comfortable tap target */
+.dot::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--muted);
+  opacity: 0.6;
+  transition: background-color 0.2s, opacity 0.2s, transform 0.2s;
+}
+
+.dot:hover::before {
+  opacity: 1;
+}
+
+.dotActive::before {
+  background: var(--dot-active);
+  opacity: 1;
+  transform: scale(1.15);
+}
+
+/* ---------- Smaller screens ---------- */
+@media (max-width: 1100px) {
+  .slide {
+    grid-template-columns: 240px minmax(0, 1fr);
+    gap: 40px;
+  }
+
+  .photo {
+    width: 240px;
+  }
+
+  .card {
+    padding: 56px 48px;
+    min-height: 360px;
+  }
+
+  .quote {
+    font-size: 20px;
+  }
+}
+
+/* Phones / tablets: photo on top, card below, arrows + dots underneath */
+@media (max-width: 900px) {
+  .slider {
+    grid-template-columns: 48px minmax(0, 1fr) 48px;
+    grid-template-areas:
+      "slides slides slides"
+      "prev   dots   next";
+    column-gap: 12px;
+    row-gap: 20px;
+  }
+
+  .slide {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 24px;
+  }
+
+  .photo {
+    width: 180px;
+  }
+
+  .card {
+    width: 100%;
+    border-radius: 32px;
+    padding: 36px 26px;
+    min-height: 0;
+    text-align: center;
+  }
+
+  .quote {
+    font-size: 17px;
+    margin-bottom: 24px;
+  }
+
+  .name {
+    font-size: 21px;
+  }
+
+  .role {
+    font-size: 15px;
+  }
+
+  .arrow {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .slide {
+    transition: none;
+    transform: none;
+  }
+}

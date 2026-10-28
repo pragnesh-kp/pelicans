@@ -1,0 +1,17 @@
+.quote {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 48px 56px;
+  border-radius: 40px;
+  background: var(--tint-1);
+  font-size: clamp(20px, 2.2vw, 28px);
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .quote {
+    padding: 28px 22px;
+  }
+}

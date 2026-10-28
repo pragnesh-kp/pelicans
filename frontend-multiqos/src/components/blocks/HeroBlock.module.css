@@ -1,0 +1,133 @@
+.hero {
+  padding: 64px 0 24px;
+  background: #fff;
+}
+
+.top {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 0.8fr);
+  gap: 32px 64px;
+  align-items: end;
+}
+
+.title {
+  font-size: clamp(36px, 4.2vw, 60px);
+  line-height: 1.18;
+  letter-spacing: -1.5px;
+}
+
+.text {
+  margin-top: 20px;
+  max-width: 760px;
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--muted);
+}
+
+.text + .text {
+  margin-top: 12px;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
+
+.side > div {
+  margin-top: 0;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+  margin: 0;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  gap: 4px;
+  padding: 16px 18px;
+  border-radius: var(--radius-sm);
+  background: var(--grey);
+}
+
+.statValue {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: var(--primary);
+}
+
+.statLabel {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.photo {
+  position: relative;
+  margin-top: 48px;
+  aspect-ratio: 1280 / 460;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--grey);
+}
+
+.photoImg {
+  object-fit: cover;
+}
+
+/* Hire pages: copy on the left, form card on the right */
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.95fr);
+  gap: 48px;
+  align-items: start;
+}
+
+.stack {
+  grid-template-columns: 1fr;
+  align-items: start;
+}
+
+.formCard {
+  padding: 32px;
+  border-radius: var(--radius);
+  background: var(--grey);
+}
+
+.formTitle {
+  font-size: 24px;
+}
+
+.formText {
+  margin: 6px 0 22px;
+  font-size: 15px;
+  color: var(--muted);
+}
+
+@media (max-width: 1024px) {
+  .top,
+  .split {
+    grid-template-columns: 1fr;
+  }
+  .hero {
+    padding-top: 40px;
+  }
+  .photo {
+    margin-top: 32px;
+    aspect-ratio: 16 / 9;
+  }
+}
+
+@media (max-width: 640px) {
+  .formCard {
+    padding: 20px;
+  }
+}
